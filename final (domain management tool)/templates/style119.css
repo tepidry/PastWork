@@ -1,0 +1,168 @@
+body
+{
+background-color: rgb(0,0,0);
+color: rgb(106,146,29);
+font-family: Times New Roman, serif;
+border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px;
+border-left-style: none; border-right-style: none; border-top-style: none; border-bottom-style: none;
+border-color: rgb(106,146,29);
+}
+
+#content
+{
+font-size: 118%;
+background-color: rgb(99,218,128);
+color: rgb(255,255,255);
+border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px;
+border-left-style: solid; border-right-style: solid; border-top-style: solid; border-bottom-style: solid;
+padding: 23px 23px 23px 23px;
+border-color: rgb(0,0,0);
+text-align: left;
+}
+
+#menu
+{
+background-color: rgb(0,0,0);
+color: rgb(106,146,29);
+font-family: Trebuchet MS, sans-serif;
+font-style: normal;
+border-color: rgb(106,146,29);
+}
+
+a.menuitem
+{
+font-size: 134%;
+background-color: rgb(0,0,0);
+color: rgb(158,208,159);
+font-variant: normal;
+text-transform: none;
+font-weight: bold;
+margin-left: 9px; margin-right: 9px; margin-top: 9px; margin-bottom: 9px;
+border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px;
+border-left-style: none; border-right-style: none; border-top-style: none; border-bottom-style: none;
+border-color: rgb(96,219,63);
+text-align: right;
+}
+
+#logo, #logo a
+{
+font-size: 171%;
+background-color: rgb(0,0,0);
+color: rgb(158,208,159);
+font-family: Times New Roman, serif;
+font-style: italic;
+font-variant: normal;
+text-transform: none;
+font-weight: bold;
+text-indent: 16;
+padding: 10px 10px 10px 10px;
+border-color: rgb(156,187,132);
+text-align: right;
+}
+
+#trail, #trail a
+{
+font-size: 96%;
+background-color: rgb(255,255,255);
+color: rgb(158,208,159);
+font-style: normal;
+font-variant: small-caps;
+text-transform: none;
+font-weight: normal;
+border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px;
+border-left-style: solid; border-right-style: solid; border-top-style: solid; border-bottom-style: solid;
+padding: 12px 0px 12px 0px;
+border-color: rgb(156,187,132);
+text-align: right;
+}
+
+#content a
+{
+color: rgb(0,0,0);
+text-decoration: none;
+}
+
+#content a:hover, #content a:active
+{
+background-color: rgb(0,0,0);
+color: rgb(99,218,128);
+}
+
+h1, h2, h3, h4, h5, h6
+{
+font-family: Trebuchet MS, sans-serif;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+font-weight: normal;
+}
+
+h1
+{
+font-size: 133%;
+}
+
+h2
+{
+font-size: 124%;
+}
+
+h3
+{
+font-size: 115%;
+}
+
+h4
+{
+font-size: 106%;
+}
+
+h5
+{
+font-size: 97%;
+}
+
+h6
+{
+font-size: 88%;
+}
+
+#menu a
+{
+text-decoration: none;
+}
+
+.menuitem:hover
+{
+background-color: rgb(158,208,159);
+color: rgb(0,0,0);
+}
+
+#trail a
+{
+text-decoration: none;
+}
+
+#logo a
+{
+text-decoration: none;
+}
+
+#trail a:hover
+{
+}
+
+/* layout */
+#menu		{width: 28%; position: relative; top: 0; left: 0; float: left; text-align: center;}
+.menuitem		{width: auto;}
+#content		{margin-left: 28%; width: auto}
+.menuitem		{display: block;}
+
+
+@media print
+{
+#menu       {display: none;}
+#content    {padding: 0px;}
+#content a  {text-decoration: underline;}
+}
+

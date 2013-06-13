@@ -1,0 +1,164 @@
+body
+{
+background-color: rgb(255,255,255);
+color: rgb(100,48,55);
+font-family: Georgia, serif;
+border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px;
+border-left-style: solid; border-right-style: solid; border-top-style: none; border-bottom-style: none;
+border-color: rgb(100,48,55);
+}
+
+#content
+{
+font-size: 91%;
+background-color: rgb(255,255,255);
+color: rgb(0,0,0);
+border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px;
+border-left-style: none; border-right-style: none; border-top-style: none; border-bottom-style: none;
+padding: 11px 11px 11px 11px;
+border-color: rgb(0,0,0);
+text-align: justify;
+}
+
+#menu
+{
+background-color: rgb(0,0,0);
+color: rgb(197,52,72);
+font-family: Georgia, serif;
+font-style: normal;
+border-color: rgb(204,131,141);
+}
+
+a.menuitem
+{
+font-size: 134%;
+background-color: rgb(100,48,55);
+color: rgb(204,131,141);
+font-variant: normal;
+text-transform: none;
+font-weight: normal;
+margin-left: 8px; margin-right: 8px; margin-top: 8px; margin-bottom: 8px;
+border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px;
+border-left-style: none; border-right-style: none; border-top-style: none; border-bottom-style: none;
+border-color: rgb(100,48,55);
+text-align: right;
+}
+
+#logo, #logo a
+{
+font-size: 200%;
+background-color: rgb(0,0,0);
+color: rgb(197,52,72);
+font-family: Georgia, serif;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+font-weight: normal;
+padding: 9px 9px 9px 9px;
+border-color: rgb(0,0,0);
+text-align: right;
+}
+
+#trail, #trail a
+{
+font-size: 111%;
+background-color: rgb(0,0,0);
+color: rgb(204,131,141);
+font-style: italic;
+font-variant: normal;
+text-transform: none;
+font-weight: normal;
+border-left-width: 13px; border-right-width: 13px; border-top-width: 13px; border-bottom-width: 13px;
+border-left-style: solid; border-right-style: solid; border-top-style: solid; border-bottom-style: solid;
+padding: 20px 20px 20px 20px;
+border-color: rgb(175,208,203);
+text-align: left;
+}
+
+#content a
+{
+color: rgb(197,52,72);
+text-decoration: underline;
+}
+
+#content a:hover, #content a:active
+{
+background-color: rgb(197,52,72);
+color: rgb(255,255,255);
+}
+
+h1, h2, h3, h4, h5, h6
+{
+font-family: Georgia, serif;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+font-weight: bold;
+}
+
+h1
+{
+font-size: 164%;
+}
+
+h2
+{
+font-size: 151%;
+}
+
+h3
+{
+font-size: 138%;
+}
+
+h4
+{
+font-size: 125%;
+}
+
+h5
+{
+font-size: 112%;
+}
+
+h6
+{
+font-size: 99%;
+}
+
+#menu a
+{
+text-decoration: none;
+}
+
+.menuitem:hover
+{
+background-color: rgb(204,131,141);
+color: rgb(100,48,55);
+}
+
+#trail a
+{
+text-decoration: underline;
+}
+
+#logo a
+{
+text-decoration: none;
+}
+
+#trail a:hover
+{
+}
+
+/* layout */
+.menuitem		{display: inline;}
+
+
+@media print
+{
+#menu       {display: none;}
+#content    {padding: 0px;}
+#content a  {text-decoration: underline;}
+}
+

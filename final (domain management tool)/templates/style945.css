@@ -1,0 +1,164 @@
+body
+{
+background-color: rgb(51,65,227);
+color: rgb(189,194,251);
+font-family: Georgia, serif;
+border-left-width: 0px; border-right-width: 5px; border-top-width: 5px; border-bottom-width: 0px;
+border-left-style: none; border-right-style: dashed; border-top-style: groove; border-bottom-style: none;
+border-color: rgb(86,95,206);
+}
+
+#content
+{
+font-size: 109%;
+background-color: rgb(45,52,132);
+color: rgb(115,124,230);
+border-left-width: 1px; border-right-width: 1px; border-top-width: 0px; border-bottom-width: 0px;
+border-left-style: solid; border-right-style: solid; border-top-style: none; border-bottom-style: none;
+padding: 43px 24px 43px 24px;
+border-color: rgb(0,0,0);
+text-align: left;
+}
+
+#menu
+{
+background-color: rgb(255,255,255);
+color: rgb(116,121,178);
+font-family: Trebuchet MS, sans-serif;
+font-style: normal;
+border-color: rgb(86,95,206);
+}
+
+a.menuitem
+{
+font-size: 143%;
+background-color: rgb(45,52,132);
+color: rgb(115,124,230);
+font-variant: normal;
+text-transform: none;
+font-weight: normal;
+margin-left: 14px; margin-right: 14px; margin-top: 14px; margin-bottom: 14px;
+border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px;
+border-left-style: none; border-right-style: none; border-top-style: none; border-bottom-style: none;
+border-color: rgb(189,194,251);
+text-align: right;
+}
+
+#logo, #logo a
+{
+font-size: 150%;
+background-color: rgb(255,255,255);
+color: rgb(86,95,206);
+font-family: Trebuchet MS, sans-serif;
+font-style: normal;
+font-variant: normal;
+text-transform: capitalize;
+font-weight: normal;
+padding: 13px 13px 13px 13px;
+border-color: rgb(189,194,251);
+text-align: center;
+}
+
+#trail, #trail a
+{
+font-size: 128%;
+background-color: rgb(51,65,227);
+color: rgb(189,194,251);
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+font-weight: bold;
+border-left-width: 0px; border-right-width: 0px; border-top-width: 1px; border-bottom-width: 1px;
+border-left-style: none; border-right-style: none; border-top-style: ridge; border-bottom-style: dashed;
+padding: 0px 0px 0px 0px;
+border-color: rgb(45,52,132);
+text-align: right;
+}
+
+#content a
+{
+color: rgb(255,255,255);
+text-decoration: underline;
+}
+
+#content a:hover, #content a:active
+{
+background-color: rgb(255,255,255);
+color: rgb(45,52,132);
+}
+
+h1, h2, h3, h4, h5, h6
+{
+font-family: Trebuchet MS, sans-serif;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+font-weight: normal;
+}
+
+h1
+{
+font-size: 132%;
+}
+
+h2
+{
+font-size: 124%;
+}
+
+h3
+{
+font-size: 116%;
+}
+
+h4
+{
+font-size: 108%;
+}
+
+h5
+{
+font-size: 100%;
+}
+
+h6
+{
+font-size: 92%;
+}
+
+#menu a
+{
+text-decoration: none;
+}
+
+.menuitem:hover
+{
+background-color: rgb(115,124,230);
+color: rgb(45,52,132);
+}
+
+#trail a
+{
+text-decoration: underline;
+}
+
+#logo a
+{
+text-decoration: none;
+}
+
+#trail a:hover
+{
+}
+
+/* layout */
+.menuitem		{display: inline;}
+
+
+@media print
+{
+#menu       {display: none;}
+#content    {padding: 0px;}
+#content a  {text-decoration: underline;}
+}
+

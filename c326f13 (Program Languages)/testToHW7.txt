@@ -1,0 +1,84 @@
+Part 1.
+?- rock_paper_scissors(1,paper,rock).
+true 
+
+?- rock_paper_scissors(1,rock,paper).
+false.
+
+?- rock_paper_scissors(3,paper,rock).
+false.
+
+?- rock_paper_scissors(1,paper,scissors).
+false.
+
+?- rock_paper_scissors(2,paper,scissors).
+false.
+
+?- rock_paper_scissors(2,paper,rock).
+true 
+
+?- rock_paper_scissors(2,scissors,rock).
+false.
+
+?- rock_paper_scissors(2,scissors,paper).
+true 
+
+?- rock_paper_scissors(1,scissors,rock).
+false.
+
+?- rock_paper_scissors(1,scissors,paper).
+true 
+
+Part 2. 
+(a)
+?- albums_by(Z,sublime).
+Z = forty_to_freedom.
+
+?- albums_by(Z,nirvana).
+Z = inutero.
+
+?- albums_by(Z,ben_harper).
+Z = road_to_freedom.
+
+(b)
+?- groupmember_for_album(forty_to_freedom, Z).
+Z = brad_knowell.
+
+?- groupmember_for_album(road_to_freedom, Z).
+Z = ben.
+
+?- groupmember_for_album(inutero, Z).
+Z = kurt.
+
+(c)
+?- track_title_for_album(forty_to_freedom, Z).
+Z = sangria.
+
+?- track_title_for_album(inutero, Z).
+Z = bleach.
+
+?- track_title_for_album(road_to_freedom, Z).
+Z = number_Three.
+
+(d)
+?- track_title_for_artist(ben, Z).
+Z = number_Three.
+
+?- track_title_for_artist(kurt, Z).
+Z = bleach.
+
+?- track_title_for_artist(brad_knowell, Z).
+Z = sangria.
+
+(d)
+?- albums_released_by_Label_in_year(X, Y, 2001).
+X = forty_to_freedom,
+Y = skunk_records.
+
+?- albums_released_by_Label_in_year(X, Y, 2002).
+X = inutero,
+Y = columbia.
+
+?- albums_released_by_Label_in_year(X, Y, 2003).
+X = road_to_freedom,
+Y = virgin.

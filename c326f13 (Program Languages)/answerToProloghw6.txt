@@ -1,0 +1,79 @@
+1.(a)
+What query will nd all cities in Washington?
+?- city_in_state(X, washington).
+X = spokane ;
+X = seattle.
+
+(b)
+What query will nd all countries in which Oregon is located?
+?- state_in_country(oregon,X).
+X = usa.
+
+(c)
+What query will nd all states in the USA?
+?- state_in_country(X,usa).
+X = idaho ;
+X = washington ;
+X = oregon.
+
+(d)
+What query will nd all cities in the USA?
+?- city_in_state(X,Y), 
+state_in_country(Y, usa).
+X = boise,
+Y = idaho ;
+X = cda,
+Y = idaho ;
+X = spokane,
+Y = washington ;
+X = seattle,
+Y = washington ;
+X = portland,
+Y = oregon ;
+X = eugene,
+Y = oregon.
+
+2.
+city(eugene).
+city(boise).
+city(cda).
+city(los_angeles).
+city(san_diego).
+state(idaho).
+state(california).
+
+3.
+?- city_in_country(spokane, usa).
+true.
+
+?- city_in_country(X, usa).
+X = los_angeles ;
+X = san_diego ;
+X = boise ;
+X = cda ;
+X = spokane ;
+X = seattle ;
+X = portland ;
+X = eugene.
+
+4.
+capital_of(olypia, washington).
+capital_of(boise, washington).
+capital_of(salem, oregon).
+capital_of(sacremento, california).
+
+5.
+?- city_in_state(olympia, washington).
+true.
+
+?- city_in_state(salem, oregon).
+true.
+
+?- city_in_state(sacremento, california).
+true.
+
+?- city(sacremento).
+true.
+
+?- city(olympia).
+true.

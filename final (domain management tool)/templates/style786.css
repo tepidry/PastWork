@@ -1,0 +1,167 @@
+body
+{
+background-color: rgb(18,98,80);
+color: rgb(148,188,152);
+font-family: Times New Roman, serif;
+border-left-width: 8px; border-right-width: 8px; border-top-width: 0px; border-bottom-width: 0px;
+border-left-style: solid; border-right-style: solid; border-top-style: none; border-bottom-style: none;
+border-color: rgb(255,255,255);
+}
+
+#content
+{
+font-size: 95%;
+background-color: rgb(18,98,80);
+color: rgb(66,217,150);
+border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px;
+border-left-style: none; border-right-style: none; border-top-style: none; border-bottom-style: none;
+padding: 22px 22px 22px 22px;
+border-color: rgb(0,0,0);
+text-align: left;
+}
+
+#menu
+{
+background-color: rgb(255,255,255);
+color: rgb(148,188,152);
+font-family: Times New Roman, serif;
+font-style: normal;
+border-color: rgb(70,167,58);
+}
+
+a.menuitem
+{
+font-size: 155%;
+background-color: rgb(18,98,80);
+color: rgb(107,171,128);
+font-variant: normal;
+text-transform: none;
+font-weight: normal;
+margin-left: 16px; margin-right: 16px; margin-top: 16px; margin-bottom: 16px;
+border-left-width: 4px; border-right-width: 4px; border-top-width: 4px; border-bottom-width: 4px;
+border-left-style: ridge; border-right-style: ridge; border-top-style: ridge; border-bottom-style: ridge;
+border-color: rgb(0,0,0);
+text-align: right;
+}
+
+#logo, #logo a
+{
+font-size: 193%;
+background-color: rgb(18,98,80);
+color: rgb(107,171,128);
+font-family: Times New Roman, serif;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+font-weight: normal;
+padding: 0px 0px 0px 0px;
+border-color: rgb(18,98,80);
+text-align: left;
+}
+
+#trail, #trail a
+{
+font-size: 100%;
+background-color: rgb(255,255,255);
+color: rgb(70,167,58);
+font-style: italic;
+font-variant: small-caps;
+text-transform: none;
+font-weight: normal;
+border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px;
+border-left-style: inset; border-right-style: inset; border-top-style: inset; border-bottom-style: inset;
+padding: 0px 0px 0px 0px;
+border-color: rgb(18,98,80);
+text-align: center;
+}
+
+#content a
+{
+color: rgb(107,171,128);
+text-decoration: underline;
+}
+
+#content a:hover, #content a:active
+{
+background-color: rgb(107,171,128);
+color: rgb(18,98,80);
+}
+
+h1, h2, h3, h4, h5, h6
+{
+font-family: Times New Roman, serif;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+font-weight: bold;
+}
+
+h1
+{
+font-size: 163%;
+}
+
+h2
+{
+font-size: 148%;
+}
+
+h3
+{
+font-size: 133%;
+}
+
+h4
+{
+font-size: 118%;
+}
+
+h5
+{
+font-size: 103%;
+}
+
+h6
+{
+font-size: 88%;
+}
+
+#menu a
+{
+text-decoration: none;
+}
+
+.menuitem:hover
+{
+background-color: rgb(107,171,128);
+color: rgb(18,98,80);
+}
+
+#trail a
+{
+text-decoration: underline;
+}
+
+#logo a
+{
+text-decoration: none;
+}
+
+#trail a:hover
+{
+}
+
+/* layout */
+#menu		{width: 29%; position: relative; top: 0; left: 0; float: left; text-align: center;}
+.menuitem		{width: auto;}
+#content		{margin-left: 29%; width: auto}
+.menuitem		{display: block;}
+
+
+@media print
+{
+#menu       {display: none;}
+#content    {padding: 0px;}
+#content a  {text-decoration: underline;}
+}
+

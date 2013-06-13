@@ -1,0 +1,164 @@
+body
+{
+background-color: rgb(46,48,166);
+color: rgb(191,192,246);
+font-family: Tahoma, sans-serif;
+border-left-width: 14px; border-right-width: 14px; border-top-width: 14px; border-bottom-width: 14px;
+border-left-style: groove; border-right-style: groove; border-top-style: groove; border-bottom-style: groove;
+border-color: rgb(191,192,246);
+}
+
+#content
+{
+font-size: 111%;
+background-color: rgb(255,255,255);
+color: rgb(46,48,166);
+border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px;
+border-left-style: none; border-right-style: none; border-top-style: none; border-bottom-style: none;
+padding: 7px 7px 7px 7px;
+border-color: rgb(0,0,0);
+text-align: left;
+}
+
+#menu
+{
+background-color: rgb(197,198,220);
+color: rgb(13,14,73);
+font-family: Tahoma, sans-serif;
+font-style: normal;
+border-color: rgb(46,48,166);
+}
+
+a.menuitem
+{
+font-size: 123%;
+background-color: rgb(13,14,73);
+color: rgb(110,112,199);
+font-variant: normal;
+text-transform: none;
+font-weight: normal;
+margin-left: 6px; margin-right: 6px; margin-top: 6px; margin-bottom: 6px;
+border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px;
+border-left-style: solid; border-right-style: solid; border-top-style: solid; border-bottom-style: solid;
+border-color: rgb(0,0,0);
+text-align: left;
+}
+
+#logo, #logo a
+{
+font-size: 172%;
+background-color: rgb(13,14,73);
+color: rgb(191,192,246);
+font-family: Times New Roman, serif;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+font-weight: normal;
+padding: 17px 17px 17px 17px;
+border-color: rgb(46,48,166);
+text-align: left;
+}
+
+#trail, #trail a
+{
+font-size: 115%;
+background-color: rgb(255,255,255);
+color: rgb(46,48,166);
+font-style: normal;
+font-variant: normal;
+text-transform: uppercase;
+font-weight: bold;
+border-left-width: 14px; border-right-width: 14px; border-top-width: 14px; border-bottom-width: 14px;
+border-left-style: groove; border-right-style: groove; border-top-style: groove; border-bottom-style: groove;
+padding: 9px 9px 9px 9px;
+border-color: rgb(156,157,222);
+text-align: left;
+}
+
+#content a
+{
+color: rgb(13,14,73);
+text-decoration: underline;
+}
+
+#content a:hover, #content a:active
+{
+background-color: rgb(13,14,73);
+color: rgb(255,255,255);
+}
+
+h1, h2, h3, h4, h5, h6
+{
+font-family: Times New Roman, serif;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+font-weight: normal;
+}
+
+h1
+{
+font-size: 155%;
+}
+
+h2
+{
+font-size: 145%;
+}
+
+h3
+{
+font-size: 135%;
+}
+
+h4
+{
+font-size: 125%;
+}
+
+h5
+{
+font-size: 115%;
+}
+
+h6
+{
+font-size: 105%;
+}
+
+#menu a
+{
+text-decoration: none;
+}
+
+.menuitem:hover
+{
+background-color: rgb(110,112,199);
+color: rgb(13,14,73);
+}
+
+#trail a
+{
+text-decoration: none;
+}
+
+#logo a
+{
+text-decoration: none;
+}
+
+#trail a:hover
+{
+}
+
+/* layout */
+.menuitem		{display: inline;}
+
+
+@media print
+{
+#menu       {display: none;}
+#content    {padding: 0px;}
+#content a  {text-decoration: underline;}
+}
+

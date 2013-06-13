@@ -1,0 +1,164 @@
+body
+{
+background-color: rgb(255,255,255);
+color: rgb(168,186,142);
+font-family: Georgia, serif;
+border-left-width: 0px; border-right-width: 0px; border-top-width: 14px; border-bottom-width: 14px;
+border-left-style: none; border-right-style: none; border-top-style: solid; border-bottom-style: solid;
+border-color: rgb(201,166,54);
+}
+
+#content
+{
+font-size: 96%;
+background-color: rgb(0,0,0);
+color: rgb(197,202,79);
+border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px;
+border-left-style: none; border-right-style: none; border-top-style: none; border-bottom-style: none;
+padding: 42px 42px 42px 42px;
+border-color: rgb(0,0,0);
+text-align: justify;
+}
+
+#menu
+{
+background-color: rgb(255,255,255);
+color: rgb(175,174,105);
+font-family: Georgia, serif;
+font-style: normal;
+border-color: rgb(203,235,80);
+}
+
+a.menuitem
+{
+font-size: 122%;
+background-color: rgb(0,0,0);
+color: rgb(255,255,255);
+font-variant: normal;
+text-transform: none;
+font-weight: normal;
+margin-left: 11px; margin-right: 11px; margin-top: 11px; margin-bottom: 11px;
+border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px;
+border-left-style: none; border-right-style: none; border-top-style: none; border-bottom-style: none;
+border-color: rgb(168,186,142);
+text-align: left;
+}
+
+#logo, #logo a
+{
+font-size: 159%;
+background-color: rgb(0,0,0);
+color: rgb(197,202,79);
+font-family: Georgia, serif;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+font-weight: bold;
+padding: 16px 16px 16px 16px;
+border-color: rgb(255,255,255);
+text-align: left;
+}
+
+#trail, #trail a
+{
+font-size: 105%;
+background-color: rgb(0,0,0);
+color: rgb(175,174,105);
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+font-weight: normal;
+border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px;
+border-left-style: none; border-right-style: none; border-top-style: none; border-bottom-style: none;
+padding: 0px 0px 0px 0px;
+border-color: rgb(203,235,80);
+text-align: right;
+}
+
+#content a
+{
+color: rgb(255,255,255);
+text-decoration: underline;
+}
+
+#content a:hover, #content a:active
+{
+background-color: rgb(255,255,255);
+color: rgb(0,0,0);
+}
+
+h1, h2, h3, h4, h5, h6
+{
+font-family: Georgia, serif;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+font-weight: normal;
+}
+
+h1
+{
+font-size: 159%;
+}
+
+h2
+{
+font-size: 151%;
+}
+
+h3
+{
+font-size: 143%;
+}
+
+h4
+{
+font-size: 135%;
+}
+
+h5
+{
+font-size: 127%;
+}
+
+h6
+{
+font-size: 119%;
+}
+
+#menu a
+{
+text-decoration: none;
+}
+
+.menuitem:hover
+{
+background-color: rgb(255,255,255);
+color: rgb(0,0,0);
+}
+
+#trail a
+{
+text-decoration: none;
+}
+
+#logo a
+{
+text-decoration: none;
+}
+
+#trail a:hover
+{
+}
+
+/* layout */
+.menuitem		{display: inline;}
+
+
+@media print
+{
+#menu       {display: none;}
+#content    {padding: 0px;}
+#content a  {text-decoration: underline;}
+}
+

@@ -1,0 +1,17 @@
+--toUperCase
+When Tweetle Beetles fight, 
+it's called a Tweetle Beetle Battle 
+result-
+WHEN TWEETLE BEETLES FIGHT, IT'S CALLED A TWEETLE BEETLE BATTLE
+
+--capitals
+When Tweetle Beetles fight, 
+it's called a Tweetle Beetle Battle 
+result - 
+When Tweetle Beetles Tweetle Beetle Battle
+
+--remWords
+moo baa
+The Cow said moo and the Sheep said baa
+result-
+The Cow said and the Sheep said

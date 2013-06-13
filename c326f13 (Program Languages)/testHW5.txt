@@ -1,0 +1,44 @@
+Ryan Draper
+CS 326
+Test Cases
+Linked List
+
+>insert 5 Nil						>Node 5 Nil
+>insert 1 (Node 5 Nil)				>Node 1 (Node 5 Nil)
+>insert	6 (Node 1 (Node 5 Nil))		>Node 6 (Node 1 (Node 5 Nil))
+
+>delete 5 (Node 6 (Node 1 (Node 5 Nil)))	>Node 6 (Node 1 Nil)
+>delete 2 (Node 6 (Node 1 Nil))				>Node 6 (Node 1 Nil)
+
+>memberOf 2 (Node 6 (Node 1 (Node 5 Nil)))	>False
+>memberOf 1 (Node 6 (Node 1 (Node 5 Nil)))	>True
+>memberOf 5 (Node 6 (Node 1 (Node 5 Nil)))	>True
+
+>size Nil 								>0
+>size (Node 6 (Node 1 (Node 5 Nil)))	>3
+>size Node 3 Nil						>1
+
+elementAt 0 (Node 6 (Node 1 (Node 5 Nil)))	>6
+elementAt 1 (Node 6 (Node 1 (Node 5 Nil)))	>1
+elementAt 2 (Node 6 (Node 1 (Node 5 Nil)))	>5
+elementAt 3 (Node 6 (Node 1 (Node 5 Nil)))	>Exception: Out Of Bounds
+
+insertAt 5 0 (Node 1 (Node 5 Nil))			>Node 5 (Node 1 (Node 5 Nil))
+insertAt 5 2 (Node 1 (Node 5 Nil))			>Node 1 (Node 5 (Node 5 Nil))
+insertAt 5 0 Nil							>Node 5 Nil
+
+deleteAt 0 (Node 6 (Node 1 (Node 5 Nil)))	>Node 1 (Node 5 Nil)
+deleteAt 1 (Node 6 (Node 1 (Node 5 Nil)))	>Node 6 (Node 5 Nil)
+deleteAt 2 (Node 6 (Node 1 (Node 5 Nil)))	>Node 6 (Node 1 Nil)
+deleteAt 3 appendTo	>Exception: No such index!
+
+appendTo (Node 6 (Node 1 (Node 5 Nil))) Nil	
+	>Node 6 (Node 1 (Node 5 Nil))
+appendTo Nil (Node 6 (Node 1 (Node 5 Nil)))	'
+	>Node 6 (Node 1 (Node 5 Nil))
+appendTo (Node 6 (Node 1 (Node 5 Nil))) (Node 6 (Node 1 (Node 5 Nil)))	
+	>Node 6 (Node 1 (Node 5 (Node 6 (Node 1 (Node 5 Nil)))))
+appendTo Nil Nil
+	>Nil
+
+

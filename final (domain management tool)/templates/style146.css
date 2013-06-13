@@ -1,0 +1,167 @@
+body
+{
+background-color: rgb(116,194,206);
+color: rgb(51,129,105);
+font-family: Georgia, serif;
+border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px;
+border-left-style: none; border-right-style: none; border-top-style: none; border-bottom-style: none;
+border-color: rgb(24,104,97);
+}
+
+#content
+{
+font-size: 91%;
+background-color: rgb(255,255,255);
+color: rgb(0,0,0);
+border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px;
+border-left-style: double; border-right-style: double; border-top-style: double; border-bottom-style: double;
+padding: 13px 13px 13px 13px;
+border-color: rgb(0,0,0);
+text-align: left;
+}
+
+#menu
+{
+background-color: rgb(255,255,255);
+color: rgb(116,194,206);
+font-family: Georgia, serif;
+font-style: normal;
+border-color: rgb(24,130,188);
+}
+
+a.menuitem
+{
+font-size: 127%;
+background-color: rgb(116,194,206);
+color: rgb(51,129,105);
+font-variant: normal;
+text-transform: none;
+font-weight: bold;
+margin-left: 19px; margin-right: 19px; margin-top: 19px; margin-bottom: 19px;
+border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px;
+border-left-style: dotted; border-right-style: dotted; border-top-style: dotted; border-bottom-style: dotted;
+border-color: rgb(0,0,0);
+text-align: left;
+}
+
+#logo, #logo a
+{
+font-size: 161%;
+background-color: rgb(0,0,0);
+color: rgb(25,164,129);
+font-family: Georgia, serif;
+font-style: italic;
+font-variant: normal;
+text-transform: none;
+font-weight: normal;
+padding: 15px 15px 15px 15px;
+border-color: rgb(116,194,206);
+text-align: center;
+}
+
+#trail, #trail a
+{
+font-size: 123%;
+background-color: rgb(0,0,0);
+color: rgb(24,130,188);
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+font-weight: normal;
+border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px;
+border-left-style: none; border-right-style: none; border-top-style: none; border-bottom-style: none;
+padding: 11px 0px 11px 0px;
+border-color: rgb(116,194,206);
+text-align: right;
+}
+
+#content a
+{
+color: rgb(116,194,206);
+text-decoration: underline;
+}
+
+#content a:hover, #content a:active
+{
+background-color: rgb(116,194,206);
+color: rgb(255,255,255);
+}
+
+h1, h2, h3, h4, h5, h6
+{
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-style: normal;
+font-variant: small-caps;
+text-transform: none;
+font-weight: bold;
+}
+
+h1
+{
+font-size: 174%;
+}
+
+h2
+{
+font-size: 163%;
+}
+
+h3
+{
+font-size: 152%;
+}
+
+h4
+{
+font-size: 141%;
+}
+
+h5
+{
+font-size: 130%;
+}
+
+h6
+{
+font-size: 119%;
+}
+
+#menu a
+{
+text-decoration: none;
+}
+
+.menuitem:hover
+{
+background-color: rgb(51,129,105);
+color: rgb(116,194,206);
+}
+
+#trail a
+{
+text-decoration: none;
+}
+
+#logo a
+{
+text-decoration: none;
+}
+
+#trail a:hover
+{
+}
+
+/* layout */
+#menu		{width: 21%; position: relative; top: 0; left: 0; float: left; text-align: center;}
+.menuitem		{width: auto;}
+#content		{margin-left: 21%; width: auto}
+.menuitem		{display: block;}
+
+
+@media print
+{
+#menu       {display: none;}
+#content    {padding: 0px;}
+#content a  {text-decoration: underline;}
+}
+

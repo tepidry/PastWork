@@ -1,0 +1,164 @@
+body
+{
+background-color: rgb(0,0,0);
+color: rgb(118,236,141);
+font-family: Trebuchet MS, sans-serif;
+border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px;
+border-left-style: none; border-right-style: none; border-top-style: none; border-bottom-style: none;
+border-color: rgb(28,207,183);
+}
+
+#content
+{
+font-size: 92%;
+background-color: rgb(0,0,0);
+color: rgb(64,205,151);
+border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px;
+border-left-style: none; border-right-style: none; border-top-style: none; border-bottom-style: none;
+padding: 16px 16px 16px 16px;
+border-color: rgb(0,0,0);
+text-align: left;
+}
+
+#menu
+{
+background-color: rgb(255,255,255);
+color: rgb(118,237,168);
+font-family: Trebuchet MS, sans-serif;
+font-style: italic;
+border-color: rgb(22,124,134);
+}
+
+a.menuitem
+{
+font-size: 147%;
+background-color: rgb(255,255,255);
+color: rgb(118,237,168);
+font-variant: normal;
+text-transform: none;
+font-weight: bold;
+margin-left: 3px; margin-right: 3px; margin-top: 10px; margin-bottom: 10px;
+border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px;
+border-left-style: none; border-right-style: none; border-top-style: none; border-bottom-style: none;
+border-color: rgb(0,0,0);
+text-align: center;
+}
+
+#logo, #logo a
+{
+font-size: 163%;
+background-color: rgb(255,255,255);
+color: rgb(118,237,168);
+font-family: Trebuchet MS, sans-serif;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+font-weight: normal;
+padding: 0px 0px 0px 0px;
+border-color: rgb(64,205,151);
+text-align: center;
+}
+
+#trail, #trail a
+{
+font-size: 130%;
+background-color: rgb(255,255,255);
+color: rgb(22,124,134);
+font-style: normal;
+font-variant: normal;
+text-transform: capitalize;
+font-weight: normal;
+border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px;
+border-left-style: none; border-right-style: none; border-top-style: none; border-bottom-style: none;
+padding: 1px 1px 1px 1px;
+border-color: rgb(22,124,134);
+text-align: left;
+}
+
+#content a
+{
+color: rgb(118,236,141);
+text-decoration: none;
+}
+
+#content a:hover, #content a:active
+{
+background-color: rgb(118,236,141);
+color: rgb(0,0,0);
+}
+
+h1, h2, h3, h4, h5, h6
+{
+font-family: Trebuchet MS, sans-serif;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+font-weight: bold;
+}
+
+h1
+{
+font-size: 165%;
+}
+
+h2
+{
+font-size: 154%;
+}
+
+h3
+{
+font-size: 143%;
+}
+
+h4
+{
+font-size: 132%;
+}
+
+h5
+{
+font-size: 121%;
+}
+
+h6
+{
+font-size: 110%;
+}
+
+#menu a
+{
+text-decoration: none;
+}
+
+.menuitem:hover
+{
+background-color: rgb(118,237,168);
+color: rgb(255,255,255);
+}
+
+#trail a
+{
+text-decoration: none;
+}
+
+#logo a
+{
+text-decoration: none;
+}
+
+#trail a:hover
+{
+}
+
+/* layout */
+.menuitem		{display: inline;}
+
+
+@media print
+{
+#menu       {display: none;}
+#content    {padding: 0px;}
+#content a  {text-decoration: underline;}
+}
+

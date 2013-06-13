@@ -1,0 +1,164 @@
+body
+{
+background-color: rgb(255,255,255);
+color: rgb(197,146,171);
+font-family: Trebuchet MS, sans-serif;
+border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px;
+border-left-style: none; border-right-style: none; border-top-style: none; border-bottom-style: none;
+border-color: rgb(169,73,102);
+}
+
+#content
+{
+font-size: 112%;
+background-color: rgb(255,255,255);
+color: rgb(0,0,0);
+border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px;
+border-left-style: none; border-right-style: none; border-top-style: none; border-bottom-style: none;
+padding: 15px 15px 15px 15px;
+border-color: rgb(0,0,0);
+text-align: left;
+}
+
+#menu
+{
+background-color: rgb(255,255,255);
+color: rgb(123,21,27);
+font-family: Georgia, serif;
+font-style: normal;
+border-color: rgb(98,57,87);
+}
+
+a.menuitem
+{
+font-size: 140%;
+background-color: rgb(255,255,255);
+color: rgb(123,21,27);
+font-variant: small-caps;
+text-transform: none;
+font-weight: bold;
+margin-left: 16px; margin-right: 16px; margin-top: 14px; margin-bottom: 14px;
+border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px;
+border-left-style: dashed; border-right-style: dashed; border-top-style: dashed; border-bottom-style: dashed;
+border-color: rgb(239,132,162);
+text-align: left;
+}
+
+#logo, #logo a
+{
+font-size: 180%;
+background-color: rgb(0,0,0);
+color: rgb(98,57,87);
+font-family: Georgia, serif;
+font-style: italic;
+font-variant: normal;
+text-transform: none;
+font-weight: bold;
+padding: 2px 2px 2px 2px;
+border-color: rgb(197,146,171);
+text-align: center;
+}
+
+#trail, #trail a
+{
+font-size: 125%;
+background-color: rgb(0,0,0);
+color: rgb(255,255,255);
+font-style: italic;
+font-variant: normal;
+text-transform: none;
+font-weight: normal;
+border-left-width: 10px; border-right-width: 10px; border-top-width: 10px; border-bottom-width: 10px;
+border-left-style: inset; border-right-style: inset; border-top-style: inset; border-bottom-style: inset;
+padding: 8px 20px 14px 3px;
+border-color: rgb(98,57,87);
+text-align: left;
+}
+
+#content a
+{
+color: rgb(229,145,129);
+text-decoration: underline;
+}
+
+#content a:hover, #content a:active
+{
+background-color: rgb(229,145,129);
+color: rgb(255,255,255);
+}
+
+h1, h2, h3, h4, h5, h6
+{
+font-family: Georgia, serif;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+font-weight: normal;
+}
+
+h1
+{
+font-size: 176%;
+}
+
+h2
+{
+font-size: 163%;
+}
+
+h3
+{
+font-size: 150%;
+}
+
+h4
+{
+font-size: 137%;
+}
+
+h5
+{
+font-size: 124%;
+}
+
+h6
+{
+font-size: 111%;
+}
+
+#menu a
+{
+text-decoration: none;
+}
+
+.menuitem:hover
+{
+background-color: rgb(123,21,27);
+color: rgb(255,255,255);
+}
+
+#trail a
+{
+text-decoration: none;
+}
+
+#logo a
+{
+text-decoration: none;
+}
+
+#trail a:hover
+{
+}
+
+/* layout */
+.menuitem		{display: inline;}
+
+
+@media print
+{
+#menu       {display: none;}
+#content    {padding: 0px;}
+#content a  {text-decoration: underline;}
+}
+

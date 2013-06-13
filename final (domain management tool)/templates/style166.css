@@ -1,0 +1,167 @@
+body
+{
+background-color: rgb(239,122,192);
+color: rgb(147,57,131);
+font-family: Arial, Helvetica, sans-serif;
+border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px;
+border-left-style: none; border-right-style: none; border-top-style: none; border-bottom-style: none;
+border-color: rgb(226,31,62);
+}
+
+#content
+{
+font-size: 101%;
+background-color: rgb(255,255,255);
+color: rgb(0,0,0);
+border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px;
+border-left-style: none; border-right-style: none; border-top-style: none; border-bottom-style: none;
+padding: 43px 10px 43px 10px;
+border-color: rgb(0,0,0);
+text-align: justify;
+}
+
+#menu
+{
+background-color: rgb(0,0,0);
+color: rgb(181,86,122);
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+border-color: rgb(239,122,192);
+}
+
+a.menuitem
+{
+font-size: 152%;
+background-color: rgb(255,255,255);
+color: rgb(147,57,131);
+font-variant: normal;
+text-transform: none;
+font-weight: normal;
+margin-left: 11px; margin-right: 11px; margin-top: 5px; margin-bottom: 5px;
+border-left-width: 6px; border-right-width: 6px; border-top-width: 6px; border-bottom-width: 6px;
+border-left-style: outset; border-right-style: outset; border-top-style: outset; border-bottom-style: outset;
+border-color: rgb(226,31,62);
+text-align: right;
+}
+
+#logo, #logo a
+{
+font-size: 198%;
+background-color: rgb(255,255,255);
+color: rgb(177,26,138);
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+font-weight: normal;
+padding: 14px 14px 14px 14px;
+border-color: rgb(239,122,192);
+text-align: left;
+}
+
+#trail, #trail a
+{
+font-size: 94%;
+background-color: rgb(239,122,192);
+color: rgb(147,57,131);
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+font-weight: bold;
+border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px;
+border-left-style: solid; border-right-style: solid; border-top-style: solid; border-bottom-style: solid;
+padding: 14px 14px 14px 14px;
+border-color: rgb(255,255,255);
+text-align: right;
+}
+
+#content a
+{
+color: rgb(226,31,62);
+text-decoration: none;
+}
+
+#content a:hover, #content a:active
+{
+background-color: rgb(226,31,62);
+color: rgb(255,255,255);
+}
+
+h1, h2, h3, h4, h5, h6
+{
+font-family: Trebuchet MS, sans-serif;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+font-weight: bold;
+}
+
+h1
+{
+font-size: 150%;
+}
+
+h2
+{
+font-size: 141%;
+}
+
+h3
+{
+font-size: 132%;
+}
+
+h4
+{
+font-size: 123%;
+}
+
+h5
+{
+font-size: 114%;
+}
+
+h6
+{
+font-size: 105%;
+}
+
+#menu a
+{
+text-decoration: none;
+}
+
+.menuitem:hover
+{
+background-color: rgb(147,57,131);
+color: rgb(255,255,255);
+}
+
+#trail a
+{
+text-decoration: none;
+}
+
+#logo a
+{
+text-decoration: none;
+}
+
+#trail a:hover
+{
+}
+
+/* layout */
+#menu		{width: 30%; position: relative; top: 0; right: 0; float: right; text-align: center;}
+.menuitem		{width: auto;}
+#content		{margin-right: 30%; width: auto}
+.menuitem		{display: block;}
+
+
+@media print
+{
+#menu       {display: none;}
+#content    {padding: 0px;}
+#content a  {text-decoration: underline;}
+}
+
