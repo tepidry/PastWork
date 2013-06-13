@@ -1,0 +1,9 @@
+C:\Users\draper\Desktop\MyCalculator\WindowsFormsApplication1\bin\Debug\MyCalculator.exe
+C:\Users\draper\Desktop\MyCalculator\WindowsFormsApplication1\bin\Debug\MyCalculator.pdb
+C:\Users\draper\Desktop\MyCalculator\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\draper\Desktop\MyCalculator\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\draper\Desktop\MyCalculator\WindowsFormsApplication1\obj\x86\Debug\MyCalculator.Properties.Resources.resources
+C:\Users\draper\Desktop\MyCalculator\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\draper\Desktop\MyCalculator\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\draper\Desktop\MyCalculator\WindowsFormsApplication1\obj\x86\Debug\MyCalculator.exe
+C:\Users\draper\Desktop\MyCalculator\WindowsFormsApplication1\obj\x86\Debug\MyCalculator.pdb

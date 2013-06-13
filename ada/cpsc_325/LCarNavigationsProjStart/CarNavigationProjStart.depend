@@ -1,0 +1,631 @@
+# depslib dependency file v1.0
+1350228736 source:/ada/yerion/AGRAPHICS/CarNavigationProjStart/Cube.cpp
+	"Cube.h"
+	<iostream>
+
+1349295122 /ada/yerion/AGRAPHICS/CarNavigationProjStart/Cube.h
+	"Angel.h"
+
+1342812376 /ada/yerion/AGRAPHICS/CarNavigationProjStart/Angel.h
+	<cmath>
+	<iostream>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	"GL/glew.h"
+	<GL/freeglut.h>
+	<GL/freeglut_ext.h>
+	"vec.h"
+	"mat.h"
+	"CheckError.h"
+
+1286310174 /usr/include/GL/glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1342628339 /usr/include/inttypes.h
+	<features.h>
+	<stdint.h>
+	<stddef.h>
+
+1342628327 /usr/include/features.h
+	<sys/cdefs.h>
+	<gnu/stubs.h>
+
+1342628345 /usr/include/sys/cdefs.h
+	<features.h>
+	<bits/wordsize.h>
+
+1342628339 /usr/include/bits/wordsize.h
+
+1342628327 /usr/include/gnu/stubs.h
+	<bits/wordsize.h>
+	<gnu/stubs-32.h>
+	<gnu/stubs-64.h>
+
+1342628362 /usr/include/gnu/stubs-64.h
+
+1342628339 /usr/include/stdint.h
+	<features.h>
+	<bits/wchar.h>
+	<bits/wordsize.h>
+
+1342628341 /usr/include/bits/wchar.h
+
+1340376679 /usr/include/GL/glu.h
+	"glu_mangle.h"
+	<GL/gl.h>
+
+1340376679 /usr/include/GL/glu_mangle.h
+
+1340376679 /usr/include/GL/gl.h
+	"gl_mangle.h"
+	<stdlib.h>
+	<windows.h>
+	<GL/mesa_wgl.h>
+	<GL/glext.h>
+
+1340376679 /usr/include/GL/gl_mangle.h
+
+1342628339 /usr/include/stdlib.h
+	<features.h>
+	<stddef.h>
+	<bits/waitflags.h>
+	<bits/waitstatus.h>
+	<xlocale.h>
+	<sys/types.h>
+	<alloca.h>
+	<bits/stdlib.h>
+	<bits/stdlib-ldbl.h>
+
+1342628344 /usr/include/bits/waitflags.h
+
+1342628344 /usr/include/bits/waitstatus.h
+	<endian.h>
+
+1342628341 /usr/include/endian.h
+	<features.h>
+	<bits/endian.h>
+	<bits/byteswap.h>
+
+1342628341 /usr/include/bits/endian.h
+
+1342628341 /usr/include/bits/byteswap.h
+	<bits/wordsize.h>
+
+1342628328 /usr/include/xlocale.h
+
+1342628344 /usr/include/sys/types.h
+	<features.h>
+	<bits/types.h>
+	<time.h>
+	<stddef.h>
+	<endian.h>
+	<sys/select.h>
+	<sys/sysmacros.h>
+	<bits/pthreadtypes.h>
+
+1342628344 /usr/include/bits/types.h
+	<features.h>
+	<bits/wordsize.h>
+	<bits/typesizes.h>
+
+1342628344 /usr/include/bits/typesizes.h
+
+1342628343 /usr/include/time.h
+	<features.h>
+	<stddef.h>
+	<bits/time.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<xlocale.h>
+
+1342628343 /usr/include/bits/time.h
+	<bits/types.h>
+	<bits/types.h>
+
+1342628345 /usr/include/sys/select.h
+	<features.h>
+	<bits/types.h>
+	<bits/select.h>
+	<bits/sigset.h>
+	<time.h>
+	<bits/time.h>
+
+1342628345 /usr/include/bits/select.h
+	<bits/wordsize.h>
+
+1342628339 /usr/include/bits/sigset.h
+
+1342628344 /usr/include/sys/sysmacros.h
+	<features.h>
+
+1342628344 /usr/include/bits/pthreadtypes.h
+	<bits/wordsize.h>
+
+1342628339 /usr/include/alloca.h
+	<features.h>
+	<stddef.h>
+
+1342628339 /usr/include/bits/stdlib.h
+
+1342628339 /usr/include/bits/stdlib-ldbl.h
+
+1340376679 /usr/include/GL/glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1289562859 /usr/include/GL/freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1289562859 /usr/include/GL/freeglut_std.h
+	<Windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1289562859 /usr/include/GL/freeglut_ext.h
+
+1350150654 /ada/yerion/AGRAPHICS/CarNavigationProjStart/vec.h
+	"Angel.h"
+
+1350147512 /ada/yerion/AGRAPHICS/CarNavigationProjStart/mat.h
+	"vec.h"
+	<cstdio>
+	<iostream>
+
+1289182998 /ada/yerion/AGRAPHICS/CarNavigationProjStart/CheckError.h
+	<stdio.h>
+	<GL/gl.h>
+
+1342628340 /usr/include/stdio.h
+	<features.h>
+	<stddef.h>
+	<bits/types.h>
+	<libio.h>
+	<stdarg.h>
+	<bits/stdio_lim.h>
+	<bits/sys_errlist.h>
+	<getopt.h>
+	<bits/stdio.h>
+	<bits/stdio2.h>
+	<bits/stdio-ldbl.h>
+
+1342628340 /usr/include/libio.h
+	<_G_config.h>
+	<stdarg.h>
+	<sys/cdefs.h>
+	<bits/stdio-lock.h>
+	<shlib-compat.h>
+	<bits/libio-ldbl.h>
+
+1342628340 /usr/include/_G_config.h
+	<bits/types.h>
+	<stddef.h>
+	<wchar.h>
+	<gconv.h>
+
+1342628341 /usr/include/wchar.h
+	<features.h>
+	<stdio.h>
+	<stdarg.h>
+	<bits/wchar.h>
+	<stddef.h>
+	<wctype.h>
+	<xlocale.h>
+	<xlocale.h>
+	<xlocale.h>
+	<wctype.h>
+	<bits/wchar2.h>
+	<bits/wchar-ldbl.h>
+
+1342628346 /usr/include/wctype.h
+	<features.h>
+	<bits/types.h>
+	<wchar.h>
+	<endian.h>
+	<xlocale.h>
+
+1342628341 /usr/include/bits/wchar2.h
+
+1342628341 /usr/include/bits/wchar-ldbl.h
+
+1342628327 /usr/include/gconv.h
+	<features.h>
+	<wchar.h>
+	<stddef.h>
+
+1272972443 /usr/include/bits/stdio-lock.h
+	<bits/libc-lock.h>
+
+1273000941 /usr/include/bits/libc-lock.h
+	<pthread.h>
+
+1342628351 /usr/include/pthread.h
+	<features.h>
+	<endian.h>
+	<sched.h>
+	<time.h>
+	<bits/pthreadtypes.h>
+	<bits/setjmp.h>
+	<bits/wordsize.h>
+
+1342628344 /usr/include/sched.h
+	<features.h>
+	<bits/types.h>
+	<stddef.h>
+	<time.h>
+	<bits/sched.h>
+
+1342628344 /usr/include/bits/sched.h
+
+1342628338 /usr/include/bits/setjmp.h
+	<bits/wordsize.h>
+
+1342628340 /usr/include/bits/libio-ldbl.h
+
+1342628340 /usr/include/bits/stdio_lim.h
+
+1342628340 /usr/include/bits/sys_errlist.h
+
+1342628344 /usr/include/getopt.h
+	<ctype.h>
+
+1342628337 /usr/include/ctype.h
+	<features.h>
+	<bits/types.h>
+	<endian.h>
+	<xlocale.h>
+
+1342628340 /usr/include/bits/stdio.h
+
+1342628340 /usr/include/bits/stdio2.h
+
+1342628340 /usr/include/bits/stdio-ldbl.h
+
+1350228736 source:/ada/yerion/AGRAPHICS/CarNavigationProjStart/Cylinder.cpp
+	"Cylinder.h"
+	<iostream>
+
+1348803392 /ada/yerion/AGRAPHICS/CarNavigationProjStart/Cylinder.h
+	"Angel.h"
+
+1350228592 source:/ada/yerion/AGRAPHICS/CarNavigationProjStart/Disk.cpp
+	"Disk.h"
+	<iostream>
+
+1348803392 /ada/yerion/AGRAPHICS/CarNavigationProjStart/Disk.h
+	"Angel.h"
+
+1342820534 source:/ada/yerion/AGRAPHICS/CarNavigationProjStart/InitShader.cpp
+	"Angel.h"
+
+1343592072 source:/ada/yerion/AGRAPHICS/CarNavigationProjStart/MatrixStack.cpp
+	"MatrixStack.h"
+
+1343347768 /ada/yerion/AGRAPHICS/CarNavigationProjStart/MatrixStack.h
+	<stack>
+	"Angel.h"
+
+1350230818 source:/ada/yerion/AGRAPHICS/CarNavigationProjStart/Shapes.cpp
+	"Shapes.h"
+	"Globals.h"
+
+1350227818 /ada/yerion/AGRAPHICS/CarNavigationProjStart/Shapes.h
+	"WireCube.h"
+	"Disk.h"
+	"WireDisk.h"
+	"Cylinder.h"
+	"WireCylinder.h"
+	"WireSteiner.h"
+	"Steiner.h"
+	"Cube.h"
+
+1348803392 /ada/yerion/AGRAPHICS/CarNavigationProjStart/WireCube.h
+	"Angel.h"
+
+1348850526 /ada/yerion/AGRAPHICS/CarNavigationProjStart/WireDisk.h
+	"Angel.h"
+
+1348860406 /ada/yerion/AGRAPHICS/CarNavigationProjStart/WireCylinder.h
+	"Angel.h"
+
+1349056792 /ada/yerion/AGRAPHICS/CarNavigationProjStart/WireSteiner.h
+	"Angel.h"
+
+1349057974 /ada/yerion/AGRAPHICS/CarNavigationProjStart/Steiner.h
+	"Angel.h"
+
+1350227850 /ada/yerion/AGRAPHICS/CarNavigationProjStart/Globals.h
+	"MatrixStack.h"
+	"Shapes.h"
+
+1350230818 source:/ada/yerion/AGRAPHICS/CarNavigationProjStart/Steiner.cpp
+	"Steiner.h"
+	<iostream>
+
+1350230818 source:/ada/yerion/AGRAPHICS/CarNavigationProjStart/WireCube.cpp
+	"WireCube.h"
+	<iostream>
+
+1350230818 source:/ada/yerion/AGRAPHICS/CarNavigationProjStart/WireCylinder.cpp
+	"WireCylinder.h"
+	<iostream>
+
+1350230818 source:/ada/yerion/AGRAPHICS/CarNavigationProjStart/WireDisk .cpp
+	"WireDisk.h"
+	<iostream>
+
+1350230818 source:/ada/yerion/AGRAPHICS/CarNavigationProjStart/WireSteiner.cpp
+	"WireSteiner.h"
+	<iostream>
+
+1351887976 source:/ada/yerion/AGRAPHICS/CarNavigationProjStart/main.cpp
+	"Angel.h"
+	<iostream>
+	"MatrixStack.h"
+	"Shapes.h"
+	"Car.h"
+
+1350230238 /ada/yerion/AGRAPHICS/CarNavigationProjStart/Car.h
+	"mat.h"
+
+1352171242 source:/home/GONZAGA/rdraper/Desktop/LCarNavigationsProjStart/Car.cpp
+	"Car.h"
+	"Shapes.h"
+	"Globals.h"
+
+1352171242 /home/GONZAGA/rdraper/Desktop/LCarNavigationsProjStart/Car.h
+	"mat.h"
+
+1352171242 /home/GONZAGA/rdraper/Desktop/LCarNavigationsProjStart/mat.h
+	"vec.h"
+	<cstdio>
+	<iostream>
+
+1352171242 /home/GONZAGA/rdraper/Desktop/LCarNavigationsProjStart/vec.h
+	"Angel.h"
+
+1352171242 /home/GONZAGA/rdraper/Desktop/LCarNavigationsProjStart/Angel.h
+	<cmath>
+	<iostream>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	"GL/glew.h"
+	<GL/freeglut.h>
+	<GL/freeglut_ext.h>
+	"vec.h"
+	"mat.h"
+	"CheckError.h"
+
+1352171242 /home/GONZAGA/rdraper/Desktop/LCarNavigationsProjStart/CheckError.h
+	<stdio.h>
+	<GL/gl.h>
+
+1352171242 /home/GONZAGA/rdraper/Desktop/LCarNavigationsProjStart/Shapes.h
+	"WireCube.h"
+	"Disk.h"
+	"WireDisk.h"
+	"Cylinder.h"
+	"WireCylinder.h"
+	"WireSteiner.h"
+	"Steiner.h"
+	"Cube.h"
+
+1352171242 /home/GONZAGA/rdraper/Desktop/LCarNavigationsProjStart/WireCube.h
+	"Angel.h"
+
+1352171242 /home/GONZAGA/rdraper/Desktop/LCarNavigationsProjStart/Disk.h
+	"Angel.h"
+
+1352171242 /home/GONZAGA/rdraper/Desktop/LCarNavigationsProjStart/WireDisk.h
+	"Angel.h"
+
+1352171242 /home/GONZAGA/rdraper/Desktop/LCarNavigationsProjStart/Cylinder.h
+	"Angel.h"
+
+1352171242 /home/GONZAGA/rdraper/Desktop/LCarNavigationsProjStart/WireCylinder.h
+	"Angel.h"
+
+1352171242 /home/GONZAGA/rdraper/Desktop/LCarNavigationsProjStart/WireSteiner.h
+	"Angel.h"
+
+1352171242 /home/GONZAGA/rdraper/Desktop/LCarNavigationsProjStart/Steiner.h
+	"Angel.h"
+
+1352171242 /home/GONZAGA/rdraper/Desktop/LCarNavigationsProjStart/Cube.h
+	"Angel.h"
+
+1352171242 /home/GONZAGA/rdraper/Desktop/LCarNavigationsProjStart/Globals.h
+	"MatrixStack.h"
+	"Shapes.h"
+
+1352171242 /home/GONZAGA/rdraper/Desktop/LCarNavigationsProjStart/MatrixStack.h
+	<stack>
+	"Angel.h"
+
+1352171242 source:/home/GONZAGA/rdraper/Desktop/LCarNavigationsProjStart/Cube.cpp
+	"Cube.h"
+	<iostream>
+
+1352171242 source:/home/GONZAGA/rdraper/Desktop/LCarNavigationsProjStart/Cylinder.cpp
+	"Cylinder.h"
+	<iostream>
+
+1352171242 source:/home/GONZAGA/rdraper/Desktop/LCarNavigationsProjStart/Disk.cpp
+	"Disk.h"
+	<iostream>
+
+1352171242 source:/home/GONZAGA/rdraper/Desktop/LCarNavigationsProjStart/InitShader.cpp
+	"Angel.h"
+
+1352171242 source:/home/GONZAGA/rdraper/Desktop/LCarNavigationsProjStart/MatrixStack.cpp
+	"MatrixStack.h"
+
+1352171242 source:/home/GONZAGA/rdraper/Desktop/LCarNavigationsProjStart/Shapes.cpp
+	"Shapes.h"
+	"Globals.h"
+
+1352171242 source:/home/GONZAGA/rdraper/Desktop/LCarNavigationsProjStart/Steiner.cpp
+	"Steiner.h"
+	<iostream>
+
+1352171242 source:/home/GONZAGA/rdraper/Desktop/LCarNavigationsProjStart/WireCube.cpp
+	"WireCube.h"
+	<iostream>
+
+1352171242 source:/home/GONZAGA/rdraper/Desktop/LCarNavigationsProjStart/WireCylinder.cpp
+	"WireCylinder.h"
+	<iostream>
+
+1352171242 source:/home/GONZAGA/rdraper/Desktop/LCarNavigationsProjStart/WireDisk .cpp
+	"WireDisk.h"
+	<iostream>
+
+1352171242 source:/home/GONZAGA/rdraper/Desktop/LCarNavigationsProjStart/WireSteiner.cpp
+	"WireSteiner.h"
+	<iostream>
+
+1352782747 source:/home/GONZAGA/rdraper/Desktop/LCarNavigationsProjStart/main.cpp
+	"Angel.h"
+	<iostream>
+	"MatrixStack.h"
+	"Shapes.h"
+	"Car.h"
+
+1352171242 source:/ada/rdraper/LCarNavigationsProjStart/Car.cpp
+	"Car.h"
+	"Shapes.h"
+	"Globals.h"
+
+1352171242 /ada/rdraper/LCarNavigationsProjStart/Car.h
+	"mat.h"
+
+1352171242 /ada/rdraper/LCarNavigationsProjStart/mat.h
+	"vec.h"
+	<cstdio>
+	<iostream>
+
+1352171242 /ada/rdraper/LCarNavigationsProjStart/vec.h
+	"Angel.h"
+
+1352171242 /ada/rdraper/LCarNavigationsProjStart/Angel.h
+	<cmath>
+	<iostream>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	"GL/glew.h"
+	<GL/freeglut.h>
+	<GL/freeglut_ext.h>
+	"vec.h"
+	"mat.h"
+	"CheckError.h"
+
+1352171242 /ada/rdraper/LCarNavigationsProjStart/CheckError.h
+	<stdio.h>
+	<GL/gl.h>
+
+1352171242 /ada/rdraper/LCarNavigationsProjStart/Shapes.h
+	"WireCube.h"
+	"Disk.h"
+	"WireDisk.h"
+	"Cylinder.h"
+	"WireCylinder.h"
+	"WireSteiner.h"
+	"Steiner.h"
+	"Cube.h"
+
+1352171242 /ada/rdraper/LCarNavigationsProjStart/WireCube.h
+	"Angel.h"
+
+1352171242 /ada/rdraper/LCarNavigationsProjStart/Disk.h
+	"Angel.h"
+
+1352171242 /ada/rdraper/LCarNavigationsProjStart/WireDisk.h
+	"Angel.h"
+
+1352171242 /ada/rdraper/LCarNavigationsProjStart/Cylinder.h
+	"Angel.h"
+
+1352171242 /ada/rdraper/LCarNavigationsProjStart/WireCylinder.h
+	"Angel.h"
+
+1352171242 /ada/rdraper/LCarNavigationsProjStart/WireSteiner.h
+	"Angel.h"
+
+1352171242 /ada/rdraper/LCarNavigationsProjStart/Steiner.h
+	"Angel.h"
+
+1352171242 /ada/rdraper/LCarNavigationsProjStart/Cube.h
+	"Angel.h"
+
+1352171242 /ada/rdraper/LCarNavigationsProjStart/Globals.h
+	"MatrixStack.h"
+	"Shapes.h"
+
+1352171242 /ada/rdraper/LCarNavigationsProjStart/MatrixStack.h
+	<stack>
+	"Angel.h"
+
+1352171242 source:/ada/rdraper/LCarNavigationsProjStart/Cube.cpp
+	"Cube.h"
+	<iostream>
+
+1352171242 source:/ada/rdraper/LCarNavigationsProjStart/Cylinder.cpp
+	"Cylinder.h"
+	<iostream>
+
+1352171242 source:/ada/rdraper/LCarNavigationsProjStart/Disk.cpp
+	"Disk.h"
+	<iostream>
+
+1352171242 source:/ada/rdraper/LCarNavigationsProjStart/InitShader.cpp
+	"Angel.h"
+
+1352171242 source:/ada/rdraper/LCarNavigationsProjStart/MatrixStack.cpp
+	"MatrixStack.h"
+
+1352171242 source:/ada/rdraper/LCarNavigationsProjStart/Shapes.cpp
+	"Shapes.h"
+	"Globals.h"
+
+1352171242 source:/ada/rdraper/LCarNavigationsProjStart/Steiner.cpp
+	"Steiner.h"
+	<iostream>
+
+1352171242 source:/ada/rdraper/LCarNavigationsProjStart/WireCube.cpp
+	"WireCube.h"
+	<iostream>
+
+1352171242 source:/ada/rdraper/LCarNavigationsProjStart/WireCylinder.cpp
+	"WireCylinder.h"
+	<iostream>
+
+1352171242 source:/ada/rdraper/LCarNavigationsProjStart/WireDisk .cpp
+	"WireDisk.h"
+	<iostream>
+
+1352171242 source:/ada/rdraper/LCarNavigationsProjStart/WireSteiner.cpp
+	"WireSteiner.h"
+	<iostream>
+
+1354155642 source:/ada/rdraper/LCarNavigationsProjStart/main.cpp
+	"Angel.h"
+	<iostream>
+	"MatrixStack.h"
+	"Shapes.h"
+	"Car.h"
+

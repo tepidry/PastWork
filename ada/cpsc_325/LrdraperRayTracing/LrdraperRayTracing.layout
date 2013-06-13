@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="GeometricObject.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="884" topLine="0" />
+	</File>
+	<File name="GeometricObject.h" open="1" top="0" tabpos="7">
+		<Cursor position="0" topLine="33" />
+	</File>
+	<File name="Plane.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="2678" topLine="71" />
+	</File>
+	<File name="Plane.h" open="1" top="0" tabpos="11">
+		<Cursor position="3608" topLine="89" />
+	</File>
+	<File name="Ray.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="0" topLine="6" />
+	</File>
+	<File name="RenderEngine.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="2100" topLine="24" />
+	</File>
+	<File name="ShadeRec.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Sphere.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="1652" topLine="61" />
+	</File>
+	<File name="Sphere.h" open="1" top="0" tabpos="8">
+		<Cursor position="350" topLine="0" />
+	</File>
+	<File name="Vector3D.cpp" open="1" top="0" tabpos="12">
+		<Cursor position="0" topLine="58" />
+	</File>
+	<File name="World.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="1635" topLine="40" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="1956" topLine="28" />
+	</File>
+</CodeBlocks_layout_file>

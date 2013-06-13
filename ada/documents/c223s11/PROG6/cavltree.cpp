@@ -1,0 +1,358 @@
+//@Implementation for ADT cavltree(Adelson, Velski, & Landis)
+//@Specification for ADT cavltree 
+//@   data object: a derived class of cbintree and cbstree that is a binary tree that 
+//@                is either empty or in the form: 
+//                          mroot       such that {|hR- hL| <= 1, hR is the height of TR
+//                        /       \                               hL is the height of TL
+//                       TL       TR   where TL and TR are binary trees
+//@   data structure: A binary tree with an int for number of items. 
+//@   operations/methods: create, destroy, insert
+
+
+//@author Ryan Draper (draper)
+//@date Feb 17, 2011
+//@file citem.cpp
+
+#include "cavltree.h"
+
+const int MAXHEIGHT = 20;
+
+struct SearchPath
+{
+   Cnode* path[MAXHEIGHT];
+   int size;
+   int pivot;F
+   SearchPath();
+};
+
+//@constructor
+//@post: initializes values for the SearchPath Struct
+//@usage: SearchPath search;
+SearchPath::SearchPath()
+{
+   size = 0;
+   pivot = -1;
+   for(int i = 0; i < MAXHEIGHT; i++)
+      path[i] = NULL;
+}
+
+//@constructor
+//@post: tree exists
+//@usage: cavltree tree;
+cavltree::cavltree(): cbstree(){}
+
+//@destructor
+//@pre: tree exists
+//@post: tree is destroyed
+cavltree::~cavltree() {}
+
+// Team Teh League of Really Awesom3 People who Write Code
+// Collin Deel, Dan Rahm, Marvin Rumbaua, Josh MacMillan
+// Inserts a new item into the AVL Tree
+// pre: AVL Tree object exists
+//      newItem has been assigned
+// post: newItem has been added to AVL Tree
+//       If AVL Tree has become unbalanced, it has been subsequently rebalanced
+// param newItem
+// usage: ourawesometree.Insert (awesomenewitem)
+void cavltree::Insert (const Citem& newItem) throw (cexception)
+{
+   SearchPath search;
+   
+   BSTreeInsertNMakeSearchPath(newItem, mroot, search);   
+	
+   if (HasNoPivot (search))
+      ChangesBalances (search, 0);
+   else if (IsAddedToShortSide (search))
+      ChangesBalances (search, search.pivot);
+   else if (IsSingleRotateLeft (search))
+      DoSingleRotateLeft (search);
+   else if (IsSingleRotateRight (search))
+      DoSingleRotateRight (search);
+   else if (IsDoubleRotateLeftRight (search))
+      DoDoubleRotateLeftRight (search);
+   else
+      DoDoubleRotateRightLeft (search);
+}
+
+//@Does a single rotation of a AVL tree to the left where after the rotated the pivot would be on the left 
+//@of it's child node the parent of the pivot is now the parent of it's child
+//@pre cavl tree exists and insertion point is grandchild right of pivot
+//@post pivot and new item are now childeren of pivot's child pivot's balance is set to 0
+//@return cavl tree has been balanced using a single rotation to the left
+//@param search
+//@usage DoSingleRotateLeft (search);
+void cavltree::DoSingleRotateLeft (const SearchPath& search)
+{
+	if (mroot == search.path[search.pivot] )
+		mroot = search.path[search.pivot + 1];
+   else 
+   {
+      if (search.path[search.pivot - 1] -> mleftptr == search.path[search.pivot])
+         search.path[search.pivot - 1] -> mleftptr = search.path[search.pivot + 1];
+      else
+         search.path[search.pivot - 1] -> mrightptr = search.path[search.pivot + 1];
+   }
+	
+	search.path[search.pivot] -> mbalance = 0;
+   search.path[search.pivot] -> mrightptr = search.path[search.pivot + 1] -> mleftptr;
+	search.path[search.pivot + 1] -> mleftptr = search.path[search.pivot];
+   
+   
+}
+
+//@Does a single rotation of a AVL tree to the right where after the rotated the pivot would be on the right 
+//@of it's child node the parent of the pivot is now the parent of it's child
+//@pre cavl tree exists and insertion point is grandchild left of pivot
+//@post pivot and new item are now childeren of pivot's child, pivot's balance is set to 0
+//@return cavl tree has been balanced using a single rotation to the right
+//@param search
+//@usage DoSingleRotateRight (search);
+void cavltree::DoSingleRotateRight (const SearchPath& search)
+{
+	if (mroot == search.path[search.pivot] )
+		mroot = search.path[search.pivot + 1];
+   else 
+   {
+      if (search.path[search.pivot - 1] -> mleftptr == search.path[search.pivot])
+         search.path[search.pivot - 1] -> mleftptr = search.path[search.pivot + 1];
+      else
+         search.path[search.pivot - 1] -> mrightptr = search.path[search.pivot + 1];
+   }
+	search.path[search.pivot] -> mbalance = 0;
+   search.path[search.pivot] -> mleftptr = search.path[search.pivot + 1] -> mrightptr;
+	search.path[search.pivot + 1] -> mrightptr = search.path[search.pivot];
+   
+}
+
+//@Does a double rotation of a AVL tree when the new node is left then right from the pivot down the tree.
+//@pre a avl tree who has height minimum of 3 and new item is left then right down the tree
+//@post the grandchild of the pivot is now in the pivot's position where the pivot is on it's right and the 
+//@     pivot's child is on it's left. any children of the grandchild have been reallocated as necessary 
+//@return a proper avl tree after a double left right rotation
+//@param search
+//@usage DoDoubleRotateLeftRight(search);
+void cavltree::DoDoubleRotateLeftRight (const SearchPath& search)
+{
+	//search.path[search.pivot] -> mbalance = 0;
+	Cnode* grandChildLeft = search.path[search.pivot + 2] -> mleftptr;
+	Cnode* grandChildRight = search.path[search.pivot + 2] -> mrightptr;
+	
+	//change mbalance
+	if (search.path[search.pivot + 2] -> mleftptr == NULL && search.path[search.pivot + 2] -> mrightptr == NULL)
+	{
+   	search.path[search.pivot] -> mbalance = 0;
+   } else if (search.path[search.pivot + 2] -> mleftptr == search.path[search.pivot + 3]) {
+      search.path[search.pivot] -> mbalance = 1;
+	} else {
+		search.path[search.pivot + 1] -> mbalance = -1;
+      search.path[search.pivot] -> mbalance = 0;
+	}
+	
+	search.path[search.pivot + 2] -> mrightptr = search.path[search.pivot];
+   search.path[search.pivot + 2] -> mleftptr = search.path[search.pivot + 1];
+	search.path[search.pivot + 1] -> mrightptr = grandChildLeft;
+   search.path[search.pivot] -> mleftptr = grandChildRight;
+
+   //change pre pivot pointer
+	if (mroot == search.path[search.pivot] )
+	{
+		mroot = search.path[search.pivot + 2];
+   } else if (search.path[search.pivot - 1] -> mleftptr == search.path[search.pivot]) {
+         search.path[search.pivot - 1] -> mleftptr = search.path[search.pivot + 2];
+	} else {
+         search.path[search.pivot - 1] -> mrightptr = search.path[search.pivot + 2];
+   }
+	
+   ChangesBalances(search, search.pivot + 3);
+}
+
+//@Does a double rotation of a AVL tree when the new node is right then left from the pivot down the tree.
+//@pre a avl tree who has height minimum of 3 and new item is right then left down the tree
+//@post the grandchild of the pivot is now in the pivot's position where the pivot is on it's left and the 
+//@     pivot's child is on it's right. any children of the grandchild have been reallocated as necessary 
+//@return a proper avl tree after a double right left rotation
+//@param search
+//@usage DoDoubleRotateRightLeft(search);
+void cavltree::DoDoubleRotateRightLeft (const SearchPath& search)
+{
+	Cnode* grandChildLeft = search.path[search.pivot + 2] -> mleftptr;
+	Cnode* grandChildRight = search.path[search.pivot + 2] -> mrightptr;
+	//change balance 
+	if (search.path[search.pivot + 2] -> mrightptr == NULL && search.path[search.pivot + 2] -> mleftptr == NULL)
+	{
+   	search.path[search.pivot] -> mbalance = 0;  
+   } else if (search.path[search.pivot + 2] -> mrightptr == search.path[search.pivot + 3]) {
+		search.path[search.pivot] -> mbalance = 0;
+	   search.path[search.pivot + 1] -> mbalance = 1;
+	} else {
+      search.path[search.pivot] -> mbalance = -1;
+	}
+	
+	search.path[search.pivot + 2] -> mleftptr = search.path[search.pivot];
+   search.path[search.pivot + 2] -> mrightptr = search.path[search.pivot + 1];
+	search.path[search.pivot + 1] -> mleftptr = grandChildLeft;
+	search.path[search.pivot] -> mrightptr = grandChildRight;
+	
+	//change pre pivot pointer
+	if (mroot == search.path[search.pivot] )
+	{
+		mroot = search.path[search.pivot + 2];
+	} else if (search.path[search.pivot - 1] -> mleftptr == search.path[search.pivot]) {
+         search.path[search.pivot - 1] -> mleftptr = search.path[search.pivot + 2];
+	} else {
+         search.path[search.pivot - 1] -> mrightptr = search.path[search.pivot + 2];
+   }
+	
+   ChangesBalances(search, search.pivot + 3);
+}
+
+//@Alex Harris, Marshall Hurson, Ryan Dewey
+//@runs binary tree insert then builds the search array path and assigns
+//@   size
+//@pre AVL newitem, treeptr, and search are all assigned
+//@post newitem is added to the tree, treeptr is updated, and search has been created
+//@   and filled out
+//@param newitem
+//@param treeptr
+//@param search
+//@throw cexception
+//@usage try {BStreeInsertNMakeSearchPath(newitem, mroot, search); }
+//@      throw (cexception except) {cout << except.what(); }
+void cavltree::BSTreeInsertNMakeSearchPath(const Citem& newitem, Cnode*& treeptr,
+														 SearchPath& search) throw (cexception)
+{
+   if (treeptr == NULL) {
+      treeptr = new (nothrow) Cnode(newitem, NULL, NULL);
+      if (treeptr == NULL)
+         throw ("Cavltree::BSTreeInsertNMakeSearchPath - Not Enough Memory to Make Node");
+      search.path[search.size] = treeptr;
+      search.size++;
+      mnumItems++;
+   } else if (newitem < treeptr -> mitem) {
+      search.path[search.size] = treeptr;
+      search.size++;
+      BSTreeInsertNMakeSearchPath(newitem, treeptr -> mleftptr, search);
+   } else {
+      search.path[search.size] = treeptr;
+      search.size++;
+      BSTreeInsertNMakeSearchPath(newitem, treeptr -> mrightptr, search);
+   }
+}
+
+//@author Ethan Fleming, Paul Jewell, Spencer Larsen
+//@date 19 march, 2011
+//@description: determines whether or not there is a pivot in the search path    
+//              and if there is, sets the pivot index in search
+//@pre search.path has been assigned, search.size is assigned the size of
+//     the search path, search.pivot is initialized to -1
+//@post assigns a value to search.pivot if there is a pivot
+//@     and returns false else returns true
+//@param search
+//@usage if(AVLtree.HasNoPivot(search))
+bool cavltree::HasNoPivot(SearchPath& search) const
+{
+	bool noPivot = true;
+	int index = search.size - 1;
+	do {
+		if (search.path[index] -> mbalance != 0)
+		{
+			search.pivot = index;
+			noPivot = false;
+		}
+		index--;
+	} while (index >= 0 && noPivot);
+	
+	return noPivot;
+	
+}
+
+//@ This function made possible by David #1, David #2, and Kevin
+//@ Adjusts the balances of the nodes in a portion of the search path on an AVL tree after an insert
+//@ pre: start and search are assigned
+//@ post: AVL tree Nodes are changed appropriately on the search path from index start down to parent of new new node
+//@ param: search, the Search Path of the AVL tree
+//@ param: start, the starting point in the path where mbalance needs to be adjusted
+//@ usage: ChangesBalances(mysearch, 0);
+void cavltree::ChangesBalances(const SearchPath& search, int start)
+{
+   for(int k = start; k < search.size - 1; k++)
+   {
+      if(search.path[k] -> mrightptr == search.path[k+1])
+         search.path[k] -> mbalance = search.path[k] -> mbalance + 1;
+      else
+         search.path[k] -> mbalance = search.path[k] -> mbalance - 1;
+   }
+}
+
+//@Team_3
+//@Ryan Draper (draper)
+//@Kelsey Takahashi(ktakahashi)
+//@Nate Wendt(nwendt) 
+//@-IsAddedToShortSide
+//@checks to see if the added node is attached to the shorter
+// side from the pivot. 
+//@pre: search has been assigned and has a pivot. 
+//@post: returns true if added node is attached to shorter side of tree
+//       else returns false
+//@param search
+//@usage if(IsAddedToShortSide(search));
+bool cavltree::IsAddedToShortSide(const SearchPath& search) const
+{
+   if(search.path[search.pivot] -> mbalance == -1 && search.path[search.pivot] -> mrightptr == search.path[search.pivot + 1])
+      return true;  // tall left and added right
+   else if(search.path[search.pivot] -> mbalance  == 1 && search.path[search.pivot] -> mleftptr == search.path[search.pivot + 1])
+      return true;  // tall right and added left
+   else
+      return false;
+}  
+
+//@Zachary Costello, Jamie Haddock, Zhia Chong
+//@Group Name: My God That Was Fast!
+//@Checks whether or not the AVL tree needs a Left Rotate
+//@pre:   the pivot exists, the search path exists and contains the path
+//        taken by the insert function 
+//@post:  Returns true if the search path goes right twice from the pivot,
+//        otherwise returns false.
+//@usage: if(IsSingleRotateLeft)
+//           (do something);
+//@param search
+bool cavltree::IsSingleRotateLeft(const SearchPath& search) const
+{
+   if(search.path[search.pivot] -> mrightptr == search.path[search.pivot + 1])
+      return (search.path[search.pivot + 1] -> mrightptr == search.path[search.pivot + 2]);
+   else
+      return false;
+}
+
+//@Checks whether or not the AVL tree needs a Right Rotate
+//@pre:   the pivot exists, the search path exists and contains the path
+//        taken by the insert function
+//@post:  Returns true if the search path goes left twice,
+//        otherwise returns false.
+//@usage: if(IsSingleRotateRight)
+//           (do something);
+//@param search
+bool cavltree::IsSingleRotateRight(const SearchPath& search) const
+{
+   if(search.path[search.pivot] -> mleftptr == search.path[search.pivot + 1])
+      return (search.path[search.pivot + 1] -> mleftptr == search.path[search.pivot + 2]);
+   else
+      return false;
+}
+
+// Team Teh League of Really Awesom3 People who Write Code
+// Collin Deel, Dan Rahm, Marvin Rumbaua, Josh MacMillan
+// Checks if the tree needs to be rotated left then right
+// pre: Calling AVL Tree object exists
+//      search has been assigned and has a pivot
+//      A new item has been added to the long side of the tree
+// post: If search path goes left then right from pivot, then returns true
+//       else returns false
+// param search
+// usage: if (ourawesometree.IsDoubleRotateLeftRight (search)) {DoDoubleRotateLeftRight ()};
+bool cavltree::IsDoubleRotateLeftRight (const SearchPath& search) const
+{
+   return ((search.path [search.pivot] -> mleftptr == search.path [search.pivot + 1]) &&
+       (search.path [search.pivot + 1] -> mrightptr == search.path [search.pivot + 2]));
+}  

@@ -1,0 +1,20 @@
+C:\Users\depalma\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Release\MouseEvents1.exe
+C:\Users\depalma\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Release\MouseEvents1.pdb
+C:\Users\depalma\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\depalma\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Painter.resources
+C:\Users\depalma\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\MouseEvents1.Properties.Resources.resources
+C:\Users\depalma\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\depalma\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\depalma\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\MouseEvents1.exe
+C:\Users\depalma\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\MouseEvents1.pdb
+C:\Users\depalma\Desktop\MouseEvents1\MouseEvents1\obj\x86\Release\MouseEvents1.exe
+C:\Users\depalma\Desktop\MouseEvents1\MouseEvents1\obj\x86\Release\MouseEvents1.pdb
+U:\documents\classwork\c224f11\examples\MouseEvents1\MouseEvents1\obj\x86\Release\MouseEvents1.exe
+U:\documents\classwork\c224f11\examples\MouseEvents1\MouseEvents1\obj\x86\Release\MouseEvents1.pdb
+U:\documents\classwork\c224f11\examples\MouseEvents1\MouseEvents1\bin\Release\MouseEvents1.exe
+U:\documents\classwork\c224f11\examples\MouseEvents1\MouseEvents1\bin\Release\MouseEvents1.pdb
+U:\documents\classwork\c224f11\examples\MouseEvents1\MouseEvents1\obj\x86\Release\ResolveAssemblyReference.cache
+U:\documents\classwork\c224f11\examples\MouseEvents1\MouseEvents1\obj\x86\Release\WindowsFormsApplication1.Painter.resources
+U:\documents\classwork\c224f11\examples\MouseEvents1\MouseEvents1\obj\x86\Release\MouseEvents1.Properties.Resources.resources
+U:\documents\classwork\c224f11\examples\MouseEvents1\MouseEvents1\obj\x86\Release\GenerateResource.read.1.tlog
+U:\documents\classwork\c224f11\examples\MouseEvents1\MouseEvents1\obj\x86\Release\GenerateResource.write.1.tlog

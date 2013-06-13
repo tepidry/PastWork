@@ -1,0 +1,8 @@
+C:\Users\TEMP\AppData\Local\Temporary Projects\ListLib\obj\Release\ResolveAssemblyReference.cache
+U:\documents\classwork\c224f11\ListLib\ListLib\obj\Release\ResolveAssemblyReference.cache
+U:\documents\classwork\c224f11\listlib\ListLib\bin\Release\ListLib.dll
+U:\documents\classwork\c224f11\listlib\ListLib\bin\Release\ListLib.pdb
+U:\documents\classwork\c224f11\listlib\ListLib\bin\Release\arraylib.dll
+U:\documents\classwork\c224f11\listlib\ListLib\bin\Release\arraylib.pdb
+U:\documents\classwork\c224f11\listlib\ListLib\obj\Release\ListLib.dll
+U:\documents\classwork\c224f11\listlib\ListLib\obj\Release\ListLib.pdb

@@ -1,0 +1,11 @@
+U:\documents\classwork\c224f11\asgn7\Calculator\WindowsFormsApplication1\bin\Debug\Calculator.exe
+U:\documents\classwork\c224f11\asgn7\Calculator\WindowsFormsApplication1\bin\Debug\Calculator.pdb
+U:\documents\classwork\c224f11\asgn7\Calculator\WindowsFormsApplication1\bin\Debug\UtilitiesClass.dll
+U:\documents\classwork\c224f11\asgn7\Calculator\WindowsFormsApplication1\bin\Debug\UtilitiesClass.pdb
+U:\documents\classwork\c224f11\asgn7\Calculator\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\documents\classwork\c224f11\asgn7\Calculator\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+U:\documents\classwork\c224f11\asgn7\Calculator\WindowsFormsApplication1\obj\x86\Debug\Calculator.Properties.Resources.resources
+U:\documents\classwork\c224f11\asgn7\Calculator\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+U:\documents\classwork\c224f11\asgn7\Calculator\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+U:\documents\classwork\c224f11\asgn7\Calculator\WindowsFormsApplication1\obj\x86\Debug\Calculator.exe
+U:\documents\classwork\c224f11\asgn7\Calculator\WindowsFormsApplication1\obj\x86\Debug\Calculator.pdb

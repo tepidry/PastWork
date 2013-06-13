@@ -1,0 +1,9 @@
+C:\Users\paul\Desktop\FileExamples\FileTest1\FileTest1\bin\Debug\FileTest1.exe
+C:\Users\paul\Desktop\FileExamples\FileTest1\FileTest1\bin\Debug\FileTest1.pdb
+C:\Users\paul\Desktop\FileExamples\FileTest1\FileTest1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\paul\Desktop\FileExamples\FileTest1\FileTest1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\paul\Desktop\FileExamples\FileTest1\FileTest1\obj\x86\Debug\FileTest1.Properties.Resources.resources
+C:\Users\paul\Desktop\FileExamples\FileTest1\FileTest1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\paul\Desktop\FileExamples\FileTest1\FileTest1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\paul\Desktop\FileExamples\FileTest1\FileTest1\obj\x86\Debug\FileTest1.exe
+C:\Users\paul\Desktop\FileExamples\FileTest1\FileTest1\obj\x86\Debug\FileTest1.pdb

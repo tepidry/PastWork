@@ -1,0 +1,89 @@
+//authors :   Ryan Draper, Jaimie Haddock
+//date:       December 3, 2012
+//file:       ScoreBoard.h
+
+//this class makes a score board using the idea of a seven segment display
+//       ___a__
+//      |       |           0 = a,b,c,e,f,g
+//     b|       |c          1 = c,f
+//       ---d---            2 = a,c,d,e,g
+//      |       |           etc...
+//     e|       |f
+//       ---g---
+// ADT ScoreBoard
+//      data object:	Simulates a seven segment display 
+//      operations:	Create, Destroy, drawScoreBoard, clearScoreBoard, addPointToScore
+
+#ifndef SCOREBOARD_H_INCLUDED
+#define SCOREBOARD_H_INCLUDED
+
+#include "mat.h"
+
+
+
+class ScoreBoard
+{
+    public:
+
+	//creates the instance of scoreboard class
+	//pre scoreboard does not exist 
+	//post scoreboard does exist
+	//usage ScoreBoard myScore();
+        ScoreBoard();
+
+	//deconstructor for score board class
+	//pre ScoreBoard instance exists
+	//post ScoreBoard instance does not exist
+        virtual ~ScoreBoard();	
+
+	//makes the scoreboard on the top right hand corner of the view displaying the public variable score 0-9
+	//pre scoreboard was not in view plane
+	//post scoreboard using shapes cube exists in top right of view
+	//param mv
+	//usage myScore.drawScoreBoard(mv);
+        void drawScoreBoard(mat4& mv);
+
+	//changes the color on the score board to 0
+	//pre score board will be displaying whatever the public variable score is 0-9
+	//post scoreboard and public variable score are 0
+	//param mv
+	//usage myScore.clearScoreBoard(mv);
+        void clearScoreBoard(mat4&mv);
+
+	//increments the value of score by 1 mod 10
+	//pre score is a public variable holding a single integer 0-9
+	//post score is a public vairable increased by one md 10
+	//usage myScore.addPointToScore();
+        void addPointToScore();
+        int score;
+        vec4 zeroGrayOneYellow[2];
+        bool onOff;
+
+    protected:
+
+    private:
+
+        void displayZero(mat4& mv);
+        void displayOne(mat4& mv);
+        void displayTwo(mat4& mv);
+        void displayThree(mat4& mv);
+        void displayFour(mat4& mv);
+        void displayFive(mat4& mv);
+        void displaySix(mat4& mv);
+        void displaySeven(mat4& mv);
+        void displayEight(mat4& mv);
+        void displayNine(mat4& mv);
+        void aToggle(mat4& mv, bool onOff);
+        void bToggle(mat4& mv, bool onOff);
+        void cToggle(mat4& mv, bool onOff);
+        void dToggle(mat4& mv, bool onOff);
+        void eToggle(mat4& mv, bool onOff);
+        void fToggle(mat4& mv, bool onOff);
+        void gToggle(mat4& mv, bool onOff);
+        void makeBar(mat4& mv, bool onOff);
+
+};
+
+
+
+#endif // SCOREBOARD_H_INCLUDED

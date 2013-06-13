@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Box.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="5611" topLine="171" />
+	</File>
+	<File name="Box.h" open="1" top="0" tabpos="2">
+		<Cursor position="334" topLine="0" />
+	</File>
+	<File name="Plane.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="631" topLine="9" />
+	</File>
+	<File name="Plane.h" open="0" top="0" tabpos="0">
+		<Cursor position="4889" topLine="137" />
+	</File>
+	<File name="World.cpp" open="1" top="1" tabpos="5">
+		<Cursor position="2148" topLine="45" />
+	</File>
+	<File name="checkerPlane.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="3622" topLine="96" />
+	</File>
+</CodeBlocks_layout_file>

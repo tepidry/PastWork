@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Cube.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="0" topLine="60" />
+	</File>
+	<File name="Cylinder.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Cylinder.h" open="1" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Disk.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="2115" topLine="60" />
+	</File>
+	<File name="InitShader.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="0" topLine="51" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="2">
+		<Cursor position="7756" topLine="135" />
+	</File>
+	<File name="mat.h" open="0" top="0" tabpos="0">
+		<Cursor position="17309" topLine="795" />
+	</File>
+</CodeBlocks_layout_file>

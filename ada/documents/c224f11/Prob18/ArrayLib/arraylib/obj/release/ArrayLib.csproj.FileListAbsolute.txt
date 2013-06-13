@@ -1,0 +1,5 @@
+U:\documents\classwork\c224f11\Prob18\ArrayLib\ArrayLib\bin\Release\ArrayLib.dll
+U:\documents\classwork\c224f11\Prob18\ArrayLib\ArrayLib\bin\Release\ArrayLib.pdb
+U:\documents\classwork\c224f11\Prob18\ArrayLib\ArrayLib\obj\Release\ResolveAssemblyReference.cache
+U:\documents\classwork\c224f11\Prob18\ArrayLib\ArrayLib\obj\Release\ArrayLib.dll
+U:\documents\classwork\c224f11\Prob18\ArrayLib\ArrayLib\obj\Release\ArrayLib.pdb

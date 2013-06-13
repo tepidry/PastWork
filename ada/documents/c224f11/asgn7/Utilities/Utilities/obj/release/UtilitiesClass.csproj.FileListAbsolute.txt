@@ -1,0 +1,5 @@
+U:\documents\classwork\c224f11\asgn7\Utilities\Utilities\bin\Release\UtilitiesClass.dll
+U:\documents\classwork\c224f11\asgn7\Utilities\Utilities\bin\Release\UtilitiesClass.pdb
+U:\documents\classwork\c224f11\asgn7\Utilities\Utilities\obj\Release\ResolveAssemblyReference.cache
+U:\documents\classwork\c224f11\asgn7\Utilities\Utilities\obj\Release\UtilitiesClass.dll
+U:\documents\classwork\c224f11\asgn7\Utilities\Utilities\obj\Release\UtilitiesClass.pdb

@@ -1,0 +1,9 @@
+U:\documents\classwork\c224f11\exam3\CryptoStuff\CryptoStuff\obj\Debug\ResolveAssemblyReference.cache
+U:\documents\classwork\c224f11\exam3\CryptoStuff\CryptoStuff\bin\Debug\CryptoStuff.dll
+U:\documents\classwork\c224f11\exam3\CryptoStuff\CryptoStuff\bin\Debug\CryptoStuff.pdb
+U:\documents\classwork\c224f11\exam3\CryptoStuff\CryptoStuff\obj\Debug\CryptoStuff.dll
+U:\documents\classwork\c224f11\exam3\CryptoStuff\CryptoStuff\obj\Debug\CryptoStuff.pdb
+U:\documents\classwork\c224f11\exam3\CryptoStuff\CryptoStuff\bin\Debug\MyExceptions.dll
+U:\documents\classwork\c224f11\exam3\CryptoStuff\CryptoStuff\bin\Debug\UtilitiesClass.dll
+U:\documents\classwork\c224f11\exam3\CryptoStuff\CryptoStuff\bin\Debug\MyExceptions.pdb
+U:\documents\classwork\c224f11\exam3\CryptoStuff\CryptoStuff\bin\Debug\UtilitiesClass.pdb

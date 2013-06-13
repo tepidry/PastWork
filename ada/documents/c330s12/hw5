@@ -1,0 +1,17 @@
+public class Stock {
+private int shares;
+private String symbol;
+public Stock(int theShares, String theSymbol) {
+shares = theShares;
+symbol = theSymbol;
+}
+public int calculateValue(int sharePrice) {
+return sharePrice * shares;
+}
+public void sell(int amount) {
+shares = shares - amount;
+}
+public String getSymbol() {
+return symbol;
+}
+}

@@ -1,0 +1,11 @@
+C:\Users\depalma\Desktop\RadioButtonTest\RadioButtons\RadioButtons\bin\Debug\RadioButtons.exe
+C:\Users\depalma\Desktop\RadioButtonTest\RadioButtons\RadioButtons\bin\Debug\RadioButtons.pdb
+C:\Users\depalma\Desktop\RadioButtonTest\RadioButtons\RadioButtons\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\depalma\Desktop\RadioButtonTest\RadioButtons\RadioButtons\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\depalma\Desktop\RadioButtonTest\RadioButtons\RadioButtons\obj\x86\Debug\RadioButtons.Properties.Resources.resources
+C:\Users\depalma\Desktop\RadioButtonTest\RadioButtons\RadioButtons\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\depalma\Desktop\RadioButtonTest\RadioButtons\RadioButtons\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\depalma\Desktop\RadioButtonTest\RadioButtons\RadioButtons\obj\x86\Debug\RadioButtons.exe
+C:\Users\depalma\Desktop\RadioButtonTest\RadioButtons\RadioButtons\obj\x86\Debug\RadioButtons.pdb
+C:\Users\depalma\Desktop\RadioButtons\RadioButtons\obj\x86\Debug\RadioButtons.exe
+C:\Users\depalma\Desktop\RadioButtons\RadioButtons\obj\x86\Debug\RadioButtons.pdb

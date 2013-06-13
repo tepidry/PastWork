@@ -1,0 +1,14 @@
+C:\Users\TEMP\AppData\Local\Temporary Projects\ExceptionTst\obj\x86\Release\ResolveAssemblyReference.cache
+U:\documents\classwork\c224f11\Asgn6\ExceptionTst\ExceptionTst\obj\x86\Release\ResolveAssemblyReference.cache
+U:\documents\classwork\c224f11\Asgn6\ExceptionTst\ExceptionTst\bin\Release\ExceptionTst.exe
+U:\documents\classwork\c224f11\Asgn6\ExceptionTst\ExceptionTst\bin\Release\ExceptionTst.pdb
+U:\documents\classwork\c224f11\Asgn6\ExceptionTst\ExceptionTst\bin\Release\arraylib.dll
+U:\documents\classwork\c224f11\Asgn6\ExceptionTst\ExceptionTst\bin\Release\listlib.dll
+U:\documents\classwork\c224f11\Asgn6\ExceptionTst\ExceptionTst\bin\Release\MyContainersExc.dll
+U:\documents\classwork\c224f11\Asgn6\ExceptionTst\ExceptionTst\bin\Release\MyExceptions.dll
+U:\documents\classwork\c224f11\Asgn6\ExceptionTst\ExceptionTst\bin\Release\arraylib.pdb
+U:\documents\classwork\c224f11\Asgn6\ExceptionTst\ExceptionTst\bin\Release\listlib.pdb
+U:\documents\classwork\c224f11\Asgn6\ExceptionTst\ExceptionTst\bin\Release\MyContainersExc.pdb
+U:\documents\classwork\c224f11\Asgn6\ExceptionTst\ExceptionTst\bin\Release\MyExceptions.pdb
+U:\documents\classwork\c224f11\Asgn6\ExceptionTst\ExceptionTst\obj\x86\Release\ExceptionTst.exe
+U:\documents\classwork\c224f11\Asgn6\ExceptionTst\ExceptionTst\obj\x86\Release\ExceptionTst.pdb

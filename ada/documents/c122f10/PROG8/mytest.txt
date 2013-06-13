@@ -1,0 +1,27 @@
+option s
+ 3 <enter> 4 <enter> + <enter> = 7
+ 3 <enter> 2 <enter> + <enter> - <enter> = 2
+ 2 <enter> * <enter> = 4
+ 2 <enter> 2 <enter> / <enter> / <enter> = 1
+ 9 <enter> * <enter> 1 <enter> 3 <enter> * <enter> / <enter> = 3
+ 3 <enter> 4 <enter> * <enter> = 0 (outputs error overload)
+ 3 <enter> 4 <enter> - <enter> = 0 (outputs error underload)
+ 
+ option c
+ 3+4 = 34+,  
+ 3+(9-7)+4 = 397-+4+, 
+ 3-4 = 34-, 
+ 3-(9/7)+(3*2) = 397/-32*+, 
+ 3*2 = 3*2, 
+ (9/(3*4))-3 = 934*/3-, 
+ 4+(2*(9-(3*4))-2) = 42934*-*2-+
+ 
+ option e
+ 3+4 = 34+ = 7, 
+ 3*(9-(5+2)) = 3952+-* = 6 , 
+ 9/(7-(2*2)) = 9722*-/ = 3, 
+ 3*4 = 34* = (overload error) = 0, 
+  7-9 = 79- = underload error = 0
+ 9*(8+7) = 987+* = overload error = 0, 
+ 2*(8/(9*9)) = overload error = 0;
+ 4+(2*(9-(3*4))-2) = 42934*-*2-+ = overload

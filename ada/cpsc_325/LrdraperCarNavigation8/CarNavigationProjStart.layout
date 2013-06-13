@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Car.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="0" topLine="12" />
+	</File>
+	<File name="Cylinder.h" open="1" top="0" tabpos="5">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Shapes.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="fragment.glsl" open="1" top="0" tabpos="1">
+		<Cursor position="76" topLine="0" />
+	</File>
+	<File name="fragment2.glsl" open="1" top="0" tabpos="2">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="3">
+		<Cursor position="13371" topLine="246" />
+	</File>
+	<File name="mat.h" open="1" top="0" tabpos="7">
+		<Cursor position="23414" topLine="888" />
+	</File>
+</CodeBlocks_layout_file>

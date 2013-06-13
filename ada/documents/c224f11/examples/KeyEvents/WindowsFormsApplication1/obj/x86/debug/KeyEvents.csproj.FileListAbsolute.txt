@@ -1,0 +1,9 @@
+C:\Users\depalma\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\depalma\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.KeyEvents.resources
+C:\Users\depalma\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\depalma\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\depalma\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\KeyEvents.exe
+C:\Users\depalma\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\KeyEvents.pdb
+C:\Users\depalma\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\KeyEvents.Properties.Resources.resources
+C:\Users\depalma\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\KeyEvents.exe
+C:\Users\depalma\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\KeyEvents.pdb

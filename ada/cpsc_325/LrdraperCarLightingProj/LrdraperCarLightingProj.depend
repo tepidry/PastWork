@@ -1,0 +1,569 @@
+# depslib dependency file v1.0
+1353458644 source:/home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/Car.cpp
+	"Car.h"
+	"Shapes.h"
+	"Globals.h"
+
+1353458644 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/Car.h
+	"mat.h"
+
+1353458644 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/mat.h
+	"vec.h"
+	<cstdio>
+	<iostream>
+
+1353458644 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/vec.h
+	"Angel.h"
+
+1353458644 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/Angel.h
+	<cmath>
+	<iostream>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	"GL/glew.h"
+	<GL/freeglut.h>
+	<GL/freeglut_ext.h>
+	"vec.h"
+	"mat.h"
+	"CheckError.h"
+
+1286310174 /usr/include/GL/glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1342628339 /usr/include/inttypes.h
+	<features.h>
+	<stdint.h>
+	<stddef.h>
+
+1342628327 /usr/include/features.h
+	<sys/cdefs.h>
+	<gnu/stubs.h>
+
+1342628345 /usr/include/sys/cdefs.h
+	<features.h>
+	<bits/wordsize.h>
+
+1342628339 /usr/include/bits/wordsize.h
+
+1342628327 /usr/include/gnu/stubs.h
+	<bits/wordsize.h>
+	<gnu/stubs-32.h>
+	<gnu/stubs-64.h>
+
+1342628362 /usr/include/gnu/stubs-64.h
+
+1342628339 /usr/include/stdint.h
+	<features.h>
+	<bits/wchar.h>
+	<bits/wordsize.h>
+
+1342628341 /usr/include/bits/wchar.h
+
+1340376679 /usr/include/GL/glu.h
+	"glu_mangle.h"
+	<GL/gl.h>
+
+1340376679 /usr/include/GL/glu_mangle.h
+
+1340376679 /usr/include/GL/gl.h
+	"gl_mangle.h"
+	<stdlib.h>
+	<windows.h>
+	<GL/mesa_wgl.h>
+	<GL/glext.h>
+
+1340376679 /usr/include/GL/gl_mangle.h
+
+1342628339 /usr/include/stdlib.h
+	<features.h>
+	<stddef.h>
+	<bits/waitflags.h>
+	<bits/waitstatus.h>
+	<xlocale.h>
+	<sys/types.h>
+	<alloca.h>
+	<bits/stdlib.h>
+	<bits/stdlib-ldbl.h>
+
+1342628344 /usr/include/bits/waitflags.h
+
+1342628344 /usr/include/bits/waitstatus.h
+	<endian.h>
+
+1342628341 /usr/include/endian.h
+	<features.h>
+	<bits/endian.h>
+	<bits/byteswap.h>
+
+1342628341 /usr/include/bits/endian.h
+
+1342628341 /usr/include/bits/byteswap.h
+	<bits/wordsize.h>
+
+1342628328 /usr/include/xlocale.h
+
+1342628344 /usr/include/sys/types.h
+	<features.h>
+	<bits/types.h>
+	<time.h>
+	<stddef.h>
+	<endian.h>
+	<sys/select.h>
+	<sys/sysmacros.h>
+	<bits/pthreadtypes.h>
+
+1342628344 /usr/include/bits/types.h
+	<features.h>
+	<bits/wordsize.h>
+	<bits/typesizes.h>
+
+1342628344 /usr/include/bits/typesizes.h
+
+1342628343 /usr/include/time.h
+	<features.h>
+	<stddef.h>
+	<bits/time.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<xlocale.h>
+
+1342628343 /usr/include/bits/time.h
+	<bits/types.h>
+	<bits/types.h>
+
+1342628345 /usr/include/sys/select.h
+	<features.h>
+	<bits/types.h>
+	<bits/select.h>
+	<bits/sigset.h>
+	<time.h>
+	<bits/time.h>
+
+1342628345 /usr/include/bits/select.h
+	<bits/wordsize.h>
+
+1342628339 /usr/include/bits/sigset.h
+
+1342628344 /usr/include/sys/sysmacros.h
+	<features.h>
+
+1342628344 /usr/include/bits/pthreadtypes.h
+	<bits/wordsize.h>
+
+1342628339 /usr/include/alloca.h
+	<features.h>
+	<stddef.h>
+
+1342628339 /usr/include/bits/stdlib.h
+
+1342628339 /usr/include/bits/stdlib-ldbl.h
+
+1340376679 /usr/include/GL/glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1289562859 /usr/include/GL/freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1289562859 /usr/include/GL/freeglut_std.h
+	<Windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1289562859 /usr/include/GL/freeglut_ext.h
+
+1353458644 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/CheckError.h
+	<stdio.h>
+	<GL/gl.h>
+
+1342628340 /usr/include/stdio.h
+	<features.h>
+	<stddef.h>
+	<bits/types.h>
+	<libio.h>
+	<stdarg.h>
+	<bits/stdio_lim.h>
+	<bits/sys_errlist.h>
+	<getopt.h>
+	<bits/stdio.h>
+	<bits/stdio2.h>
+	<bits/stdio-ldbl.h>
+
+1342628340 /usr/include/libio.h
+	<_G_config.h>
+	<stdarg.h>
+	<sys/cdefs.h>
+	<bits/stdio-lock.h>
+	<shlib-compat.h>
+	<bits/libio-ldbl.h>
+
+1342628340 /usr/include/_G_config.h
+	<bits/types.h>
+	<stddef.h>
+	<wchar.h>
+	<gconv.h>
+
+1342628341 /usr/include/wchar.h
+	<features.h>
+	<stdio.h>
+	<stdarg.h>
+	<bits/wchar.h>
+	<stddef.h>
+	<wctype.h>
+	<xlocale.h>
+	<xlocale.h>
+	<xlocale.h>
+	<wctype.h>
+	<bits/wchar2.h>
+	<bits/wchar-ldbl.h>
+
+1342628346 /usr/include/wctype.h
+	<features.h>
+	<bits/types.h>
+	<wchar.h>
+	<endian.h>
+	<xlocale.h>
+
+1342628341 /usr/include/bits/wchar2.h
+
+1342628341 /usr/include/bits/wchar-ldbl.h
+
+1342628327 /usr/include/gconv.h
+	<features.h>
+	<wchar.h>
+	<stddef.h>
+
+1272972443 /usr/include/bits/stdio-lock.h
+	<bits/libc-lock.h>
+
+1273000941 /usr/include/bits/libc-lock.h
+	<pthread.h>
+
+1342628351 /usr/include/pthread.h
+	<features.h>
+	<endian.h>
+	<sched.h>
+	<time.h>
+	<bits/pthreadtypes.h>
+	<bits/setjmp.h>
+	<bits/wordsize.h>
+
+1342628344 /usr/include/sched.h
+	<features.h>
+	<bits/types.h>
+	<stddef.h>
+	<time.h>
+	<bits/sched.h>
+
+1342628344 /usr/include/bits/sched.h
+
+1342628338 /usr/include/bits/setjmp.h
+	<bits/wordsize.h>
+
+1342628340 /usr/include/bits/libio-ldbl.h
+
+1342628340 /usr/include/bits/stdio_lim.h
+
+1342628340 /usr/include/bits/sys_errlist.h
+
+1342628344 /usr/include/getopt.h
+	<ctype.h>
+
+1342628337 /usr/include/ctype.h
+	<features.h>
+	<bits/types.h>
+	<endian.h>
+	<xlocale.h>
+
+1342628340 /usr/include/bits/stdio.h
+
+1342628340 /usr/include/bits/stdio2.h
+
+1342628340 /usr/include/bits/stdio-ldbl.h
+
+1353458644 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/Shapes.h
+	"WireCube.h"
+	"Disk.h"
+	"WireDisk.h"
+	"Cylinder.h"
+	"WireCylinder.h"
+	"WireSteiner.h"
+	"Steiner.h"
+	"Cube.h"
+
+1353458644 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/WireCube.h
+	"Angel.h"
+
+1353458644 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/Disk.h
+	"Angel.h"
+
+1353458644 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/WireDisk.h
+	"Angel.h"
+
+1353458644 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/Cylinder.h
+	"Angel.h"
+
+1353458644 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/WireCylinder.h
+	"Angel.h"
+
+1353458644 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/WireSteiner.h
+	"Angel.h"
+
+1353458644 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/Steiner.h
+	"Angel.h"
+
+1353458644 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/Cube.h
+	"Angel.h"
+
+1353458644 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/Globals.h
+	"MatrixStack.h"
+	"Shapes.h"
+
+1353458644 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/MatrixStack.h
+	<stack>
+	"Angel.h"
+
+1353458644 source:/home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/Cube.cpp
+	"Cube.h"
+	<iostream>
+
+1353458644 source:/home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/Cylinder.cpp
+	"Cylinder.h"
+	<iostream>
+
+1353458644 source:/home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/Disk.cpp
+	"Disk.h"
+	<iostream>
+
+1353458644 source:/home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/InitShader.cpp
+	"Angel.h"
+
+1353458644 source:/home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/MatrixStack.cpp
+	"MatrixStack.h"
+
+1353458644 source:/home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/Shapes.cpp
+	"Shapes.h"
+	"Globals.h"
+
+1353458644 source:/home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/Steiner.cpp
+	"Steiner.h"
+	<iostream>
+
+1353458644 source:/home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/WireCube.cpp
+	"WireCube.h"
+	<iostream>
+
+1353458644 source:/home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/WireCylinder.cpp
+	"WireCylinder.h"
+	<iostream>
+
+1353458644 source:/home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/WireDisk .cpp
+	"WireDisk.h"
+	<iostream>
+
+1353458644 source:/home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/WireSteiner.cpp
+	"WireSteiner.h"
+	<iostream>
+
+1354065664 source:/home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/main.cpp
+	"Angel.h"
+	<iostream>
+	"FractalLandHeights.h"
+	"FractalLandShape.h"
+	"MatrixStack.h"
+	"Shapes.h"
+	"Car.h"
+
+1354064943 source:/home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/FractalLandHeights.cpp
+	"FractalLandHeights.h"
+
+1354063172 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/FractalLandHeights.h
+	<cmath>
+	<cstdlib>
+	<iostream>
+	<ctime>
+	"Angel.h"
+
+1354065786 source:/home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/FractalLandShape.cpp
+	"FractalLandShape.h"
+
+1354065487 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/FractalLandShape.h
+	<cstdlib>
+	<iostream>
+	<ctime>
+	"Angel.h"
+	"FractalLandHeights.h"
+	<iostream>
+
+1354248617 source:/ada/rdraper/LrdraperCarLightingProj/Car.cpp
+	"Car.h"
+	"Shapes.h"
+	"Globals.h"
+
+1353458644 /ada/rdraper/LrdraperCarLightingProj/Car.h
+	"mat.h"
+
+1353458644 /ada/rdraper/LrdraperCarLightingProj/mat.h
+	"vec.h"
+	<cstdio>
+	<iostream>
+
+1353458644 /ada/rdraper/LrdraperCarLightingProj/vec.h
+	"Angel.h"
+
+1353458644 /ada/rdraper/LrdraperCarLightingProj/Angel.h
+	<cmath>
+	<iostream>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	"GL/glew.h"
+	<GL/freeglut.h>
+	<GL/freeglut_ext.h>
+	"vec.h"
+	"mat.h"
+	"CheckError.h"
+
+1353458644 /ada/rdraper/LrdraperCarLightingProj/CheckError.h
+	<stdio.h>
+	<GL/gl.h>
+
+1353458644 /ada/rdraper/LrdraperCarLightingProj/Shapes.h
+	"WireCube.h"
+	"Disk.h"
+	"WireDisk.h"
+	"Cylinder.h"
+	"WireCylinder.h"
+	"WireSteiner.h"
+	"Steiner.h"
+	"Cube.h"
+
+1353458644 /ada/rdraper/LrdraperCarLightingProj/WireCube.h
+	"Angel.h"
+
+1353458644 /ada/rdraper/LrdraperCarLightingProj/Disk.h
+	"Angel.h"
+
+1353458644 /ada/rdraper/LrdraperCarLightingProj/WireDisk.h
+	"Angel.h"
+
+1353458644 /ada/rdraper/LrdraperCarLightingProj/Cylinder.h
+	"Angel.h"
+
+1353458644 /ada/rdraper/LrdraperCarLightingProj/WireCylinder.h
+	"Angel.h"
+
+1353458644 /ada/rdraper/LrdraperCarLightingProj/WireSteiner.h
+	"Angel.h"
+
+1353458644 /ada/rdraper/LrdraperCarLightingProj/Steiner.h
+	"Angel.h"
+
+1353458644 /ada/rdraper/LrdraperCarLightingProj/Cube.h
+	"Angel.h"
+
+1353458644 /ada/rdraper/LrdraperCarLightingProj/Globals.h
+	"MatrixStack.h"
+	"Shapes.h"
+
+1353458644 /ada/rdraper/LrdraperCarLightingProj/MatrixStack.h
+	<stack>
+	"Angel.h"
+
+1353458644 source:/ada/rdraper/LrdraperCarLightingProj/Cube.cpp
+	"Cube.h"
+	<iostream>
+
+1353458644 source:/ada/rdraper/LrdraperCarLightingProj/Cylinder.cpp
+	"Cylinder.h"
+	<iostream>
+
+1353458644 source:/ada/rdraper/LrdraperCarLightingProj/Disk.cpp
+	"Disk.h"
+	<iostream>
+
+1354064943 source:/ada/rdraper/LrdraperCarLightingProj/FractalLandHeights.cpp
+	"FractalLandHeights.h"
+
+1354063172 /ada/rdraper/LrdraperCarLightingProj/FractalLandHeights.h
+	<cmath>
+	<cstdlib>
+	<iostream>
+	<ctime>
+	"Angel.h"
+
+1354065786 source:/ada/rdraper/LrdraperCarLightingProj/FractalLandShape.cpp
+	"FractalLandShape.h"
+
+1354065487 /ada/rdraper/LrdraperCarLightingProj/FractalLandShape.h
+	<cstdlib>
+	<iostream>
+	<ctime>
+	"Angel.h"
+	"FractalLandHeights.h"
+	<iostream>
+
+1353458644 source:/ada/rdraper/LrdraperCarLightingProj/InitShader.cpp
+	"Angel.h"
+
+1353458644 source:/ada/rdraper/LrdraperCarLightingProj/MatrixStack.cpp
+	"MatrixStack.h"
+
+1353458644 source:/ada/rdraper/LrdraperCarLightingProj/Shapes.cpp
+	"Shapes.h"
+	"Globals.h"
+
+1353458644 source:/ada/rdraper/LrdraperCarLightingProj/Steiner.cpp
+	"Steiner.h"
+	<iostream>
+
+1353458644 source:/ada/rdraper/LrdraperCarLightingProj/WireCube.cpp
+	"WireCube.h"
+	<iostream>
+
+1354420722 source:/ada/rdraper/LrdraperCarLightingProj/WireCylinder.cpp
+	"WireCylinder.h"
+	<iostream>
+
+1353458644 source:/ada/rdraper/LrdraperCarLightingProj/WireDisk .cpp
+	"WireDisk.h"
+	<iostream>
+
+1353458644 source:/ada/rdraper/LrdraperCarLightingProj/WireSteiner.cpp
+	"WireSteiner.h"
+	<iostream>
+
+1354483878 source:/ada/rdraper/LrdraperCarLightingProj/BBallCourt.cpp
+	"BBallCourt.h"
+	"Car.h"
+	"Shapes.h"
+	"Globals.h"
+
+1354481282 /ada/rdraper/LrdraperCarLightingProj/BBallCourt.h
+	"mat.h"
+
+1354647810 source:/ada/rdraper/LrdraperCarLightingProj/main.cpp
+	"Angel.h"
+	<iostream>
+	"FractalLandHeights.h"
+	"FractalLandShape.h"
+	"MatrixStack.h"
+	"Shapes.h"
+	"Car.h"
+	"BBallCourt.h"
+

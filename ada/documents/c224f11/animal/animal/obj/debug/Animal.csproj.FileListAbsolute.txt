@@ -1,0 +1,5 @@
+C:\Users\TEMP\AppData\Local\Temporary Projects\ClassLibrary1\bin\Debug\Animal.dll
+C:\Users\TEMP\AppData\Local\Temporary Projects\ClassLibrary1\bin\Debug\Animal.pdb
+C:\Users\TEMP\AppData\Local\Temporary Projects\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TEMP\AppData\Local\Temporary Projects\ClassLibrary1\obj\Debug\Animal.dll
+C:\Users\TEMP\AppData\Local\Temporary Projects\ClassLibrary1\obj\Debug\Animal.pdb

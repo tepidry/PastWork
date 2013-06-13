@@ -1,0 +1,41 @@
+C:\Users\TEMP\AppData\Local\Temporary Projects\MyContainers\obj\Release\ResolveAssemblyReference.cache
+C:\Users\TEMP\AppData\Local\Temporary Projects\MyContainers\bin\Release\MyContainers.dll
+C:\Users\TEMP\AppData\Local\Temporary Projects\MyContainers\bin\Release\MyContainers.pdb
+C:\Users\TEMP\AppData\Local\Temporary Projects\MyContainers\bin\Release\arraylib.dll
+C:\Users\TEMP\AppData\Local\Temporary Projects\MyContainers\bin\Release\ListLibrary.dll
+C:\Users\TEMP\AppData\Local\Temporary Projects\MyContainers\bin\Release\arraylib.pdb
+C:\Users\TEMP\AppData\Local\Temporary Projects\MyContainers\bin\Release\ListLibrary.pdb
+C:\Users\TEMP\AppData\Local\Temporary Projects\MyContainers\obj\Release\MyContainers.dll
+C:\Users\TEMP\AppData\Local\Temporary Projects\MyContainers\obj\Release\MyContainers.pdb
+U:\documents\classwork\c224f11\MyContainer\MyContainers\MyContainers\obj\Release\ResolveAssemblyReference.cache
+U:\documents\classwork\c224f11\MyContainer\MyContainers\MyContainers\obj\Release\MyContainers.dll
+U:\documents\classwork\c224f11\MyContainer\MyContainers\MyContainers\bin\Release\MyContainers.dll
+U:\documents\classwork\c224f11\MyContainer\MyContainers\MyContainers\bin\Release\MyContainers.pdb
+U:\documents\classwork\c224f11\MyContainer\MyContainers\MyContainers\bin\Release\arraylib.dll
+U:\documents\classwork\c224f11\MyContainer\MyContainers\MyContainers\bin\Release\ListLibrary.dll
+U:\documents\classwork\c224f11\MyContainer\MyContainers\MyContainers\bin\Release\arraylib.pdb
+U:\documents\classwork\c224f11\MyContainer\MyContainers\MyContainers\bin\Release\ListLibrary.pdb
+U:\documents\classwork\c224f11\MyContainer\MyContainers\MyContainers\obj\Release\MyContainers.pdb
+U:\documents\classwork\c224f11\MyContainer\MyContainersObj\MyContainers\bin\Release\MyContainersObj.dll
+U:\documents\classwork\c224f11\MyContainer\MyContainersObj\MyContainers\bin\Release\MyContainersObj.pdb
+U:\documents\classwork\c224f11\MyContainer\MyContainersObj\MyContainers\bin\Release\arraylib.dll
+U:\documents\classwork\c224f11\MyContainer\MyContainersObj\MyContainers\bin\Release\listlib.dll
+U:\documents\classwork\c224f11\MyContainer\MyContainersObj\MyContainers\bin\Release\arraylib.pdb
+U:\documents\classwork\c224f11\MyContainer\MyContainersObj\MyContainers\bin\Release\listlib.pdb
+U:\documents\classwork\c224f11\MyContainer\MyContainersObj\MyContainers\obj\Release\ResolveAssemblyReference.cache
+U:\documents\classwork\c224f11\MyContainer\MyContainersObj\MyContainers\obj\Release\MyContainersObj.dll
+U:\documents\classwork\c224f11\MyContainer\MyContainersObj\MyContainers\obj\Release\MyContainersObj.pdb
+U:\documents\classwork\c224f11\Prob18\MyContainer\MyContainersObj\MyContainers\bin\Release\MyContainersObj.dll
+U:\documents\classwork\c224f11\Prob18\MyContainer\MyContainersObj\MyContainers\bin\Release\MyContainersObj.pdb
+U:\documents\classwork\c224f11\Prob18\MyContainer\MyContainersObj\MyContainers\bin\Release\arraylib.pdb
+U:\documents\classwork\c224f11\Prob18\MyContainer\MyContainersObj\MyContainers\bin\Release\listlib.pdb
+U:\documents\classwork\c224f11\Prob18\MyContainer\MyContainersObj\MyContainers\obj\Release\ResolveAssemblyReference.cache
+U:\documents\classwork\c224f11\Prob18\MyContainer\MyContainersObj\MyContainers\obj\Release\MyContainersObj.dll
+U:\documents\classwork\c224f11\Prob18\MyContainer\MyContainersObj\MyContainers\obj\Release\MyContainersObj.pdb
+U:\documents\classwork\c224f11\Prob18\MyContainers\MyContainers\MyContainers\bin\Release\MyContainersObj.dll
+U:\documents\classwork\c224f11\Prob18\MyContainers\MyContainers\MyContainers\bin\Release\MyContainersObj.pdb
+U:\documents\classwork\c224f11\Prob18\MyContainers\MyContainers\MyContainers\bin\Release\arraylib.pdb
+U:\documents\classwork\c224f11\Prob18\MyContainers\MyContainers\MyContainers\bin\Release\listlib.pdb
+U:\documents\classwork\c224f11\Prob18\MyContainers\MyContainers\MyContainers\obj\Release\ResolveAssemblyReference.cache
+U:\documents\classwork\c224f11\Prob18\MyContainers\MyContainers\MyContainers\obj\Release\MyContainersObj.dll
+U:\documents\classwork\c224f11\Prob18\MyContainers\MyContainers\MyContainers\obj\Release\MyContainersObj.pdb

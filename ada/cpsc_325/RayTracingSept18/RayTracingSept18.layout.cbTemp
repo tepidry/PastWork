@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Camera.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="951" topLine="6" />
+	</File>
+	<File name="Camera.h" open="1" top="0" tabpos="11">
+		<Cursor position="0" topLine="44" />
+	</File>
+	<File name="Material.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="PointLight.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="PointLight.h" open="1" top="0" tabpos="2">
+		<Cursor position="0" topLine="15" />
+	</File>
+	<File name="RenderEngine.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="2356" topLine="168" />
+	</File>
+	<File name="RenderEngine.h" open="1" top="0" tabpos="10">
+		<Cursor position="0" topLine="29" />
+	</File>
+	<File name="Sphere.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="0" topLine="57" />
+	</File>
+	<File name="Utilities/Ray.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="0" topLine="3" />
+	</File>
+	<File name="Utilities/ShadeRec.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="World.cpp" open="1" top="1" tabpos="4">
+		<Cursor position="1921" topLine="22" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="341" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

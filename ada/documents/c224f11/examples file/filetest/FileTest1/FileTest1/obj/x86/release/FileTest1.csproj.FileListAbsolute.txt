@@ -1,0 +1,36 @@
+C:\Users\depalma\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Release\FileTest1.exe
+C:\Users\depalma\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Release\FileTest1.pdb
+C:\Users\depalma\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\depalma\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\depalma\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\FileTest1.Properties.Resources.resources
+C:\Users\depalma\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\depalma\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\depalma\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\FileTest1.exe
+C:\Users\depalma\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\FileTest1.pdb
+Z:\public_html\courses\cpsc224\examplesCSharp\FileTest1\FileTest1\obj\x86\Release\FileTest1.exe
+Z:\public_html\courses\cpsc224\examplesCSharp\FileTest1\FileTest1\obj\x86\Release\FileTest1.pdb
+Z:\public_html\courses\cpsc224\examplesCSharp\FileTest1\FileTest1\bin\Release\FileTest1.exe
+Z:\public_html\courses\cpsc224\examplesCSharp\FileTest1\FileTest1\bin\Release\FileTest1.pdb
+Z:\public_html\courses\cpsc224\examplesCSharp\FileTest1\FileTest1\obj\x86\Release\ResolveAssemblyReference.cache
+Z:\public_html\courses\cpsc224\examplesCSharp\FileTest1\FileTest1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+Z:\public_html\courses\cpsc224\examplesCSharp\FileTest1\FileTest1\obj\x86\Release\FileTest1.Properties.Resources.resources
+Z:\public_html\courses\cpsc224\examplesCSharp\FileTest1\FileTest1\obj\x86\Release\GenerateResource.read.1.tlog
+Z:\public_html\courses\cpsc224\examplesCSharp\FileTest1\FileTest1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\paul\Desktop\FileExamples\FileTest1\FileTest1\obj\x86\Release\FileTest1.exe
+C:\Users\paul\Desktop\FileExamples\FileTest1\FileTest1\obj\x86\Release\FileTest1.pdb
+C:\Users\paul\Desktop\FileExamples\FileTest1\FileTest1\bin\Release\FileTest1.exe
+C:\Users\paul\Desktop\FileExamples\FileTest1\FileTest1\bin\Release\FileTest1.pdb
+C:\Users\paul\Desktop\FileExamples\FileTest1\FileTest1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\paul\Desktop\FileExamples\FileTest1\FileTest1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\paul\Desktop\FileExamples\FileTest1\FileTest1\obj\x86\Release\FileTest1.Properties.Resources.resources
+C:\Users\paul\Desktop\FileExamples\FileTest1\FileTest1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\paul\Desktop\FileExamples\FileTest1\FileTest1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Draper\Desktop\filetest\FileTest1\FileTest1\obj\x86\Release\FileTest1.exe
+C:\Users\Draper\Desktop\filetest\FileTest1\FileTest1\obj\x86\Release\FileTest1.pdb
+C:\Users\Draper\Desktop\filetest\FileTest1\FileTest1\bin\Release\FileTest1.exe
+C:\Users\Draper\Desktop\filetest\FileTest1\FileTest1\bin\Release\FileTest1.pdb
+C:\Users\Draper\Desktop\filetest\FileTest1\FileTest1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Draper\Desktop\filetest\FileTest1\FileTest1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Draper\Desktop\filetest\FileTest1\FileTest1\obj\x86\Release\FileTest1.Properties.Resources.resources
+C:\Users\Draper\Desktop\filetest\FileTest1\FileTest1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Draper\Desktop\filetest\FileTest1\FileTest1\obj\x86\Release\GenerateResource.write.1.tlog

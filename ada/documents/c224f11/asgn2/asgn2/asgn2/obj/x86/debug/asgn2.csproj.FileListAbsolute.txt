@@ -1,0 +1,5 @@
+U:\documents\classwork\c224f11\asgn2\asgn2\asgn2\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\documents\classwork\c224f11\asgn2\asgn2\asgn2\bin\Debug\asgn2.exe
+U:\documents\classwork\c224f11\asgn2\asgn2\asgn2\bin\Debug\asgn2.pdb
+U:\documents\classwork\c224f11\asgn2\asgn2\asgn2\obj\x86\Debug\asgn2.exe
+U:\documents\classwork\c224f11\asgn2\asgn2\asgn2\obj\x86\Debug\asgn2.pdb

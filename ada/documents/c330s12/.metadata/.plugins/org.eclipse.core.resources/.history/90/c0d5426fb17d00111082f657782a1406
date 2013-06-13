@@ -1,0 +1,16 @@
+
+public class TriangleUI {
+	public int a, b, c;
+	public Triangle t;  
+	public boolean isEquilateral(){
+	}
+	public boolean isIsosceles(){
+	}
+	public boolean isScalene(){
+	}
+	public boolean isNotATriangle(){
+		
+	}
+
+
+}

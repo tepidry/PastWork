@@ -1,0 +1,10 @@
+C:\Users\TEMP\AppData\Local\Temporary Projects\ClassLibrary1\bin\Release\Animal.dll
+C:\Users\TEMP\AppData\Local\Temporary Projects\ClassLibrary1\bin\Release\Animal.pdb
+C:\Users\TEMP\AppData\Local\Temporary Projects\ClassLibrary1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\TEMP\AppData\Local\Temporary Projects\ClassLibrary1\obj\Release\Animal.dll
+C:\Users\TEMP\AppData\Local\Temporary Projects\ClassLibrary1\obj\Release\Animal.pdb
+U:\documents\classwork\c224f11\animal\animal\bin\Release\Animal.dll
+U:\documents\classwork\c224f11\animal\animal\bin\Release\Animal.pdb
+U:\documents\classwork\c224f11\animal\animal\obj\Release\ResolveAssemblyReference.cache
+U:\documents\classwork\c224f11\animal\animal\obj\Release\Animal.dll
+U:\documents\classwork\c224f11\animal\animal\obj\Release\Animal.pdb

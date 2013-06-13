@@ -1,0 +1,15 @@
+C:\Users\TEMP.GONZAGA\AppData\Local\Temporary Projects\MyExceptions\bin\Release\MyExceptions.dll
+C:\Users\TEMP.GONZAGA\AppData\Local\Temporary Projects\MyExceptions\bin\Release\MyExceptions.pdb
+C:\Users\TEMP.GONZAGA\AppData\Local\Temporary Projects\MyExceptions\obj\Release\ResolveAssemblyReference.cache
+C:\Users\TEMP.GONZAGA\AppData\Local\Temporary Projects\MyExceptions\obj\Release\MyExceptions.dll
+C:\Users\TEMP.GONZAGA\AppData\Local\Temporary Projects\MyExceptions\obj\Release\MyExceptions.pdb
+U:\documents\classwork\c224f11\MyExceptions\MyExceptions\bin\Release\MyExceptions.dll
+U:\documents\classwork\c224f11\MyExceptions\MyExceptions\bin\Release\MyExceptions.pdb
+U:\documents\classwork\c224f11\MyExceptions\MyExceptions\obj\Release\ResolveAssemblyReference.cache
+U:\documents\classwork\c224f11\MyExceptions\MyExceptions\obj\Release\MyExceptions.dll
+U:\documents\classwork\c224f11\MyExceptions\MyExceptions\obj\Release\MyExceptions.pdb
+U:\documents\classwork\c224f11\Asgn6\MyExceptions\MyExceptions\bin\Release\MyExceptions.dll
+U:\documents\classwork\c224f11\Asgn6\MyExceptions\MyExceptions\bin\Release\MyExceptions.pdb
+U:\documents\classwork\c224f11\Asgn6\MyExceptions\MyExceptions\obj\Release\ResolveAssemblyReference.cache
+U:\documents\classwork\c224f11\Asgn6\MyExceptions\MyExceptions\obj\Release\MyExceptions.dll
+U:\documents\classwork\c224f11\Asgn6\MyExceptions\MyExceptions\obj\Release\MyExceptions.pdb

@@ -1,0 +1,28 @@
+C:\Users\Draper\AppData\Local\Temporary Projects\Paint (Asgn8)\bin\Release\Paint (Asgn8).exe
+C:\Users\Draper\AppData\Local\Temporary Projects\Paint (Asgn8)\bin\Release\Paint (Asgn8).pdb
+C:\Users\Draper\AppData\Local\Temporary Projects\Paint (Asgn8)\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Draper\AppData\Local\Temporary Projects\Paint (Asgn8)\obj\x86\Release\Paint__Asgn8_.Form1.resources
+C:\Users\Draper\AppData\Local\Temporary Projects\Paint (Asgn8)\obj\x86\Release\Paint__Asgn8_.Properties.Resources.resources
+C:\Users\Draper\AppData\Local\Temporary Projects\Paint (Asgn8)\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Draper\AppData\Local\Temporary Projects\Paint (Asgn8)\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Draper\AppData\Local\Temporary Projects\Paint (Asgn8)\obj\x86\Release\Paint (Asgn8).exe
+C:\Users\Draper\AppData\Local\Temporary Projects\Paint (Asgn8)\obj\x86\Release\Paint (Asgn8).pdb
+C:\Users\Draper\Desktop\Paint (Asgn8)\Paint (Asgn8)\obj\x86\Release\Paint (Asgn8).exe
+U:\documents\classwork\c224f11\Paint (Asgn8)\Paint (Asgn8)\obj\x86\Release\Paint (Asgn8).exe
+U:\documents\classwork\c224f11\Paint (Asgn8)\Paint (Asgn8)\bin\Release\Paint (Asgn8).exe
+U:\documents\classwork\c224f11\Paint (Asgn8)\Paint (Asgn8)\bin\Release\Paint (Asgn8).pdb
+U:\documents\classwork\c224f11\Paint (Asgn8)\Paint (Asgn8)\obj\x86\Release\ResolveAssemblyReference.cache
+U:\documents\classwork\c224f11\Paint (Asgn8)\Paint (Asgn8)\obj\x86\Release\Paint__Asgn8_.Form1.resources
+U:\documents\classwork\c224f11\Paint (Asgn8)\Paint (Asgn8)\obj\x86\Release\Paint__Asgn8_.Properties.Resources.resources
+U:\documents\classwork\c224f11\Paint (Asgn8)\Paint (Asgn8)\obj\x86\Release\GenerateResource.read.1.tlog
+U:\documents\classwork\c224f11\Paint (Asgn8)\Paint (Asgn8)\obj\x86\Release\GenerateResource.write.1.tlog
+U:\documents\classwork\c224f11\Paint (Asgn8)\Paint (Asgn8)\obj\x86\Release\Paint (Asgn8).pdb
+C:\Users\Draper\Desktop\asgn8\Paint (Asgn8)\obj\x86\Release\Paint (Asgn8).exe
+C:\Users\Draper\Desktop\asgn8\Paint (Asgn8)\obj\x86\Release\Paint (Asgn8).pdb
+C:\Users\Draper\Desktop\asgn8\Paint (Asgn8)\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Draper\Desktop\asgn8\Paint (Asgn8)\obj\x86\Release\Paint__Asgn8_.Form1.resources
+C:\Users\Draper\Desktop\asgn8\Paint (Asgn8)\obj\x86\Release\Paint__Asgn8_.Properties.Resources.resources
+C:\Users\Draper\Desktop\asgn8\Paint (Asgn8)\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Draper\Desktop\asgn8\Paint (Asgn8)\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Draper\Desktop\asgn8\Paint (Asgn8)\bin\Release\Paint (Asgn8).exe
+C:\Users\Draper\Desktop\asgn8\Paint (Asgn8)\bin\Release\Paint (Asgn8).pdb

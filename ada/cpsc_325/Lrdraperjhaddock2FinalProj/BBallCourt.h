@@ -1,0 +1,119 @@
+//authors :   Ryan Draper, Jamie Haddock
+//date:       December 3, 2012
+//file:       BBallCourt.h
+
+// ADT BBallCourt
+//      data object:	Creates a basketball court where the letters on the backboad GO ZAGS change between two shades of Red
+//      operations:	Create, Destroy, drawBBallCourt, highlightBoard
+
+//description Creates a instance of BBallCourt which uses Shapes.h to create a basketball court
+
+#ifndef BBALLCOURT
+#define BBALLCOURT
+
+#include "mat.h"
+
+class BBallCourt
+{
+    public:
+        //Constructs the instance of BBallCourt
+        //pre BBallCourt did not exist
+        //post BBallCourt exists and public members courtLength = 40 and courtWidth = 30
+        //usage BBallCourt court;
+        BBallCourt();
+
+        //Deconstructor for class BBallCourt
+        //pre BBallCourt exists
+        //post BBallCourt does not exist
+        virtual ~BBallCourt();
+
+        //creates the basic court of brown using shapes.h and Cube class
+        //pre couurt does not exist
+        //post court does exist relative to the eye frame
+        //usage drawCourt(mv);
+        void drawBBallCourt(mat4& mv);
+
+        // changes the color of the letters on the board to apear as though they are lighting up
+        //pre public bool variaable lightupback board is either true or false
+        //post public bool variable lightUpBackBoard is = to onOff
+        //usage court.highlightBoard(on);
+        void highlightBoard(bool onOff);
+        int courtLength;
+        int courtWidth;
+        bool lightUpBackBoard;
+
+
+    protected:
+
+    private:
+        //void drawDude(mat4& mv);
+        //void drawCheer(mat4& mv);
+
+        //create the backboard in its entirety includeing other private members to create the letters uses Cylinder and Cube from Shapes
+        //pre the backboard doesn't exist
+        //post backboard is created in the mv and inside the frustrum
+        //usgae drawBackBoard(mv);
+        void drawBackBoard(mat4& mv);
+
+        //creates the basic court of brown using shapes.h and Cube class
+        //pre couurt does not exist
+        //post court does exist relative to the eye frame
+        //usage drawCourt(mv);
+        void drawCourt(mat4& mv);
+
+        //draws the letters on the backboard using private functions drawGOZAGS respectively
+        //pre the backboard is plain white with no letters
+        //post the backboard has GO ZAGS in it and can change colors between the vec 4 red[]
+        //variable lightupbackboard depending on the state of the the letters can be red or yellow
+        //usage drawOnBackBoard(mv);
+        void drawOnBackBoard(mat4& mv);
+
+        //draws the letter G using the cube class in shapes
+        //pre G is not in the view matrix
+        //post class cube allows the G to be in the view matrix
+        //usage drawG(mv, red[i]);
+        void drawG(mat4& mv, vec4 color);
+
+        //draws the letter O using the cube class in shapes
+        //pre O is not in the view matrix
+        //post class cube allows the O to be in the view matrix
+        //usage drawO(mv, red[i]);
+        void drawO(mat4& mv, vec4 color);
+
+        //draws the letter Z using the cube class in shapes
+        //pre Z is not in the view matrix
+        //post class cube allows the Z to be in the view matrix
+        //usage drawZ(mv, red[i]);
+        void drawZ(mat4& mv, vec4 color);
+
+        //draws the letter A using the cube class in shapes
+        //pre A is not in the view matrix
+        //post class cube allows the A to be in the view matrix
+        //usage drawA(mv, red[i]);
+        void drawA(mat4& mv, vec4 color);
+
+        //draws the letter S using the cube class in shapes
+        //pre S is not in the view matrix
+        //post class cube allows the S to be in the view matrix
+        //usage drawS(mv, red[i]);
+        void drawS(mat4& mv, vec4 color);
+
+        //draws lines on the court so it looks like a basketball court free throw line
+        //pre lines were not on the court
+        //post cube class is used to draw the lines here in red on the matrix view
+        //usage drawCourtLines(mv);
+        void drawCourtLines(mat4& mv);
+
+        //void drawSeats(mat4& mv);
+
+        //makes a set of blocked bleachers according to the length and width of the rectangle that is the gap in the middle.
+        //pre bleachers have not been created in the matrix view
+        //post bleachers are now in the matrix view Scaled to (seatLength, 1, 1) and translated(width,yLevel, length) height
+        //usage makeBleachers(mv, 34, 40, 5, 50, color);
+        void makeBleachers(mat4& mv, int length, int width, int yLevel, int seatLength, const vec4& color);
+
+
+
+};
+
+#endif // BBALLCOURT_H_INCLUDED

@@ -1,0 +1,22 @@
+C:\Users\TEMP\AppData\Local\Temporary Projects\MyContainersExc\bin\Release\MyContainersExc.dll
+C:\Users\TEMP\AppData\Local\Temporary Projects\MyContainersExc\bin\Release\MyContainersExc.pdb
+C:\Users\TEMP\AppData\Local\Temporary Projects\MyContainersExc\bin\Release\arraylib.dll
+C:\Users\TEMP\AppData\Local\Temporary Projects\MyContainersExc\bin\Release\listlib.dll
+C:\Users\TEMP\AppData\Local\Temporary Projects\MyContainersExc\bin\Release\MyExceptions.dll
+C:\Users\TEMP\AppData\Local\Temporary Projects\MyContainersExc\bin\Release\arraylib.pdb
+C:\Users\TEMP\AppData\Local\Temporary Projects\MyContainersExc\bin\Release\listlib.pdb
+C:\Users\TEMP\AppData\Local\Temporary Projects\MyContainersExc\bin\Release\MyExceptions.pdb
+C:\Users\TEMP\AppData\Local\Temporary Projects\MyContainersExc\obj\Release\ResolveAssemblyReference.cache
+C:\Users\TEMP\AppData\Local\Temporary Projects\MyContainersExc\obj\Release\MyContainersExc.dll
+C:\Users\TEMP\AppData\Local\Temporary Projects\MyContainersExc\obj\Release\MyContainersExc.pdb
+U:\documents\classwork\c224f11\Asgn6\MyContainersExc\MyContainersExc\bin\Release\MyContainersExc.dll
+U:\documents\classwork\c224f11\Asgn6\MyContainersExc\MyContainersExc\bin\Release\MyContainersExc.pdb
+U:\documents\classwork\c224f11\Asgn6\MyContainersExc\MyContainersExc\bin\Release\arraylib.dll
+U:\documents\classwork\c224f11\Asgn6\MyContainersExc\MyContainersExc\bin\Release\listlib.dll
+U:\documents\classwork\c224f11\Asgn6\MyContainersExc\MyContainersExc\bin\Release\MyExceptions.dll
+U:\documents\classwork\c224f11\Asgn6\MyContainersExc\MyContainersExc\bin\Release\arraylib.pdb
+U:\documents\classwork\c224f11\Asgn6\MyContainersExc\MyContainersExc\bin\Release\listlib.pdb
+U:\documents\classwork\c224f11\Asgn6\MyContainersExc\MyContainersExc\bin\Release\MyExceptions.pdb
+U:\documents\classwork\c224f11\Asgn6\MyContainersExc\MyContainersExc\obj\Release\ResolveAssemblyReference.cache
+U:\documents\classwork\c224f11\Asgn6\MyContainersExc\MyContainersExc\obj\Release\MyContainersExc.dll
+U:\documents\classwork\c224f11\Asgn6\MyContainersExc\MyContainersExc\obj\Release\MyContainersExc.pdb

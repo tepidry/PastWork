@@ -1,0 +1,11 @@
+C:\Users\paul\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Release\FileTest3.exe
+C:\Users\paul\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Release\FileTest3.pdb
+C:\Users\paul\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\paul\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Release\FileTest3.exe
+C:\Users\paul\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Release\FileTest3.pdb
+C:\Users\paul\Desktop\FileTest3\FileTest3\obj\x86\Release\FileTest3.exe
+C:\Users\paul\Desktop\FileTest3\FileTest3\obj\x86\Release\FileTest3.pdb
+C:\Users\paul\Desktop\FileExamples\FileTest3\FileTest3\obj\x86\Release\FileTest3.exe
+C:\Users\paul\Desktop\FileExamples\FileTest3\FileTest3\obj\x86\Release\FileTest3.pdb
+C:\Users\Draper\Desktop\filetest\FileTest3\FileTest3\obj\x86\Release\FileTest3.exe
+C:\Users\Draper\Desktop\filetest\FileTest3\FileTest3\obj\x86\Release\FileTest3.pdb

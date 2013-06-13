@@ -1,0 +1,11 @@
+Z:\public_html\courses\cpsc224\examplesCSharp\MenuTst\MenuTst\bin\Release\MenuTst.exe
+Z:\public_html\courses\cpsc224\examplesCSharp\MenuTst\MenuTst\bin\Release\MenuTst.pdb
+Z:\public_html\courses\cpsc224\examplesCSharp\MenuTst\MenuTst\obj\x86\Release\ResolveAssemblyReference.cache
+Z:\public_html\courses\cpsc224\examplesCSharp\MenuTst\MenuTst\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+Z:\public_html\courses\cpsc224\examplesCSharp\MenuTst\MenuTst\obj\x86\Release\MenuTst.Properties.Resources.resources
+Z:\public_html\courses\cpsc224\examplesCSharp\MenuTst\MenuTst\obj\x86\Release\GenerateResource.read.1.tlog
+Z:\public_html\courses\cpsc224\examplesCSharp\MenuTst\MenuTst\obj\x86\Release\GenerateResource.write.1.tlog
+Z:\public_html\courses\cpsc224\examplesCSharp\MenuTst\MenuTst\obj\x86\Release\MenuTst.exe
+Z:\public_html\courses\cpsc224\examplesCSharp\MenuTst\MenuTst\obj\x86\Release\MenuTst.pdb
+U:\public_html\courses\cpsc224\examplesCSharp\menutst\MenuTst\obj\x86\Release\MenuTst.exe
+U:\public_html\courses\cpsc224\examplesCSharp\menutst\MenuTst\obj\x86\Release\MenuTst.pdb

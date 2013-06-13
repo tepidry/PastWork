@@ -1,0 +1,8 @@
+
+public class TriangleUI {
+	public int a, b, c;
+	public Triangle t;  
+	
+
+
+}

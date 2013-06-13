@@ -1,0 +1,1330 @@
+# depslib dependency file v1.0
+1353458644 source:/home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/Car.cpp
+	"Car.h"
+	"Shapes.h"
+	"Globals.h"
+
+1353458644 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/Car.h
+	"mat.h"
+
+1353458644 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/mat.h
+	"vec.h"
+	<cstdio>
+	<iostream>
+
+1353458644 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/vec.h
+	"Angel.h"
+
+1353458644 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/Angel.h
+	<cmath>
+	<iostream>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	"GL/glew.h"
+	<GL/freeglut.h>
+	<GL/freeglut_ext.h>
+	"vec.h"
+	"mat.h"
+	"CheckError.h"
+
+1286310174 /usr/include/GL/glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1342628339 /usr/include/inttypes.h
+	<features.h>
+	<stdint.h>
+	<stddef.h>
+
+1342628327 /usr/include/features.h
+	<sys/cdefs.h>
+	<gnu/stubs.h>
+
+1342628345 /usr/include/sys/cdefs.h
+	<features.h>
+	<bits/wordsize.h>
+
+1342628339 /usr/include/bits/wordsize.h
+
+1342628327 /usr/include/gnu/stubs.h
+	<bits/wordsize.h>
+	<gnu/stubs-32.h>
+	<gnu/stubs-64.h>
+
+1342628362 /usr/include/gnu/stubs-64.h
+
+1342628339 /usr/include/stdint.h
+	<features.h>
+	<bits/wchar.h>
+	<bits/wordsize.h>
+
+1342628341 /usr/include/bits/wchar.h
+
+1340376679 /usr/include/GL/glu.h
+	"glu_mangle.h"
+	<GL/gl.h>
+
+1340376679 /usr/include/GL/glu_mangle.h
+
+1340376679 /usr/include/GL/gl.h
+	"gl_mangle.h"
+	<stdlib.h>
+	<windows.h>
+	<GL/mesa_wgl.h>
+	<GL/glext.h>
+
+1340376679 /usr/include/GL/gl_mangle.h
+
+1342628339 /usr/include/stdlib.h
+	<features.h>
+	<stddef.h>
+	<bits/waitflags.h>
+	<bits/waitstatus.h>
+	<xlocale.h>
+	<sys/types.h>
+	<alloca.h>
+	<bits/stdlib.h>
+	<bits/stdlib-ldbl.h>
+
+1342628344 /usr/include/bits/waitflags.h
+
+1342628344 /usr/include/bits/waitstatus.h
+	<endian.h>
+
+1342628341 /usr/include/endian.h
+	<features.h>
+	<bits/endian.h>
+	<bits/byteswap.h>
+
+1342628341 /usr/include/bits/endian.h
+
+1342628341 /usr/include/bits/byteswap.h
+	<bits/wordsize.h>
+
+1342628328 /usr/include/xlocale.h
+
+1342628344 /usr/include/sys/types.h
+	<features.h>
+	<bits/types.h>
+	<time.h>
+	<stddef.h>
+	<endian.h>
+	<sys/select.h>
+	<sys/sysmacros.h>
+	<bits/pthreadtypes.h>
+
+1342628344 /usr/include/bits/types.h
+	<features.h>
+	<bits/wordsize.h>
+	<bits/typesizes.h>
+
+1342628344 /usr/include/bits/typesizes.h
+
+1342628343 /usr/include/time.h
+	<features.h>
+	<stddef.h>
+	<bits/time.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<xlocale.h>
+
+1342628343 /usr/include/bits/time.h
+	<bits/types.h>
+	<bits/types.h>
+
+1342628345 /usr/include/sys/select.h
+	<features.h>
+	<bits/types.h>
+	<bits/select.h>
+	<bits/sigset.h>
+	<time.h>
+	<bits/time.h>
+
+1342628345 /usr/include/bits/select.h
+	<bits/wordsize.h>
+
+1342628339 /usr/include/bits/sigset.h
+
+1342628344 /usr/include/sys/sysmacros.h
+	<features.h>
+
+1342628344 /usr/include/bits/pthreadtypes.h
+	<bits/wordsize.h>
+
+1342628339 /usr/include/alloca.h
+	<features.h>
+	<stddef.h>
+
+1342628339 /usr/include/bits/stdlib.h
+
+1342628339 /usr/include/bits/stdlib-ldbl.h
+
+1340376679 /usr/include/GL/glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1289562859 /usr/include/GL/freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1289562859 /usr/include/GL/freeglut_std.h
+	<Windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1289562859 /usr/include/GL/freeglut_ext.h
+
+1353458644 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/CheckError.h
+	<stdio.h>
+	<GL/gl.h>
+
+1342628340 /usr/include/stdio.h
+	<features.h>
+	<stddef.h>
+	<bits/types.h>
+	<libio.h>
+	<stdarg.h>
+	<bits/stdio_lim.h>
+	<bits/sys_errlist.h>
+	<getopt.h>
+	<bits/stdio.h>
+	<bits/stdio2.h>
+	<bits/stdio-ldbl.h>
+
+1342628340 /usr/include/libio.h
+	<_G_config.h>
+	<stdarg.h>
+	<sys/cdefs.h>
+	<bits/stdio-lock.h>
+	<shlib-compat.h>
+	<bits/libio-ldbl.h>
+
+1342628340 /usr/include/_G_config.h
+	<bits/types.h>
+	<stddef.h>
+	<wchar.h>
+	<gconv.h>
+
+1342628341 /usr/include/wchar.h
+	<features.h>
+	<stdio.h>
+	<stdarg.h>
+	<bits/wchar.h>
+	<stddef.h>
+	<wctype.h>
+	<xlocale.h>
+	<xlocale.h>
+	<xlocale.h>
+	<wctype.h>
+	<bits/wchar2.h>
+	<bits/wchar-ldbl.h>
+
+1342628346 /usr/include/wctype.h
+	<features.h>
+	<bits/types.h>
+	<wchar.h>
+	<endian.h>
+	<xlocale.h>
+
+1342628341 /usr/include/bits/wchar2.h
+
+1342628341 /usr/include/bits/wchar-ldbl.h
+
+1342628327 /usr/include/gconv.h
+	<features.h>
+	<wchar.h>
+	<stddef.h>
+
+1272972443 /usr/include/bits/stdio-lock.h
+	<bits/libc-lock.h>
+
+1273000941 /usr/include/bits/libc-lock.h
+	<pthread.h>
+
+1342628351 /usr/include/pthread.h
+	<features.h>
+	<endian.h>
+	<sched.h>
+	<time.h>
+	<bits/pthreadtypes.h>
+	<bits/setjmp.h>
+	<bits/wordsize.h>
+
+1342628344 /usr/include/sched.h
+	<features.h>
+	<bits/types.h>
+	<stddef.h>
+	<time.h>
+	<bits/sched.h>
+
+1342628344 /usr/include/bits/sched.h
+
+1342628338 /usr/include/bits/setjmp.h
+	<bits/wordsize.h>
+
+1342628340 /usr/include/bits/libio-ldbl.h
+
+1342628340 /usr/include/bits/stdio_lim.h
+
+1342628340 /usr/include/bits/sys_errlist.h
+
+1342628344 /usr/include/getopt.h
+	<ctype.h>
+
+1342628337 /usr/include/ctype.h
+	<features.h>
+	<bits/types.h>
+	<endian.h>
+	<xlocale.h>
+
+1342628340 /usr/include/bits/stdio.h
+
+1342628340 /usr/include/bits/stdio2.h
+
+1342628340 /usr/include/bits/stdio-ldbl.h
+
+1353458644 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/Shapes.h
+	"WireCube.h"
+	"Disk.h"
+	"WireDisk.h"
+	"Cylinder.h"
+	"WireCylinder.h"
+	"WireSteiner.h"
+	"Steiner.h"
+	"Cube.h"
+
+1353458644 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/WireCube.h
+	"Angel.h"
+
+1353458644 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/Disk.h
+	"Angel.h"
+
+1353458644 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/WireDisk.h
+	"Angel.h"
+
+1353458644 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/Cylinder.h
+	"Angel.h"
+
+1353458644 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/WireCylinder.h
+	"Angel.h"
+
+1353458644 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/WireSteiner.h
+	"Angel.h"
+
+1353458644 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/Steiner.h
+	"Angel.h"
+
+1353458644 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/Cube.h
+	"Angel.h"
+
+1353458644 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/Globals.h
+	"MatrixStack.h"
+	"Shapes.h"
+
+1353458644 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/MatrixStack.h
+	<stack>
+	"Angel.h"
+
+1353458644 source:/home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/Cube.cpp
+	"Cube.h"
+	<iostream>
+
+1353458644 source:/home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/Cylinder.cpp
+	"Cylinder.h"
+	<iostream>
+
+1353458644 source:/home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/Disk.cpp
+	"Disk.h"
+	<iostream>
+
+1353458644 source:/home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/InitShader.cpp
+	"Angel.h"
+
+1353458644 source:/home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/MatrixStack.cpp
+	"MatrixStack.h"
+
+1353458644 source:/home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/Shapes.cpp
+	"Shapes.h"
+	"Globals.h"
+
+1353458644 source:/home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/Steiner.cpp
+	"Steiner.h"
+	<iostream>
+
+1353458644 source:/home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/WireCube.cpp
+	"WireCube.h"
+	<iostream>
+
+1353458644 source:/home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/WireCylinder.cpp
+	"WireCylinder.h"
+	<iostream>
+
+1353458644 source:/home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/WireDisk .cpp
+	"WireDisk.h"
+	<iostream>
+
+1353458644 source:/home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/WireSteiner.cpp
+	"WireSteiner.h"
+	<iostream>
+
+1354065664 source:/home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/main.cpp
+	"Angel.h"
+	<iostream>
+	"FractalLandHeights.h"
+	"FractalLandShape.h"
+	"MatrixStack.h"
+	"Shapes.h"
+	"Car.h"
+
+1354064943 source:/home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/FractalLandHeights.cpp
+	"FractalLandHeights.h"
+
+1354063172 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/FractalLandHeights.h
+	<cmath>
+	<cstdlib>
+	<iostream>
+	<ctime>
+	"Angel.h"
+
+1354065786 source:/home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/FractalLandShape.cpp
+	"FractalLandShape.h"
+
+1354065487 /home/GONZAGA/rdraper/Desktop/LrdraperCarLightingProj/FractalLandShape.h
+	<cstdlib>
+	<iostream>
+	<ctime>
+	"Angel.h"
+	"FractalLandHeights.h"
+	<iostream>
+
+1354248617 source:/ada/rdraper/LrdraperCarLightingProj/Car.cpp
+	"Car.h"
+	"Shapes.h"
+	"Globals.h"
+
+1353458644 /ada/rdraper/LrdraperCarLightingProj/Car.h
+	"mat.h"
+
+1353458644 /ada/rdraper/LrdraperCarLightingProj/mat.h
+	"vec.h"
+	<cstdio>
+	<iostream>
+
+1353458644 /ada/rdraper/LrdraperCarLightingProj/vec.h
+	"Angel.h"
+
+1353458644 /ada/rdraper/LrdraperCarLightingProj/Angel.h
+	<cmath>
+	<iostream>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	"GL/glew.h"
+	<GL/freeglut.h>
+	<GL/freeglut_ext.h>
+	"vec.h"
+	"mat.h"
+	"CheckError.h"
+
+1353458644 /ada/rdraper/LrdraperCarLightingProj/CheckError.h
+	<stdio.h>
+	<GL/gl.h>
+
+1353458644 /ada/rdraper/LrdraperCarLightingProj/Shapes.h
+	"WireCube.h"
+	"Disk.h"
+	"WireDisk.h"
+	"Cylinder.h"
+	"WireCylinder.h"
+	"WireSteiner.h"
+	"Steiner.h"
+	"Cube.h"
+
+1353458644 /ada/rdraper/LrdraperCarLightingProj/WireCube.h
+	"Angel.h"
+
+1353458644 /ada/rdraper/LrdraperCarLightingProj/Disk.h
+	"Angel.h"
+
+1353458644 /ada/rdraper/LrdraperCarLightingProj/WireDisk.h
+	"Angel.h"
+
+1353458644 /ada/rdraper/LrdraperCarLightingProj/Cylinder.h
+	"Angel.h"
+
+1353458644 /ada/rdraper/LrdraperCarLightingProj/WireCylinder.h
+	"Angel.h"
+
+1353458644 /ada/rdraper/LrdraperCarLightingProj/WireSteiner.h
+	"Angel.h"
+
+1353458644 /ada/rdraper/LrdraperCarLightingProj/Steiner.h
+	"Angel.h"
+
+1353458644 /ada/rdraper/LrdraperCarLightingProj/Cube.h
+	"Angel.h"
+
+1353458644 /ada/rdraper/LrdraperCarLightingProj/Globals.h
+	"MatrixStack.h"
+	"Shapes.h"
+
+1353458644 /ada/rdraper/LrdraperCarLightingProj/MatrixStack.h
+	<stack>
+	"Angel.h"
+
+1353458644 source:/ada/rdraper/LrdraperCarLightingProj/Cube.cpp
+	"Cube.h"
+	<iostream>
+
+1353458644 source:/ada/rdraper/LrdraperCarLightingProj/Cylinder.cpp
+	"Cylinder.h"
+	<iostream>
+
+1353458644 source:/ada/rdraper/LrdraperCarLightingProj/Disk.cpp
+	"Disk.h"
+	<iostream>
+
+1354064943 source:/ada/rdraper/LrdraperCarLightingProj/FractalLandHeights.cpp
+	"FractalLandHeights.h"
+
+1354063172 /ada/rdraper/LrdraperCarLightingProj/FractalLandHeights.h
+	<cmath>
+	<cstdlib>
+	<iostream>
+	<ctime>
+	"Angel.h"
+
+1354065786 source:/ada/rdraper/LrdraperCarLightingProj/FractalLandShape.cpp
+	"FractalLandShape.h"
+
+1354065487 /ada/rdraper/LrdraperCarLightingProj/FractalLandShape.h
+	<cstdlib>
+	<iostream>
+	<ctime>
+	"Angel.h"
+	"FractalLandHeights.h"
+	<iostream>
+
+1353458644 source:/ada/rdraper/LrdraperCarLightingProj/InitShader.cpp
+	"Angel.h"
+
+1353458644 source:/ada/rdraper/LrdraperCarLightingProj/MatrixStack.cpp
+	"MatrixStack.h"
+
+1353458644 source:/ada/rdraper/LrdraperCarLightingProj/Shapes.cpp
+	"Shapes.h"
+	"Globals.h"
+
+1353458644 source:/ada/rdraper/LrdraperCarLightingProj/Steiner.cpp
+	"Steiner.h"
+	<iostream>
+
+1353458644 source:/ada/rdraper/LrdraperCarLightingProj/WireCube.cpp
+	"WireCube.h"
+	<iostream>
+
+1354420722 source:/ada/rdraper/LrdraperCarLightingProj/WireCylinder.cpp
+	"WireCylinder.h"
+	<iostream>
+
+1353458644 source:/ada/rdraper/LrdraperCarLightingProj/WireDisk .cpp
+	"WireDisk.h"
+	<iostream>
+
+1353458644 source:/ada/rdraper/LrdraperCarLightingProj/WireSteiner.cpp
+	"WireSteiner.h"
+	<iostream>
+
+1354483878 source:/ada/rdraper/LrdraperCarLightingProj/BBallCourt.cpp
+	"BBallCourt.h"
+	"Car.h"
+	"Shapes.h"
+	"Globals.h"
+
+1354481282 /ada/rdraper/LrdraperCarLightingProj/BBallCourt.h
+	"mat.h"
+
+1354484194 source:/ada/rdraper/LrdraperCarLightingProj/main.cpp
+	"Angel.h"
+	<iostream>
+	"FractalLandHeights.h"
+	"FractalLandShape.h"
+	"MatrixStack.h"
+	"Shapes.h"
+	"Car.h"
+	"BBallCourt.h"
+
+1354605467 source:/ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/BBallCourt.cpp
+	"BBallCourt.h"
+	"Car.h"
+	"Shapes.h"
+	"Globals.h"
+
+1354487832 /ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/BBallCourt.h
+	"mat.h"
+
+1354487832 /ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/mat.h
+	"vec.h"
+	<cstdio>
+	<iostream>
+
+1354487832 /ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/vec.h
+	"Angel.h"
+
+1354487832 /ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/Angel.h
+	<cmath>
+	<iostream>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	"GL/glew.h"
+	<GL/freeglut.h>
+	<GL/freeglut_ext.h>
+	"vec.h"
+	"mat.h"
+	"CheckError.h"
+
+1354487832 /ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/CheckError.h
+	<stdio.h>
+	<GL/gl.h>
+
+1354487832 /ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/Car.h
+	"mat.h"
+
+1354487832 /ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/Shapes.h
+	"WireCube.h"
+	"Disk.h"
+	"WireDisk.h"
+	"Cylinder.h"
+	"WireCylinder.h"
+	"WireSteiner.h"
+	"Steiner.h"
+	"Cube.h"
+
+1354487832 /ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/WireCube.h
+	"Angel.h"
+
+1354487832 /ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/Disk.h
+	"Angel.h"
+
+1354487832 /ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/WireDisk.h
+	"Angel.h"
+
+1354487832 /ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/Cylinder.h
+	"Angel.h"
+
+1354487832 /ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/WireCylinder.h
+	"Angel.h"
+
+1354487832 /ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/WireSteiner.h
+	"Angel.h"
+
+1354487832 /ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/Steiner.h
+	"Angel.h"
+
+1354487832 /ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/Cube.h
+	"Angel.h"
+
+1354487832 /ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/Globals.h
+	"MatrixStack.h"
+	"Shapes.h"
+
+1354487832 /ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/MatrixStack.h
+	<stack>
+	"Angel.h"
+
+1354487832 source:/ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/Car.cpp
+	"Car.h"
+	"Shapes.h"
+	"Globals.h"
+
+1354571244 source:/ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/Cube.cpp
+	"Cube.h"
+	<iostream>
+
+1354583986 source:/ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/Cylinder.cpp
+	"Cylinder.h"
+	<iostream>
+
+1354487832 source:/ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/Disk.cpp
+	"Disk.h"
+	<iostream>
+
+1354487832 source:/ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/FractalLandHeights.cpp
+	"FractalLandHeights.h"
+
+1354487832 /ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/FractalLandHeights.h
+	<cmath>
+	<cstdlib>
+	<iostream>
+	<ctime>
+	"Angel.h"
+
+1354487832 source:/ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/FractalLandShape.cpp
+	"FractalLandShape.h"
+
+1354487832 /ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/FractalLandShape.h
+	<cstdlib>
+	<iostream>
+	<ctime>
+	"Angel.h"
+	"FractalLandHeights.h"
+	<iostream>
+
+1354487832 source:/ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/InitShader.cpp
+	"Angel.h"
+
+1354487832 source:/ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/MatrixStack.cpp
+	"MatrixStack.h"
+
+1354487832 source:/ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/Shapes.cpp
+	"Shapes.h"
+	"Globals.h"
+
+1354487832 source:/ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/Steiner.cpp
+	"Steiner.h"
+	<iostream>
+
+1354487832 source:/ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/WireCube.cpp
+	"WireCube.h"
+	<iostream>
+
+1354487832 source:/ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/WireCylinder.cpp
+	"WireCylinder.h"
+	<iostream>
+
+1354487832 source:/ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/WireDisk .cpp
+	"WireDisk.h"
+	<iostream>
+
+1354487832 source:/ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/WireSteiner.cpp
+	"WireSteiner.h"
+	<iostream>
+
+1354605927 source:/ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/main.cpp
+	"Angel.h"
+	<iostream>
+	"MatrixStack.h"
+	"Shapes.h"
+	"BBallCourt.h"
+	"Basketball.h"
+	"ScoreBoard.h"
+	"ZagShooter.h"
+	<cmath>
+
+1354583927 source:/ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/Basketball.cpp
+	"Basketball.h"
+	"Globals.h"
+
+1354583599 /ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/Basketball.h
+	"Core.h"
+	"Channels.h"
+
+1354583405 /ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/Core.h
+	"Angel.h"
+
+1354417838 /ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/Channels.h
+	"Angel.h"
+
+1354583884 source:/ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/Core.cpp
+	"Core.h"
+	<iostream>
+
+1354583951 source:/ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/Channels.cpp
+	"Channels.h"
+	<iostream>
+
+1354602168 source:/ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/Game.cpp
+	"Game.h"
+	"Globals.h"
+
+1354601748 /ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/Game.h
+	"Angel.h"
+
+1354597865 source:/ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/ScoreBoard.cpp
+	"ScoreBoard.h"
+	"Shapes.h"
+	"Globals.h"
+
+1354597846 /ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/ScoreBoard.h
+	"mat.h"
+
+1354606193 source:/ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/ZagShooter.cpp
+	"ZagShooter.h"
+	"Globals.h"
+	<iostream>
+
+1354605967 /ada/jhaddock2/documents/classwork/Graphics/RyanBasketball/ZagShooter.h
+	"Angel.h"
+	"ScoreBoard.h"
+
+1354609964 source:/ada/rdraper/RyanBasketball/BBallCourt.cpp
+	"BBallCourt.h"
+	"Car.h"
+	"Shapes.h"
+	"Globals.h"
+
+1354612416 /ada/rdraper/RyanBasketball/BBallCourt.h
+	"mat.h"
+
+1354607927 /ada/rdraper/RyanBasketball/mat.h
+	"vec.h"
+	<cstdio>
+	<iostream>
+
+1354607927 /ada/rdraper/RyanBasketball/vec.h
+	"Angel.h"
+
+1354607927 /ada/rdraper/RyanBasketball/Angel.h
+	<cmath>
+	<iostream>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	"GL/glew.h"
+	<GL/freeglut.h>
+	<GL/freeglut_ext.h>
+	"vec.h"
+	"mat.h"
+	"CheckError.h"
+
+1354607927 /ada/rdraper/RyanBasketball/CheckError.h
+	<stdio.h>
+	<GL/gl.h>
+
+1354607927 /ada/rdraper/RyanBasketball/Car.h
+	"mat.h"
+
+1354607927 /ada/rdraper/RyanBasketball/Shapes.h
+	"WireCube.h"
+	"Disk.h"
+	"WireDisk.h"
+	"Cylinder.h"
+	"WireCylinder.h"
+	"WireSteiner.h"
+	"Steiner.h"
+	"Cube.h"
+
+1354607927 /ada/rdraper/RyanBasketball/WireCube.h
+	"Angel.h"
+
+1354607927 /ada/rdraper/RyanBasketball/Disk.h
+	"Angel.h"
+
+1354607927 /ada/rdraper/RyanBasketball/WireDisk.h
+	"Angel.h"
+
+1354607927 /ada/rdraper/RyanBasketball/Cylinder.h
+	"Angel.h"
+
+1354607927 /ada/rdraper/RyanBasketball/WireCylinder.h
+	"Angel.h"
+
+1354607927 /ada/rdraper/RyanBasketball/WireSteiner.h
+	"Angel.h"
+
+1354607927 /ada/rdraper/RyanBasketball/Steiner.h
+	"Angel.h"
+
+1354607927 /ada/rdraper/RyanBasketball/Cube.h
+	"Angel.h"
+
+1354607927 /ada/rdraper/RyanBasketball/Globals.h
+	"MatrixStack.h"
+	"Shapes.h"
+
+1354607927 /ada/rdraper/RyanBasketball/MatrixStack.h
+	<stack>
+	"Angel.h"
+
+1354607927 source:/ada/rdraper/RyanBasketball/Basketball.cpp
+	"Basketball.h"
+	"Globals.h"
+
+1354607927 /ada/rdraper/RyanBasketball/Basketball.h
+	"Core.h"
+	"Channels.h"
+
+1354607927 /ada/rdraper/RyanBasketball/Core.h
+	"Angel.h"
+
+1354607927 /ada/rdraper/RyanBasketball/Channels.h
+	"Angel.h"
+
+1354607927 source:/ada/rdraper/RyanBasketball/Car.cpp
+	"Car.h"
+	"Shapes.h"
+	"Globals.h"
+
+1354607927 source:/ada/rdraper/RyanBasketball/Channels.cpp
+	"Channels.h"
+	<iostream>
+
+1354607927 source:/ada/rdraper/RyanBasketball/Core.cpp
+	"Core.h"
+	<iostream>
+
+1354607927 source:/ada/rdraper/RyanBasketball/Cube.cpp
+	"Cube.h"
+	<iostream>
+
+1354607927 source:/ada/rdraper/RyanBasketball/Cylinder.cpp
+	"Cylinder.h"
+	<iostream>
+
+1354607927 source:/ada/rdraper/RyanBasketball/Disk.cpp
+	"Disk.h"
+	<iostream>
+
+1354607927 source:/ada/rdraper/RyanBasketball/FractalLandHeights.cpp
+	"FractalLandHeights.h"
+
+1354607927 /ada/rdraper/RyanBasketball/FractalLandHeights.h
+	<cmath>
+	<cstdlib>
+	<iostream>
+	<ctime>
+	"Angel.h"
+
+1354607927 source:/ada/rdraper/RyanBasketball/FractalLandShape.cpp
+	"FractalLandShape.h"
+
+1354607927 /ada/rdraper/RyanBasketball/FractalLandShape.h
+	<cstdlib>
+	<iostream>
+	<ctime>
+	"Angel.h"
+	"FractalLandHeights.h"
+	<iostream>
+
+1354607927 source:/ada/rdraper/RyanBasketball/InitShader.cpp
+	"Angel.h"
+
+1354607927 source:/ada/rdraper/RyanBasketball/MatrixStack.cpp
+	"MatrixStack.h"
+
+1354608981 source:/ada/rdraper/RyanBasketball/ScoreBoard.cpp
+	"ScoreBoard.h"
+	"Shapes.h"
+	"Globals.h"
+
+1354612557 /ada/rdraper/RyanBasketball/ScoreBoard.h
+	"mat.h"
+
+1354607927 source:/ada/rdraper/RyanBasketball/Shapes.cpp
+	"Shapes.h"
+	"Globals.h"
+
+1354607927 source:/ada/rdraper/RyanBasketball/Steiner.cpp
+	"Steiner.h"
+	<iostream>
+
+1354607927 source:/ada/rdraper/RyanBasketball/WireCube.cpp
+	"WireCube.h"
+	<iostream>
+
+1354607927 source:/ada/rdraper/RyanBasketball/WireCylinder.cpp
+	"WireCylinder.h"
+	<iostream>
+
+1354607927 source:/ada/rdraper/RyanBasketball/WireDisk .cpp
+	"WireDisk.h"
+	<iostream>
+
+1354607927 source:/ada/rdraper/RyanBasketball/WireSteiner.cpp
+	"WireSteiner.h"
+	<iostream>
+
+1354610469 source:/ada/rdraper/RyanBasketball/main.cpp
+	"Angel.h"
+	<iostream>
+	"MatrixStack.h"
+	"Shapes.h"
+	"BBallCourt.h"
+	"Basketball.h"
+	"ScoreBoard.h"
+	<cmath>
+
+1354660195 source:/ada/rdraper/Lrdraperjhaddock2FinalProj/BBallCourt.cpp
+	"BBallCourt.h"
+	"Shapes.h"
+	"Globals.h"
+
+1354660210 /ada/rdraper/Lrdraperjhaddock2FinalProj/BBallCourt.h
+	"mat.h"
+
+1354649641 /ada/rdraper/Lrdraperjhaddock2FinalProj/mat.h
+	"vec.h"
+	<cstdio>
+	<iostream>
+
+1354649641 /ada/rdraper/Lrdraperjhaddock2FinalProj/vec.h
+	"Angel.h"
+
+1354649641 /ada/rdraper/Lrdraperjhaddock2FinalProj/Angel.h
+	<cmath>
+	<iostream>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	"GL/glew.h"
+	<GL/freeglut.h>
+	<GL/freeglut_ext.h>
+	"vec.h"
+	"mat.h"
+	"CheckError.h"
+
+1354649641 /ada/rdraper/Lrdraperjhaddock2FinalProj/CheckError.h
+	<stdio.h>
+	<GL/gl.h>
+
+1354607927 /ada/rdraper/Lrdraperjhaddock2FinalProj/Car.h
+	"mat.h"
+
+1354649641 /ada/rdraper/Lrdraperjhaddock2FinalProj/Shapes.h
+	"WireCube.h"
+	"Disk.h"
+	"WireDisk.h"
+	"Cylinder.h"
+	"WireCylinder.h"
+	"WireSteiner.h"
+	"Steiner.h"
+	"Cube.h"
+
+1354649641 /ada/rdraper/Lrdraperjhaddock2FinalProj/WireCube.h
+	"Angel.h"
+
+1354649641 /ada/rdraper/Lrdraperjhaddock2FinalProj/Disk.h
+	"Angel.h"
+
+1354649641 /ada/rdraper/Lrdraperjhaddock2FinalProj/WireDisk.h
+	"Angel.h"
+
+1354649641 /ada/rdraper/Lrdraperjhaddock2FinalProj/Cylinder.h
+	"Angel.h"
+
+1354649641 /ada/rdraper/Lrdraperjhaddock2FinalProj/WireCylinder.h
+	"Angel.h"
+
+1354649641 /ada/rdraper/Lrdraperjhaddock2FinalProj/WireSteiner.h
+	"Angel.h"
+
+1354649641 /ada/rdraper/Lrdraperjhaddock2FinalProj/Steiner.h
+	"Angel.h"
+
+1354649641 /ada/rdraper/Lrdraperjhaddock2FinalProj/Cube.h
+	"Angel.h"
+
+1354649641 /ada/rdraper/Lrdraperjhaddock2FinalProj/Globals.h
+	"MatrixStack.h"
+	"Shapes.h"
+
+1354649641 /ada/rdraper/Lrdraperjhaddock2FinalProj/MatrixStack.h
+	<stack>
+	"Angel.h"
+
+1354649641 source:/ada/rdraper/Lrdraperjhaddock2FinalProj/Basketball.cpp
+	"Basketball.h"
+	"Globals.h"
+
+1354649641 /ada/rdraper/Lrdraperjhaddock2FinalProj/Basketball.h
+	"Core.h"
+	"Channels.h"
+
+1354649641 /ada/rdraper/Lrdraperjhaddock2FinalProj/Core.h
+	"Angel.h"
+
+1354649641 /ada/rdraper/Lrdraperjhaddock2FinalProj/Channels.h
+	"Angel.h"
+
+1354607927 source:/ada/rdraper/Lrdraperjhaddock2FinalProj/Car.cpp
+	"Car.h"
+	"Shapes.h"
+	"Globals.h"
+
+1354649641 source:/ada/rdraper/Lrdraperjhaddock2FinalProj/Channels.cpp
+	"Channels.h"
+	<iostream>
+
+1354649641 source:/ada/rdraper/Lrdraperjhaddock2FinalProj/Core.cpp
+	"Core.h"
+	<iostream>
+
+1354649641 source:/ada/rdraper/Lrdraperjhaddock2FinalProj/Cube.cpp
+	"Cube.h"
+	<iostream>
+
+1354649641 source:/ada/rdraper/Lrdraperjhaddock2FinalProj/Cylinder.cpp
+	"Cylinder.h"
+	<iostream>
+
+1354649641 source:/ada/rdraper/Lrdraperjhaddock2FinalProj/Disk.cpp
+	"Disk.h"
+	<iostream>
+
+1354654425 source:/ada/rdraper/Lrdraperjhaddock2FinalProj/FractalLandHeights.cpp
+	"FractalLandHeights.h"
+
+1354063172 /ada/rdraper/Lrdraperjhaddock2FinalProj/FractalLandHeights.h
+	<cmath>
+	<cstdlib>
+	<iostream>
+	<ctime>
+	"Angel.h"
+
+1354065786 source:/ada/rdraper/Lrdraperjhaddock2FinalProj/FractalLandShape.cpp
+	"FractalLandShape.h"
+
+1354065487 /ada/rdraper/Lrdraperjhaddock2FinalProj/FractalLandShape.h
+	<cstdlib>
+	<iostream>
+	<ctime>
+	"Angel.h"
+	"FractalLandHeights.h"
+	<iostream>
+
+1354649641 source:/ada/rdraper/Lrdraperjhaddock2FinalProj/InitShader.cpp
+	"Angel.h"
+
+1354649641 source:/ada/rdraper/Lrdraperjhaddock2FinalProj/MatrixStack.cpp
+	"MatrixStack.h"
+
+1354653433 source:/ada/rdraper/Lrdraperjhaddock2FinalProj/ScoreBoard.cpp
+	"ScoreBoard.h"
+	"Shapes.h"
+	"Globals.h"
+
+1354649641 /ada/rdraper/Lrdraperjhaddock2FinalProj/ScoreBoard.h
+	"mat.h"
+
+1354649641 source:/ada/rdraper/Lrdraperjhaddock2FinalProj/Shapes.cpp
+	"Shapes.h"
+	"Globals.h"
+
+1354649641 source:/ada/rdraper/Lrdraperjhaddock2FinalProj/Steiner.cpp
+	"Steiner.h"
+	<iostream>
+
+1354649641 source:/ada/rdraper/Lrdraperjhaddock2FinalProj/WireCube.cpp
+	"WireCube.h"
+	<iostream>
+
+1354649641 source:/ada/rdraper/Lrdraperjhaddock2FinalProj/WireCylinder.cpp
+	"WireCylinder.h"
+	<iostream>
+
+1354649641 source:/ada/rdraper/Lrdraperjhaddock2FinalProj/WireDisk .cpp
+	"WireDisk.h"
+	<iostream>
+
+1354649641 source:/ada/rdraper/Lrdraperjhaddock2FinalProj/WireSteiner.cpp
+	"WireSteiner.h"
+	<iostream>
+
+1354670004 source:/ada/rdraper/Lrdraperjhaddock2FinalProj/main.cpp
+	"Angel.h"
+	<iostream>
+	"MatrixStack.h"
+	"Shapes.h"
+	"BBallCourt.h"
+	"Basketball.h"
+	"ScoreBoard.h"
+	"FractalLandHeights.h"
+	"FractalLandShape.h"
+	<cmath>
+
+1354647241 source:/ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/BBallCourt.cpp
+	"BBallCourt.h"
+	"Shapes.h"
+	"Globals.h"
+
+1354645088 /ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/BBallCourt.h
+	"mat.h"
+
+1354641515 /ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/mat.h
+	"vec.h"
+	<cstdio>
+	<iostream>
+
+1354638633 /ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/vec.h
+	"Angel.h"
+
+1354638633 /ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/Angel.h
+	<cmath>
+	<iostream>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	"GL/glew.h"
+	<GL/freeglut.h>
+	<GL/freeglut_ext.h>
+	"vec.h"
+	"mat.h"
+	"CheckError.h"
+
+1354638633 /ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/CheckError.h
+	<stdio.h>
+	<GL/gl.h>
+
+1354638633 /ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/Car.h
+	"mat.h"
+
+1354638633 /ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/Shapes.h
+	"WireCube.h"
+	"Disk.h"
+	"WireDisk.h"
+	"Cylinder.h"
+	"WireCylinder.h"
+	"WireSteiner.h"
+	"Steiner.h"
+	"Cube.h"
+
+1354638633 /ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/WireCube.h
+	"Angel.h"
+
+1354638633 /ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/Disk.h
+	"Angel.h"
+
+1354638633 /ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/WireDisk.h
+	"Angel.h"
+
+1354638633 /ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/Cylinder.h
+	"Angel.h"
+
+1354638633 /ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/WireCylinder.h
+	"Angel.h"
+
+1354638633 /ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/WireSteiner.h
+	"Angel.h"
+
+1354638633 /ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/Steiner.h
+	"Angel.h"
+
+1354638633 /ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/Cube.h
+	"Angel.h"
+
+1354638633 /ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/Globals.h
+	"MatrixStack.h"
+	"Shapes.h"
+
+1354638633 /ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/MatrixStack.h
+	<stack>
+	"Angel.h"
+
+1354646584 source:/ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/Basketball.cpp
+	"Basketball.h"
+	"Globals.h"
+
+1354646451 /ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/Basketball.h
+	"Core.h"
+	"Channels.h"
+
+1354646833 /ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/Core.h
+	"Angel.h"
+
+1354647060 /ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/Channels.h
+	"Angel.h"
+
+1354638633 source:/ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/Car.cpp
+	"Car.h"
+	"Shapes.h"
+	"Globals.h"
+
+1354647038 source:/ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/Channels.cpp
+	"Channels.h"
+	<iostream>
+
+1354646763 source:/ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/Core.cpp
+	"Core.h"
+	<iostream>
+
+1354638633 source:/ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/Cube.cpp
+	"Cube.h"
+	<iostream>
+
+1354638633 source:/ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/Cylinder.cpp
+	"Cylinder.h"
+	<iostream>
+
+1354638633 source:/ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/Disk.cpp
+	"Disk.h"
+	<iostream>
+
+1354638633 source:/ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/FractalLandHeights.cpp
+	"FractalLandHeights.h"
+
+1354638633 /ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/FractalLandHeights.h
+	<cmath>
+	<cstdlib>
+	<iostream>
+	<ctime>
+	"Angel.h"
+
+1354638633 source:/ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/FractalLandShape.cpp
+	"FractalLandShape.h"
+
+1354638633 /ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/FractalLandShape.h
+	<cstdlib>
+	<iostream>
+	<ctime>
+	"Angel.h"
+	"FractalLandHeights.h"
+	<iostream>
+
+1354638633 source:/ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/InitShader.cpp
+	"Angel.h"
+
+1354638633 source:/ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/MatrixStack.cpp
+	"MatrixStack.h"
+
+1354647514 source:/ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/ScoreBoard.cpp
+	"ScoreBoard.h"
+	"Shapes.h"
+	"Globals.h"
+
+1354647512 /ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/ScoreBoard.h
+	"mat.h"
+
+1354638633 source:/ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/Shapes.cpp
+	"Shapes.h"
+	"Globals.h"
+
+1354638633 source:/ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/Steiner.cpp
+	"Steiner.h"
+	<iostream>
+
+1354638633 source:/ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/WireCube.cpp
+	"WireCube.h"
+	<iostream>
+
+1354638633 source:/ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/WireCylinder.cpp
+	"WireCylinder.h"
+	<iostream>
+
+1354638633 source:/ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/WireDisk .cpp
+	"WireDisk.h"
+	<iostream>
+
+1354638633 source:/ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/WireSteiner.cpp
+	"WireSteiner.h"
+	<iostream>
+
+1354645984 source:/ada/jhaddock2/documents/classwork/Graphics/Lrdraperjhaddock2FinalProj/main.cpp
+	"Angel.h"
+	<iostream>
+	"MatrixStack.h"
+	"Shapes.h"
+	"BBallCourt.h"
+	"Basketball.h"
+	"ScoreBoard.h"
+	<cmath>
+

@@ -1,0 +1,218 @@
+# depslib dependency file v1.0
+1347578738 source:/home/GONZAGA/rdraper/Desktop/RayTracing/GeometricObject.cpp
+	"Constants.h"
+	"GeometricObject.h"
+
+1347580572 /home/GONZAGA/rdraper/Desktop/RayTracing/Constants.h
+	<stdlib.h>
+	"RGBColor.h"
+
+1342628339 /usr/include/stdlib.h
+	<features.h>
+	<stddef.h>
+	<bits/waitflags.h>
+	<bits/waitstatus.h>
+	<xlocale.h>
+	<sys/types.h>
+	<alloca.h>
+	<bits/stdlib.h>
+	<bits/stdlib-ldbl.h>
+
+1342628327 /usr/include/features.h
+	<sys/cdefs.h>
+	<gnu/stubs.h>
+
+1342628345 /usr/include/sys/cdefs.h
+	<features.h>
+	<bits/wordsize.h>
+
+1342628339 /usr/include/bits/wordsize.h
+
+1342628327 /usr/include/gnu/stubs.h
+	<bits/wordsize.h>
+	<gnu/stubs-32.h>
+	<gnu/stubs-64.h>
+
+1342628362 /usr/include/gnu/stubs-64.h
+
+1342628344 /usr/include/bits/waitflags.h
+
+1342628344 /usr/include/bits/waitstatus.h
+	<endian.h>
+
+1342628341 /usr/include/endian.h
+	<features.h>
+	<bits/endian.h>
+	<bits/byteswap.h>
+
+1342628341 /usr/include/bits/endian.h
+
+1342628341 /usr/include/bits/byteswap.h
+	<bits/wordsize.h>
+
+1342628328 /usr/include/xlocale.h
+
+1342628344 /usr/include/sys/types.h
+	<features.h>
+	<bits/types.h>
+	<time.h>
+	<stddef.h>
+	<endian.h>
+	<sys/select.h>
+	<sys/sysmacros.h>
+	<bits/pthreadtypes.h>
+
+1342628344 /usr/include/bits/types.h
+	<features.h>
+	<bits/wordsize.h>
+	<bits/typesizes.h>
+
+1342628344 /usr/include/bits/typesizes.h
+
+1342628343 /usr/include/time.h
+	<features.h>
+	<stddef.h>
+	<bits/time.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<xlocale.h>
+
+1342628343 /usr/include/bits/time.h
+	<bits/types.h>
+	<bits/types.h>
+
+1342628345 /usr/include/sys/select.h
+	<features.h>
+	<bits/types.h>
+	<bits/select.h>
+	<bits/sigset.h>
+	<time.h>
+	<bits/time.h>
+
+1342628345 /usr/include/bits/select.h
+	<bits/wordsize.h>
+
+1342628339 /usr/include/bits/sigset.h
+
+1342628344 /usr/include/sys/sysmacros.h
+	<features.h>
+
+1342628344 /usr/include/bits/pthreadtypes.h
+	<bits/wordsize.h>
+
+1342628339 /usr/include/alloca.h
+	<features.h>
+	<stddef.h>
+
+1342628339 /usr/include/bits/stdlib.h
+
+1342628339 /usr/include/bits/stdlib-ldbl.h
+
+1347578738 /home/GONZAGA/rdraper/Desktop/RayTracing/RGBColor.h
+
+1347580572 /home/GONZAGA/rdraper/Desktop/RayTracing/GeometricObject.h
+	"RGBColor.h"
+	"Ray.h"
+	"ShadeRec.h"
+	"Constants.h"
+
+1347578738 /home/GONZAGA/rdraper/Desktop/RayTracing/Ray.h
+	"Vector3D.h"
+
+1347578738 /home/GONZAGA/rdraper/Desktop/RayTracing/Vector3D.h
+
+1347578738 /home/GONZAGA/rdraper/Desktop/RayTracing/ShadeRec.h
+	"Vector3D.h"
+	"RGBColor.h"
+
+1347578738 source:/home/GONZAGA/rdraper/Desktop/RayTracing/RGBColor.cpp
+	<math.h>
+	"RGBColor.h"
+
+1342628338 /usr/include/math.h
+	<features.h>
+	<bits/huge_val.h>
+	<bits/huge_valf.h>
+	<bits/huge_vall.h>
+	<bits/inf.h>
+	<bits/nan.h>
+	<bits/mathdef.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls.h>
+	<bits/mathinline.h>
+
+1342628338 /usr/include/bits/huge_val.h
+	<endian.h>
+
+1342628338 /usr/include/bits/huge_valf.h
+
+1342628338 /usr/include/bits/huge_vall.h
+
+1342628338 /usr/include/bits/inf.h
+
+1342628338 /usr/include/bits/nan.h
+	<endian.h>
+
+1342628338 /usr/include/bits/mathdef.h
+	<bits/wordsize.h>
+
+1342628338 /usr/include/bits/mathcalls.h
+
+1342628338 /usr/include/bits/mathinline.h
+	<bits/wordsize.h>
+
+1347578738 source:/home/GONZAGA/rdraper/Desktop/RayTracing/Ray.cpp
+	"Ray.h"
+
+1347581600 source:/home/GONZAGA/rdraper/Desktop/RayTracing/Sphere.cpp
+	"Sphere.h"
+	"math.h"
+
+1347578738 /home/GONZAGA/rdraper/Desktop/RayTracing/Sphere.h
+	"GeometricObject.h"
+	"Vector3D.h"
+
+1347578738 source:/ada/rdraper/cpsc_325/RayTracing/GeometricObject.cpp
+	"Constants.h"
+	"GeometricObject.h"
+
+1347580572 /ada/rdraper/cpsc_325/RayTracing/Constants.h
+	<stdlib.h>
+	"RGBColor.h"
+
+1347578738 /ada/rdraper/cpsc_325/RayTracing/RGBColor.h
+
+1347580572 /ada/rdraper/cpsc_325/RayTracing/GeometricObject.h
+	"RGBColor.h"
+	"Ray.h"
+	"ShadeRec.h"
+	"Constants.h"
+
+1347578738 /ada/rdraper/cpsc_325/RayTracing/Ray.h
+	"Vector3D.h"
+
+1347578738 /ada/rdraper/cpsc_325/RayTracing/Vector3D.h
+
+1347578738 /ada/rdraper/cpsc_325/RayTracing/ShadeRec.h
+	"Vector3D.h"
+	"RGBColor.h"
+
+1347578738 source:/ada/rdraper/cpsc_325/RayTracing/RGBColor.cpp
+	<math.h>
+	"RGBColor.h"
+
+1347578738 source:/ada/rdraper/cpsc_325/RayTracing/Ray.cpp
+	"Ray.h"
+
+1347581600 source:/ada/rdraper/cpsc_325/RayTracing/Sphere.cpp
+	"Sphere.h"
+	"math.h"
+
+1347578738 /ada/rdraper/cpsc_325/RayTracing/Sphere.h
+	"GeometricObject.h"
+	"Vector3D.h"
+

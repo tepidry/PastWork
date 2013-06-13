@@ -1,0 +1,26 @@
+C:\Users\Tsummers\Documents\Visual Studio 2010\Projects\routingalgorithm\RouterProject\RouterProject\bin\Debug\RouterProject.exe
+C:\Users\Tsummers\Documents\Visual Studio 2010\Projects\routingalgorithm\RouterProject\RouterProject\bin\Debug\RouterProject.pdb
+C:\Users\Tsummers\Documents\Visual Studio 2010\Projects\routingalgorithm\RouterProject\RouterProject\obj\x86\Debug\RouterProject.Properties.Resources.resources
+C:\Users\Tsummers\Documents\Visual Studio 2010\Projects\routingalgorithm\RouterProject\RouterProject\obj\x86\Debug\RouterProject.csproj.GenerateResource.Cache
+C:\Users\Tsummers\Documents\Visual Studio 2010\Projects\routingalgorithm\RouterProject\RouterProject\obj\x86\Debug\RouterProject.exe
+C:\Users\Tsummers\Documents\Visual Studio 2010\Projects\routingalgorithm\RouterProject\RouterProject\obj\x86\Debug\RouterProject.pdb
+C:\Users\Tsummers\Documents\Visual Studio 2010\Projects\routingalgorithm\RouterProject\RouterProject\obj\x86\Debug\RouterProject.csprojResolveAssemblyReference.cache
+C:\Users\Tsummers\Documents\Visual Studio 2010\Projects\routingalgorithm\RouterProject\RouterProject\obj\x86\Debug\RouterProject.Form1.resources
+C:\Users\rdraper\Desktop\Router Project\RouterProject\obj\x86\Debug\RouterProject.exe
+C:\Users\rdraper\Desktop\Router Project\RouterProject\obj\x86\Debug\RouterProject.pdb
+C:\Users\rdraper\Desktop\Router Project\RouterProject\bin\Debug\RouterProject.exe
+C:\Users\rdraper\Desktop\Router Project\RouterProject\bin\Debug\RouterProject.pdb
+C:\Users\rdraper\Desktop\Router Project\RouterProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rdraper\Desktop\Router Project\RouterProject\obj\x86\Debug\RouterProject.Form1.resources
+C:\Users\rdraper\Desktop\Router Project\RouterProject\obj\x86\Debug\RouterProject.Properties.Resources.resources
+C:\Users\rdraper\Desktop\Router Project\RouterProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rdraper\Desktop\Router Project\RouterProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\I Rape Penis\Desktop\Router Project\RouterProject\obj\x86\Debug\RouterProject.exe
+C:\Users\I Rape Penis\Desktop\Router Project\RouterProject\obj\x86\Debug\RouterProject.pdb
+C:\Users\I Rape Penis\Desktop\Router Project\RouterProject\bin\Debug\RouterProject.exe
+C:\Users\I Rape Penis\Desktop\Router Project\RouterProject\bin\Debug\RouterProject.pdb
+C:\Users\I Rape Penis\Desktop\Router Project\RouterProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\I Rape Penis\Desktop\Router Project\RouterProject\obj\x86\Debug\RouterProject.Form1.resources
+C:\Users\I Rape Penis\Desktop\Router Project\RouterProject\obj\x86\Debug\RouterProject.Properties.Resources.resources
+C:\Users\I Rape Penis\Desktop\Router Project\RouterProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\I Rape Penis\Desktop\Router Project\RouterProject\obj\x86\Debug\GenerateResource.write.1.tlog

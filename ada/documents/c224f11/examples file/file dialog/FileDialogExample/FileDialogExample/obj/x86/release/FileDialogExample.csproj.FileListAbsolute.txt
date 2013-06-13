@@ -1,0 +1,11 @@
+C:\Users\paul\Desktop\FileDialogExample\FileDialogExample\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\paul\Desktop\FileDialogExample\FileDialogExample\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\paul\Desktop\FileDialogExample\FileDialogExample\obj\x86\Release\FileDialogExample.Properties.Resources.resources
+C:\Users\paul\Desktop\FileDialogExample\FileDialogExample\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\paul\Desktop\FileDialogExample\FileDialogExample\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\paul\Desktop\FileDialogExample\FileDialogExample\bin\Release\FileDialogExample.exe
+C:\Users\paul\Desktop\FileDialogExample\FileDialogExample\bin\Release\FileDialogExample.pdb
+C:\Users\paul\Desktop\FileDialogExample\FileDialogExample\obj\x86\Release\FileDialogExample.exe
+C:\Users\paul\Desktop\FileDialogExample\FileDialogExample\obj\x86\Release\FileDialogExample.pdb
+C:\Users\Draper\Desktop\file dialog\FileDialogExample\FileDialogExample\obj\x86\Release\FileDialogExample.exe
+C:\Users\Draper\Desktop\file dialog\FileDialogExample\FileDialogExample\obj\x86\Release\FileDialogExample.pdb

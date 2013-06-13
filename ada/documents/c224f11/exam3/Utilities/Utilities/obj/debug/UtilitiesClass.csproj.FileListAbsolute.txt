@@ -1,0 +1,12 @@
+U:\documents\classwork\c224f11\asgn7\Utilities\Utilities\bin\Debug\UtilitiesClass.dll
+U:\documents\classwork\c224f11\asgn7\Utilities\Utilities\bin\Debug\UtilitiesClass.pdb
+U:\documents\classwork\c224f11\asgn7\Utilities\Utilities\obj\Debug\ResolveAssemblyReference.cache
+U:\documents\classwork\c224f11\asgn7\Utilities\Utilities\obj\Debug\UtilitiesClass.dll
+U:\documents\classwork\c224f11\asgn7\Utilities\Utilities\obj\Debug\UtilitiesClass.pdb
+C:\Users\Draper\Desktop\exam3\Utilities\Utilities\bin\Debug\UtilitiesClass.dll
+C:\Users\Draper\Desktop\exam3\Utilities\Utilities\bin\Debug\UtilitiesClass.pdb
+C:\Users\Draper\Desktop\exam3\Utilities\Utilities\bin\Debug\MyExceptions.dll
+C:\Users\Draper\Desktop\exam3\Utilities\Utilities\bin\Debug\MyExceptions.pdb
+C:\Users\Draper\Desktop\exam3\Utilities\Utilities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Draper\Desktop\exam3\Utilities\Utilities\obj\Debug\UtilitiesClass.dll
+C:\Users\Draper\Desktop\exam3\Utilities\Utilities\obj\Debug\UtilitiesClass.pdb

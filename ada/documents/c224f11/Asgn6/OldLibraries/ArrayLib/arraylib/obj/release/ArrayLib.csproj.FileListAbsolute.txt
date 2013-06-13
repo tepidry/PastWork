@@ -1,0 +1,14 @@
+C:\Users\TEMP\AppData\Local\Temporary Projects\ArrayLib\obj\Release\ResolveAssemblyReference.cache
+U:\documents\classwork\c224f11\ArrayLib\ArrayLib\obj\Release\ResolveAssemblyReference.cache
+U:\documents\classwork\c224f11\ArrayLib\ArrayLib\bin\Release\ArrayLib.dll
+U:\documents\classwork\c224f11\ArrayLib\ArrayLib\bin\Release\ArrayLib.pdb
+U:\documents\classwork\c224f11\ArrayLib\ArrayLib\bin\Release\MyExceptions.dll
+U:\documents\classwork\c224f11\ArrayLib\ArrayLib\bin\Release\MyExceptions.pdb
+U:\documents\classwork\c224f11\ArrayLib\ArrayLib\obj\Release\ArrayLib.dll
+U:\documents\classwork\c224f11\ArrayLib\ArrayLib\obj\Release\ArrayLib.pdb
+U:\documents\classwork\c224f11\Asgn6\OldLibraries\ArrayLib\ArrayLib\bin\Release\ArrayLib.dll
+U:\documents\classwork\c224f11\Asgn6\OldLibraries\ArrayLib\ArrayLib\bin\Release\ArrayLib.pdb
+U:\documents\classwork\c224f11\Asgn6\OldLibraries\ArrayLib\ArrayLib\bin\Release\MyExceptions.pdb
+U:\documents\classwork\c224f11\Asgn6\OldLibraries\ArrayLib\ArrayLib\obj\Release\ResolveAssemblyReference.cache
+U:\documents\classwork\c224f11\Asgn6\OldLibraries\ArrayLib\ArrayLib\obj\Release\ArrayLib.dll
+U:\documents\classwork\c224f11\Asgn6\OldLibraries\ArrayLib\ArrayLib\obj\Release\ArrayLib.pdb

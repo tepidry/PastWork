@@ -1,0 +1,9 @@
+
+public class TriangleUI {
+	public int a, b, c;
+	public triangle t = New triangle(int one, int two, int three){
+	}
+	
+
+
+}

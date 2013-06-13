@@ -1,0 +1,67 @@
+
+public class Triangle {
+	private int a,b,c;
+	public Triangle (int one, int two, int three){
+		a = one;
+		b = two;
+		c = three;
+	}
+	boolean aWithinRange(){
+		if (a <= 200 && a >= 1 && a < b + c)
+		{
+			return true;
+		} else {
+			return false;
+		}
+	}
+	public boolean bWithinRange(){
+		if (b <= 200 && b >= 1 && b < a + c)
+		{
+			return true;
+		} else {
+			return false;
+		}
+	} 
+	public boolean cWithinRange(){
+		if (c <= 200 && c >= 1 && c < b + a)
+		{
+			return true;
+		} else {
+			return false;
+		}
+	}
+	public boolean isEquilateral(){
+		if (a == b && b == c && c == a){
+			return true;
+		} else {
+			return false;
+		}
+	}
+	public boolean isIsosceles(){
+		if (a == b || b == c || c == a){
+			return true;
+		} else {
+			return false;
+		} 
+	}
+	public boolean isScalene(){
+		if (a != b && b != c && c != a){
+			return true;
+		} else {
+			return false;
+		}
+	}
+	public boolean isNotATriangle(){
+		if (!isScalene && !isIsosceles && !isEquilateral){
+			return true;
+		} else {
+			return false;
+		}
+	}
+
+
+}
+
+
+
+

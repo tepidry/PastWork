@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseEvents1", "MouseEvents1\MouseEvents1.csproj", "{F363B994-4029-4865-9B49-03F281E1FB6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F363B994-4029-4865-9B49-03F281E1FB6E}.Debug|x86.ActiveCfg = Debug|x86
+		{F363B994-4029-4865-9B49-03F281E1FB6E}.Debug|x86.Build.0 = Debug|x86
+		{F363B994-4029-4865-9B49-03F281E1FB6E}.Release|x86.ActiveCfg = Release|x86
+		{F363B994-4029-4865-9B49-03F281E1FB6E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

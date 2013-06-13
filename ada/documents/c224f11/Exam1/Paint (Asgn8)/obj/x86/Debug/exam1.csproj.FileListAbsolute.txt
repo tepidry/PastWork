@@ -1,0 +1,13 @@
+U:\documents\classwork\c224f11\Exam1\Paint (Asgn8)\bin\Debug\exam1.exe
+U:\documents\classwork\c224f11\Exam1\Paint (Asgn8)\bin\Debug\exam1.pdb
+U:\documents\classwork\c224f11\Exam1\Paint (Asgn8)\bin\Debug\Utilities.dll
+U:\documents\classwork\c224f11\Exam1\Paint (Asgn8)\bin\Debug\UtilitiesClass.dll
+U:\documents\classwork\c224f11\Exam1\Paint (Asgn8)\bin\Debug\Utilities.pdb
+U:\documents\classwork\c224f11\Exam1\Paint (Asgn8)\bin\Debug\UtilitiesClass.pdb
+U:\documents\classwork\c224f11\Exam1\Paint (Asgn8)\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\documents\classwork\c224f11\Exam1\Paint (Asgn8)\obj\x86\Debug\Paint__Asgn8_.Form1.resources
+U:\documents\classwork\c224f11\Exam1\Paint (Asgn8)\obj\x86\Debug\exam1.Properties.Resources.resources
+U:\documents\classwork\c224f11\Exam1\Paint (Asgn8)\obj\x86\Debug\GenerateResource.read.1.tlog
+U:\documents\classwork\c224f11\Exam1\Paint (Asgn8)\obj\x86\Debug\GenerateResource.write.1.tlog
+U:\documents\classwork\c224f11\Exam1\Paint (Asgn8)\obj\x86\Debug\exam1.exe
+U:\documents\classwork\c224f11\Exam1\Paint (Asgn8)\obj\x86\Debug\exam1.pdb

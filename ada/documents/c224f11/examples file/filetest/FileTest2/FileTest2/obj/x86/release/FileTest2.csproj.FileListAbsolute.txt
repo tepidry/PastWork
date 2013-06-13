@@ -1,0 +1,22 @@
+C:\Users\depalma\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\depalma\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Release\FileTest2.exe
+C:\Users\depalma\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Release\FileTest2.pdb
+C:\Users\depalma\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Release\FileTest2.exe
+C:\Users\depalma\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Release\FileTest2.pdb
+Z:\public_html\courses\cpsc224\examplesCSharp\FileTest2\FileTest2\obj\x86\Release\FileTest2.exe
+Z:\public_html\courses\cpsc224\examplesCSharp\FileTest2\FileTest2\obj\x86\Release\FileTest2.pdb
+C:\Users\paul\Desktop\FileTest2\FileTest2\obj\x86\Release\FileTest2.exe
+C:\Users\paul\Desktop\FileTest2\FileTest2\obj\x86\Release\FileTest2.pdb
+C:\Users\paul\Desktop\FileTest2\FileTest2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\paul\Desktop\FileTest2\FileTest2\bin\Release\FileTest2.exe
+C:\Users\paul\Desktop\FileTest2\FileTest2\bin\Release\FileTest2.pdb
+C:\Users\paul\Desktop\FileExamples\FileTest2\FileTest2\obj\x86\Release\FileTest2.exe
+C:\Users\paul\Desktop\FileExamples\FileTest2\FileTest2\obj\x86\Release\FileTest2.pdb
+C:\Users\paul\Desktop\FileExamples\FileTest2\FileTest2\bin\Release\FileTest2.exe
+C:\Users\paul\Desktop\FileExamples\FileTest2\FileTest2\bin\Release\FileTest2.pdb
+C:\Users\paul\Desktop\FileExamples\FileTest2\FileTest2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Draper\Desktop\filetest\FileTest2\FileTest2\obj\x86\Release\FileTest2.exe
+C:\Users\Draper\Desktop\filetest\FileTest2\FileTest2\obj\x86\Release\FileTest2.pdb
+C:\Users\Draper\Desktop\filetest\FileTest2\FileTest2\bin\Release\FileTest2.exe
+C:\Users\Draper\Desktop\filetest\FileTest2\FileTest2\bin\Release\FileTest2.pdb
+C:\Users\Draper\Desktop\filetest\FileTest2\FileTest2\obj\x86\Release\ResolveAssemblyReference.cache

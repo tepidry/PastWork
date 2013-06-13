@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animal", "c:\users\draper\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\Animal.csproj", "{C3E45FB7-6877-45D6-A521-8321C39EC809}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3E45FB7-6877-45D6-A521-8321C39EC809}.Debug|x86.ActiveCfg = Debug|x86
+		{C3E45FB7-6877-45D6-A521-8321C39EC809}.Debug|x86.Build.0 = Debug|x86
+		{C3E45FB7-6877-45D6-A521-8321C39EC809}.Release|x86.ActiveCfg = Release|x86
+		{C3E45FB7-6877-45D6-A521-8321C39EC809}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

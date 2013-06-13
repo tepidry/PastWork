@@ -1,0 +1,9 @@
+U:\documents\classwork\c224f11\asgn1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+U:\documents\classwork\c224f11\asgn1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+U:\documents\classwork\c224f11\asgn1\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\documents\classwork\c224f11\asgn1\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.asgn1.resources
+U:\documents\classwork\c224f11\asgn1\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+U:\documents\classwork\c224f11\asgn1\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+U:\documents\classwork\c224f11\asgn1\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+U:\documents\classwork\c224f11\asgn1\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+U:\documents\classwork\c224f11\asgn1\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb

@@ -1,0 +1,10 @@
+C:\Users\TEMP\AppData\Local\Temporary Projects\MyContainers\obj\Debug\ResolveAssemblyReference.cache
+U:\documents\classwork\c224f11\MyContainer\MyContainers\MyContainers\bin\Debug\MyContainers.dll
+U:\documents\classwork\c224f11\MyContainer\MyContainers\MyContainers\bin\Debug\MyContainers.pdb
+U:\documents\classwork\c224f11\MyContainer\MyContainers\MyContainers\bin\Debug\arraylib.dll
+U:\documents\classwork\c224f11\MyContainer\MyContainers\MyContainers\bin\Debug\ListLibrary.dll
+U:\documents\classwork\c224f11\MyContainer\MyContainers\MyContainers\bin\Debug\arraylib.pdb
+U:\documents\classwork\c224f11\MyContainer\MyContainers\MyContainers\bin\Debug\ListLibrary.pdb
+U:\documents\classwork\c224f11\MyContainer\MyContainers\MyContainers\obj\Debug\ResolveAssemblyReference.cache
+U:\documents\classwork\c224f11\MyContainer\MyContainers\MyContainers\obj\Debug\MyContainers.dll
+U:\documents\classwork\c224f11\MyContainer\MyContainers\MyContainers\obj\Debug\MyContainers.pdb

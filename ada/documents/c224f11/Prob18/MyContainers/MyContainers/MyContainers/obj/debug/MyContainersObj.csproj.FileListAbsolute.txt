@@ -1,0 +1,9 @@
+U:\documents\classwork\c224f11\MyContainer\MyContainers\MyContainers\bin\Debug\MyContainersObj.dll
+U:\documents\classwork\c224f11\MyContainer\MyContainers\MyContainers\bin\Debug\MyContainersObj.pdb
+U:\documents\classwork\c224f11\MyContainer\MyContainers\MyContainers\bin\Debug\arraylib.dll
+U:\documents\classwork\c224f11\MyContainer\MyContainers\MyContainers\bin\Debug\ListLibrary.dll
+U:\documents\classwork\c224f11\MyContainer\MyContainers\MyContainers\bin\Debug\arraylib.pdb
+U:\documents\classwork\c224f11\MyContainer\MyContainers\MyContainers\bin\Debug\ListLibrary.pdb
+U:\documents\classwork\c224f11\MyContainer\MyContainers\MyContainers\obj\Debug\ResolveAssemblyReference.cache
+U:\documents\classwork\c224f11\MyContainer\MyContainers\MyContainers\obj\Debug\MyContainersObj.dll
+U:\documents\classwork\c224f11\MyContainer\MyContainers\MyContainers\obj\Debug\MyContainersObj.pdb

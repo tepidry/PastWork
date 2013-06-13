@@ -1,0 +1,44 @@
+//Description: testing classsVector3D fuctions
+#ifdef __APPLE__
+#include <GLUT/glut.h>
+#else
+#include <GL/glut.h>
+#endif
+
+#include "Vector3D.h"
+#include <stdlib.h>
+#include <iostream>
+
+using namespace std;
+
+int main(int argc, char *argv[])
+{
+    Vector3D w(1.0, 2.0, 0.0);
+    Vector3D v(2.0, 2.0, 2.0);
+    Vector3D u;
+
+    u = w + v;
+    cout << "w = " << w << endl;
+    cout << "v = " << v << endl;
+    cout << "w + v = " << u << endl;
+
+    cout << "w * 2 = " << w * 2 << endl;
+    cout << "w / 2 = " << w / 2 << endl;
+    cout << "w * 3 = " << 3 * w << endl;
+
+    w = Vector3D(3.0, 4.0, 0.0);
+    cout << "length of w = " << w.length() << endl;
+    cout << "length squared for w = " << w.len_squared() << endl;
+
+    w.normalize();
+    cout << "w after normalization" << w << endl;
+
+    u = v.hat();
+    cout << "normalized v is the vector = " << u << endl;
+    cout << "length of u = " << u.length() << endl;
+    cout << "hat";
+    cout << "dot product of (u - v) = " ;
+    cout << "cross product";
+
+    return EXIT_SUCCESS;
+}

@@ -1,0 +1,45 @@
+
+public class Triangle {
+	private int a,b,c;
+	public Triangle (int one, int two, int three){
+		a = one;
+		b = two;
+		c = three;
+	}
+	boolean aWithinRange(int a, int b, int c){
+		if (a <= 200 && a >= 1 && a < b + c)
+		{
+			return true;
+		
+		} else {
+			return false;
+		}
+	}
+	public boolean bWithinRange(int b){
+		
+	} 
+	public boolean cWithinRange(int c){
+		
+	}
+
+
+}
+
+public class Stock {
+	private int shares;
+	private String symbol;
+	public Stock(int theShares, String theSymbol) {
+	shares = theShares;
+	symbol = theSymbol;
+	}
+	public int calculateValue(int sharePrice) {
+	return sharePrice * shares;
+	}
+	public void sell(int amount) {
+	shares = shares - amount;
+	}
+	public String getSymbol() {
+	return symbol;
+	}
+	}
+

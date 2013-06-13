@@ -1,0 +1,440 @@
+# depslib dependency file v1.0
+1348010970 source:/home/GONZAGA/rdraper/Desktop/RayTracingSept18/Camera.cpp
+	"Camera.h"
+
+1348010970 /home/GONZAGA/rdraper/Desktop/RayTracingSept18/Camera.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Utilities/Vector3D.h"
+	"Utilities/Ray.h"
+
+1289562859 /usr/include/GL/glut.h
+	"freeglut_std.h"
+
+1289562859 /usr/include/GL/freeglut_std.h
+	<Windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1340376679 /usr/include/GL/gl.h
+	"gl_mangle.h"
+	<stdlib.h>
+	<windows.h>
+	<GL/mesa_wgl.h>
+	<GL/glext.h>
+
+1340376679 /usr/include/GL/gl_mangle.h
+
+1342628339 /usr/include/stdlib.h
+	<features.h>
+	<stddef.h>
+	<bits/waitflags.h>
+	<bits/waitstatus.h>
+	<xlocale.h>
+	<sys/types.h>
+	<alloca.h>
+	<bits/stdlib.h>
+	<bits/stdlib-ldbl.h>
+
+1342628327 /usr/include/features.h
+	<sys/cdefs.h>
+	<gnu/stubs.h>
+
+1342628345 /usr/include/sys/cdefs.h
+	<features.h>
+	<bits/wordsize.h>
+
+1342628339 /usr/include/bits/wordsize.h
+
+1342628327 /usr/include/gnu/stubs.h
+	<bits/wordsize.h>
+	<gnu/stubs-32.h>
+	<gnu/stubs-64.h>
+
+1342628362 /usr/include/gnu/stubs-64.h
+
+1342628344 /usr/include/bits/waitflags.h
+
+1342628344 /usr/include/bits/waitstatus.h
+	<endian.h>
+
+1342628341 /usr/include/endian.h
+	<features.h>
+	<bits/endian.h>
+	<bits/byteswap.h>
+
+1342628341 /usr/include/bits/endian.h
+
+1342628341 /usr/include/bits/byteswap.h
+	<bits/wordsize.h>
+
+1342628328 /usr/include/xlocale.h
+
+1342628344 /usr/include/sys/types.h
+	<features.h>
+	<bits/types.h>
+	<time.h>
+	<stddef.h>
+	<endian.h>
+	<sys/select.h>
+	<sys/sysmacros.h>
+	<bits/pthreadtypes.h>
+
+1342628344 /usr/include/bits/types.h
+	<features.h>
+	<bits/wordsize.h>
+	<bits/typesizes.h>
+
+1342628344 /usr/include/bits/typesizes.h
+
+1342628343 /usr/include/time.h
+	<features.h>
+	<stddef.h>
+	<bits/time.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<xlocale.h>
+
+1342628343 /usr/include/bits/time.h
+	<bits/types.h>
+	<bits/types.h>
+
+1342628345 /usr/include/sys/select.h
+	<features.h>
+	<bits/types.h>
+	<bits/select.h>
+	<bits/sigset.h>
+	<time.h>
+	<bits/time.h>
+
+1342628345 /usr/include/bits/select.h
+	<bits/wordsize.h>
+
+1342628339 /usr/include/bits/sigset.h
+
+1342628344 /usr/include/sys/sysmacros.h
+	<features.h>
+
+1342628344 /usr/include/bits/pthreadtypes.h
+	<bits/wordsize.h>
+
+1342628339 /usr/include/alloca.h
+	<features.h>
+	<stddef.h>
+
+1342628339 /usr/include/bits/stdlib.h
+
+1342628339 /usr/include/bits/stdlib-ldbl.h
+
+1340376679 /usr/include/GL/glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1342628339 /usr/include/inttypes.h
+	<features.h>
+	<stdint.h>
+	<stddef.h>
+
+1342628339 /usr/include/stdint.h
+	<features.h>
+	<bits/wchar.h>
+	<bits/wordsize.h>
+
+1342628341 /usr/include/bits/wchar.h
+
+1340376679 /usr/include/GL/glu.h
+	"glu_mangle.h"
+	<GL/gl.h>
+
+1340376679 /usr/include/GL/glu_mangle.h
+
+1348010970 /home/GONZAGA/rdraper/Desktop/RayTracingSept18/Utilities/Vector3D.h
+
+1348010970 /home/GONZAGA/rdraper/Desktop/RayTracingSept18/Utilities/Ray.h
+	"Vector3D.h"
+
+1348010970 source:/home/GONZAGA/rdraper/Desktop/RayTracingSept18/GeometricObject.cpp
+	"Utilities/Constants.h"
+	"Material.h"
+	"GeometricObject.h"
+
+1348010970 /home/GONZAGA/rdraper/Desktop/RayTracingSept18/Utilities/Constants.h
+	<stdlib.h>
+	"RGBColor.h"
+
+1348010970 /home/GONZAGA/rdraper/Desktop/RayTracingSept18/Utilities/RGBColor.h
+
+1348010970 /home/GONZAGA/rdraper/Desktop/RayTracingSept18/Material.h
+	"Utilities/RGBColor.h"
+
+1348010970 /home/GONZAGA/rdraper/Desktop/RayTracingSept18/GeometricObject.h
+	<math.h>
+	"Utilities/Constants.h"
+	"Utilities/RGBColor.h"
+	"Utilities/Vector3D.h"
+	"Utilities/Ray.h"
+	"Utilities/ShadeRec.h"
+
+1342628338 /usr/include/math.h
+	<features.h>
+	<bits/huge_val.h>
+	<bits/huge_valf.h>
+	<bits/huge_vall.h>
+	<bits/inf.h>
+	<bits/nan.h>
+	<bits/mathdef.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls.h>
+	<bits/mathinline.h>
+
+1342628338 /usr/include/bits/huge_val.h
+	<endian.h>
+
+1342628338 /usr/include/bits/huge_valf.h
+
+1342628338 /usr/include/bits/huge_vall.h
+
+1342628338 /usr/include/bits/inf.h
+
+1342628338 /usr/include/bits/nan.h
+	<endian.h>
+
+1342628338 /usr/include/bits/mathdef.h
+	<bits/wordsize.h>
+
+1342628338 /usr/include/bits/mathcalls.h
+
+1342628338 /usr/include/bits/mathinline.h
+	<bits/wordsize.h>
+
+1348010970 /home/GONZAGA/rdraper/Desktop/RayTracingSept18/Utilities/ShadeRec.h
+	"Ray.h"
+	"../Material.h"
+	"RGBColor.h"
+
+1348010970 source:/home/GONZAGA/rdraper/Desktop/RayTracingSept18/Material.cpp
+	"Material.h"
+
+1348010970 source:/home/GONZAGA/rdraper/Desktop/RayTracingSept18/PointLight.cpp
+	"PointLight.h"
+
+1348010970 /home/GONZAGA/rdraper/Desktop/RayTracingSept18/PointLight.h
+	"Utilities/Vector3D.h"
+	"Utilities/RGBColor.h"
+	"Utilities/ShadeRec.h"
+	"Utilities/Ray.h"
+
+1348186023 source:/home/GONZAGA/rdraper/Desktop/RayTracingSept18/RenderEngine.cpp
+	"RenderEngine.h"
+
+1348010970 /home/GONZAGA/rdraper/Desktop/RayTracingSept18/RenderEngine.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<vector>
+	"World.h"
+	"Utilities/Ray.h"
+	"Utilities/Vector3D.h"
+	"Utilities/RGBColor.h"
+	"Camera.h"
+	"PointLight.h"
+	"GeometricObject.h"
+	"Utilities/ShadeRec.h"
+
+1348010970 /home/GONZAGA/rdraper/Desktop/RayTracingSept18/World.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<vector>
+	"Utilities/RGBColor.h"
+	"GeometricObject.h"
+	"Utilities/Ray.h"
+	"Sphere.h"
+	"Camera.h"
+	"PointLight.h"
+
+1349154043 /home/GONZAGA/rdraper/Desktop/RayTracingSept18/Sphere.h
+	"GeometricObject.h"
+
+1349153980 source:/home/GONZAGA/rdraper/Desktop/RayTracingSept18/Sphere.cpp
+	"Sphere.h"
+	"math.h"
+
+1349167560 source:/home/GONZAGA/rdraper/Desktop/RayTracingSept18/World.cpp
+	"Sphere.h"
+	"Plane.h"
+	"Box.h"
+	"Utilities/Constants.h"
+	"Utilities/Ray.h"
+	"Utilities/Vector3D.h"
+	"Utilities/ShadeRec.h"
+	"Material.h"
+	"World.h"
+
+1348010970 source:/home/GONZAGA/rdraper/Desktop/RayTracingSept18/main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	"Camera.h"
+	"World.h"
+	"RenderEngine.h"
+
+1348010970 source:/home/GONZAGA/rdraper/Desktop/RayTracingSept18/Utilities/RGBColor.cpp
+	<math.h>
+	"RGBColor.h"
+
+1348010970 source:/home/GONZAGA/rdraper/Desktop/RayTracingSept18/Utilities/Ray.cpp
+	"Ray.h"
+
+1348010970 source:/home/GONZAGA/rdraper/Desktop/RayTracingSept18/Utilities/ShadeRec.cpp
+	"Constants.h"
+	"ShadeRec.h"
+
+1348010970 source:/home/GONZAGA/rdraper/Desktop/RayTracingSept18/Utilities/Vector3D.cpp
+	<cmath>
+	"Vector3D.h"
+
+1348010970 source:/home/GONZAGA/rdraper/RayTracingSept18/Camera.cpp
+	"Camera.h"
+
+1348010970 /home/GONZAGA/rdraper/RayTracingSept18/Camera.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Utilities/Vector3D.h"
+	"Utilities/Ray.h"
+
+1348010970 /home/GONZAGA/rdraper/RayTracingSept18/Utilities/Vector3D.h
+
+1348010970 /home/GONZAGA/rdraper/RayTracingSept18/Utilities/Ray.h
+	"Vector3D.h"
+
+1348010970 source:/home/GONZAGA/rdraper/RayTracingSept18/GeometricObject.cpp
+	"Utilities/Constants.h"
+	"Material.h"
+	"GeometricObject.h"
+
+1348010970 /home/GONZAGA/rdraper/RayTracingSept18/Utilities/Constants.h
+	<stdlib.h>
+	"RGBColor.h"
+
+1348010970 /home/GONZAGA/rdraper/RayTracingSept18/Utilities/RGBColor.h
+
+1348010970 /home/GONZAGA/rdraper/RayTracingSept18/Material.h
+	"Utilities/RGBColor.h"
+
+1348010970 /home/GONZAGA/rdraper/RayTracingSept18/GeometricObject.h
+	<math.h>
+	"Utilities/Constants.h"
+	"Utilities/RGBColor.h"
+	"Utilities/Vector3D.h"
+	"Utilities/Ray.h"
+	"Utilities/ShadeRec.h"
+
+1348010970 /home/GONZAGA/rdraper/RayTracingSept18/Utilities/ShadeRec.h
+	"Ray.h"
+	"../Material.h"
+	"RGBColor.h"
+
+1348010970 source:/home/GONZAGA/rdraper/RayTracingSept18/Material.cpp
+	"Material.h"
+
+1348010970 source:/home/GONZAGA/rdraper/RayTracingSept18/PointLight.cpp
+	"PointLight.h"
+
+1348010970 /home/GONZAGA/rdraper/RayTracingSept18/PointLight.h
+	"Utilities/Vector3D.h"
+	"Utilities/RGBColor.h"
+	"Utilities/ShadeRec.h"
+	"Utilities/Ray.h"
+
+1348186023 source:/home/GONZAGA/rdraper/RayTracingSept18/RenderEngine.cpp
+	"RenderEngine.h"
+
+1348010970 /home/GONZAGA/rdraper/RayTracingSept18/RenderEngine.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<vector>
+	"World.h"
+	"Utilities/Ray.h"
+	"Utilities/Vector3D.h"
+	"Utilities/RGBColor.h"
+	"Camera.h"
+	"PointLight.h"
+	"GeometricObject.h"
+	"Utilities/ShadeRec.h"
+
+1348010970 /home/GONZAGA/rdraper/RayTracingSept18/World.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<vector>
+	"Utilities/RGBColor.h"
+	"GeometricObject.h"
+	"Utilities/Ray.h"
+	"Sphere.h"
+	"Camera.h"
+	"PointLight.h"
+
+1348010970 /home/GONZAGA/rdraper/RayTracingSept18/Sphere.h
+	"GeometricObject.h"
+
+1348010970 source:/home/GONZAGA/rdraper/RayTracingSept18/Sphere.cpp
+	"Sphere.h"
+	"math.h"
+
+1348010970 source:/home/GONZAGA/rdraper/RayTracingSept18/Utilities/RGBColor.cpp
+	<math.h>
+	"RGBColor.h"
+
+1348010970 source:/home/GONZAGA/rdraper/RayTracingSept18/Utilities/Ray.cpp
+	"Ray.h"
+
+1348010970 source:/home/GONZAGA/rdraper/RayTracingSept18/Utilities/ShadeRec.cpp
+	"Constants.h"
+	"ShadeRec.h"
+
+1348010970 source:/home/GONZAGA/rdraper/RayTracingSept18/Utilities/Vector3D.cpp
+	<cmath>
+	"Vector3D.h"
+
+1348186932 source:/home/GONZAGA/rdraper/RayTracingSept18/World.cpp
+	"Sphere.h"
+	"Utilities/Constants.h"
+	"Utilities/Ray.h"
+	"Utilities/Vector3D.h"
+	"Utilities/ShadeRec.h"
+	"Material.h"
+	"World.h"
+
+1348010970 source:/home/GONZAGA/rdraper/RayTracingSept18/main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	"Camera.h"
+	"World.h"
+	"RenderEngine.h"
+
+1349151930 source:/home/GONZAGA/rdraper/Desktop/RayTracingSept18/Plane.cpp
+	"Plane.h"
+	"math.h"
+
+1349157869 /home/GONZAGA/rdraper/Desktop/RayTracingSept18/Plane.h
+	"GeometricObject.h"
+
+1349166732 /home/GONZAGA/rdraper/Desktop/RayTracingSept18/Box.h
+	"Plane.h"
+	"GeometricObject.h"
+
+1349167470 source:/home/GONZAGA/rdraper/Desktop/RayTracingSept18/Box.cpp
+	"Box.h"
+	"math.h"
+	<iostream>
+
